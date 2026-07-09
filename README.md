@@ -9,25 +9,26 @@
   <a href="https://github.com/theraihanrakibb"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a>
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Location-Xi'an,%20China-25D366?style=flat-square&logo=googlemaps&logoColor=white" />
-  <img src="https://img.shields.io/badge/NWPU-Top%201%25%20(GPA%2088)-FFD700?style=flat-square" />
-  <img src="https://img.shields.io/badge/Chinese%20Gov%20Scholarship-2024--2026-blue?style=flat-square" />
-</p>
-
 ---
 
-### What I Do
+### Experience
 
-- **AI Infrastructure Engineer Intern** @ InfiX.ai — KV-cache architecture, SGLang, RDMA, A800/H200 clusters
-- **M.Eng. Software Engineering** @ NWPU — Researching LLM inference optimization & multimodal AI
-- **IEEE TMM paper** under review — NVFP4-DiT: 4-bit audio-guided video diffusion transformers
+**AI Infrastructure Engineer Intern** | InfiX.ai | Shenzhen, China | Apr 2026 - Jun 2026
+- Designed 3-tier KV-cache architecture (GPU HBM -> CPU DRAM -> SSD) using SGLang + Mooncake RDMA
+- Achieved **92.27% cache hit rate** and **8.3x TTFT reduction** (55s -> 6.7s) on 4xA800 clusters
+- Built PD-disaggregated serving with RDMA-based KV sharing, increasing concurrency from 192 to 256
+- Profiled CUDA/Triton pipelines with Nsight Systems, optimized with FP8 quantization
 
-### Key Achievements
+### Education
 
-- 92.27% KV-cache hit rate | 8.3x TTFT reduction on 4xA800
-- 4x memory reduction with FP4 quantization
-- 70-page thesis on multimodal deepfake detection
+| Degree | University | Period |
+|--------|-----------|--------|
+| M.Eng. Software Engineering | Northwestern Polytechnical University (985/211) | Sep 2024 - Mar 2027 |
+| B.Eng. Computer Science & Technology | Northwestern Polytechnical University (985/211) | Sep 2020 - Jul 2024 |
+
+### Publication
+
+- **NVFP4-DiT: Efficient 4-Bit Audio-Guided Video Diffusion Transformers for Low-Cost Video Generation** — IEEE Transactions on Multimedia (TMM, Q1), Under Review
 
 ### Tech Stack
 
@@ -50,13 +51,6 @@
 | [NVFP4-DiT](https://github.com/theraihanrakibb/NVFP4-DiT) | 4-bit low-precision video diffusion transformer (IEEE TMM, under review) |
 | [Compiler-C](https://github.com/theraihanrakibb/Compiler-C) | C compiler with lexer, parser, and code generation (Yacc/Lex) |
 | [Online-Portfolio](https://github.com/theraihanrakibb/Online-Portfolio) | Personal portfolio website |
-
-### GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=theraihanrakibb&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=theraihanrakibb&theme=tokyonight&hide_border=true" width="48%" />
-</p>
 
 ---
 
