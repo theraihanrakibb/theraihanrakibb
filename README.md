@@ -11,13 +11,22 @@
 
 ---
 
+### What I Do
+
+- **AI Infrastructure Engineer Intern** @ InfiX.ai — KV-cache architecture, SGLang, RDMA, A800/H200 clusters
+- **M.Eng. Software Engineering** @ NWPU — Researching LLM inference optimization and multimodal AI
+- **IEEE TMM paper** under review — NVFP4-DiT: 4-bit audio-guided video diffusion transformers
+
+### Key Achievements
+
+- 92.27% KV-cache hit rate | 8.3x TTFT reduction on 4xA800
+- 4x memory reduction with FP4 quantization
+- 70-page thesis on multimodal deepfake detection
+- Chinese Government Scholarship recipient
+
 ### Experience
 
 **AI Infrastructure Engineer Intern** | InfiX.ai | Shenzhen, China | Apr 2026 - Jun 2026
-- Designed 3-tier KV-cache architecture (GPU HBM -> CPU DRAM -> SSD) using SGLang + Mooncake RDMA
-- Achieved **92.27% cache hit rate** and **8.3x TTFT reduction** (55s -> 6.7s) on 4xA800 clusters
-- Built PD-disaggregated serving with RDMA-based KV sharing, increasing concurrency from 192 to 256
-- Profiled CUDA/Triton pipelines with Nsight Systems, optimized with FP8 quantization
 
 ### Education
 
@@ -29,6 +38,20 @@
 ### Publication
 
 - **NVFP4-DiT: Efficient 4-Bit Audio-Guided Video Diffusion Transformers for Low-Cost Video Generation** — IEEE Transactions on Multimedia (TMM, Q1), Under Review
+
+### Research Interests
+
+- LLM inference optimization (KV-cache, PD disaggregation, RDMA)
+- Low-precision quantization (FP8/FP4) for diffusion transformers
+- Multimodal deepfake detection (visual + audio + temporal)
+- GPU kernel optimization (CUDA, Triton, FlashAttention)
+
+### Open to Collaboration
+
+- LLM serving infrastructure and distributed systems
+- Multimodal AI and computer vision research
+- Open-source AI tooling and frameworks
+- Always happy to connect — reach out via email or LinkedIn
 
 ### Tech Stack
 
@@ -51,6 +74,20 @@
 | [NVFP4-DiT](https://github.com/theraihanrakibb/NVFP4-DiT) | 4-bit low-precision video diffusion transformer (IEEE TMM, under review) |
 | [Compiler-C](https://github.com/theraihanrakibb/Compiler-C) | C compiler with lexer, parser, and code generation (Yacc/Lex) |
 | [Online-Portfolio](https://github.com/theraihanrakibb/Online-Portfolio) | Personal portfolio website |
+
+### GitHub Stats
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=theraihanrakibb&theme=tokyonight" width="90%" />
+</p>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=theraihanrakibb&theme=tokyonight" width="45%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=theraihanrakibb&theme=tokyonight" width="45%" />
+</p>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=theraihanrakibb&theme=tokyonight" width="45%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=theraihanrakibb&theme=tokyonight" width="45%" />
+</p>
 
 ---
 
