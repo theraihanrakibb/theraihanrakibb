@@ -35,6 +35,20 @@
 | M.Eng. Software Engineering | Northwestern Polytechnical University (985/211) | Sep 2024 - Mar 2027 |
 | B.Eng. Computer Science & Technology | Northwestern Polytechnical University (985/211) | Sep 2020 - Jul 2024 |
 
+### Research Interests
+
+- AI Infrastructure and LLM Inference Systems (KV-cache, PD disaggregation, RDMA)
+- Multimodal AI (visual + audio + temporal fusion, deepfake detection, video generation)
+- Low-Precision Quantization (FP8/FP4 for diffusion transformers and LLMs)
+- GPU Kernel Optimization (CUDA, Triton, FlashAttention, GEMM)
+
+### Open to Collaboration
+
+- LLM serving infrastructure and distributed systems
+- Multimodal AI and computer vision research
+- Open-source AI tooling and frameworks
+- Always happy to connect via email or LinkedIn
+
 ### Publication
 
 - **NVFP4-DiT: Efficient 4-Bit Audio-Guided Video Diffusion Transformers for Low-Cost Video Generation** — IEEE Transactions on Multimedia (TMM, Q1), Under Review
