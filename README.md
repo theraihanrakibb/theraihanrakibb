@@ -5,7 +5,7 @@
 <p align="center">
   <a href="mailto:raihanrakib.143@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
   <a href="https://linkedin.com/in/theraihanrakib"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
-  <a href="https://theraihanrakib.github.io/Online-Portfolio/"><img src="https://img.shields.io/badge/Portfolio-FF6B6B?style=flat-square" /></a>
+  <a href="https://theraihanrakibb.github.io/Online-Portfolio/"><img src="https://img.shields.io/badge/Portfolio-FF6B6B?style=flat-square" /></a>
   <a href="https://github.com/theraihanrakibb"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a>
 </p>
 
