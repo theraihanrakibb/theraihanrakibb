@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=MD+RAKIBUL+ISLAM+RAIHAN;AI+Infrastructure+Engineer;LLM+Inference+%7C+GPU+Optimization" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=MD+RAKIBUL+ISLAM+RAIHAN;AI+Infrastructure+Engineer;LLM+Inference+%7C+GPU+Optimization" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -49,25 +49,7 @@
 - Open-source AI tooling and frameworks
 - Always happy to connect via email or LinkedIn
 
-### Publication
-
-- **NVFP4-DiT: Efficient 4-Bit Audio-Guided Video Diffusion Transformers for Low-Cost Video Generation** — IEEE Transactions on Multimedia (TMM, Q1), Under Review
-
-### Research Interests
-
-- LLM inference optimization (KV-cache, PD disaggregation, RDMA)
-- Low-precision quantization (FP8/FP4) for diffusion transformers
-- Multimodal deepfake detection (visual + audio + temporal)
-- GPU kernel optimization (CUDA, Triton, FlashAttention)
-
-### Open to Collaboration
-
-- LLM serving infrastructure and distributed systems
-- Multimodal AI and computer vision research
-- Open-source AI tooling and frameworks
-- Always happy to connect — reach out via email or LinkedIn
-
-### Tech Stack
+### Publication### Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
