@@ -9,12 +9,22 @@
   <a href="https://github.com/theraihanrakibb"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a>
 </p>
 
+> AI Infrastructure Engineer building fast, cost-efficient LLM serving systems. I turn inference research — KV-cache disaggregation, FP4 quantization, and RDMA-scale compute — into measurable production wins on A800/H200 clusters. M.Eng. candidate @ NWPU; author of NVFP4-DiT (IEEE TMM, under review).
+
 ---
 
 ### What I Do
 
 - **AI Infrastructure** — KV-cache architecture, SGLang, RDMA, A800/H200 clusters
 - **M.Eng. Software Engineering** @ NWPU — Researching LLM inference optimization and multimodal AI
+
+### Focus
+
+- **LLM Serving at Scale** — KV-cache disaggregation (PD split), prefix caching & continuous batching on SGLang/vLLM across A800/H200.
+- **Low-Precision Inference** — FP8/FP4 quantization for LLMs and diffusion transformers; author of NVFP4-DiT (IEEE TMM, under review).
+- **Distributed GPU Systems** — RDMA-based multi-node training/inference and cluster orchestration.
+- **GPU Kernels** — CUDA / Triton / FlashAttention kernels for attention and GEMM.
+- **Multimodal AI** — audio-visual-temporal fusion for deepfake detection and video generation.
 
 ### Key Achievements
 
