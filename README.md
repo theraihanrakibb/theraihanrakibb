@@ -49,7 +49,11 @@
 - Open-source AI tooling and frameworks
 - Always happy to connect via email or LinkedIn
 
-### Publication### Tech Stack
+### Publication
+
+- **NVFP4-DiT: 4-bit Audio-Guided Video Diffusion Transformers** — IEEE TMM, under review.
+
+### Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
@@ -66,6 +70,7 @@
 
 | Project | Description |
 |---------|-------------|
+| [ai-infra-portfolio](https://github.com/theraihanrakibb/ai-infra-portfolio) | 5 production-quality AI-infra projects: LLM gateway, inference server, GPU exporter, training launcher, model registry |
 | [DeepfakeAudioVisualTemporalDetector](https://github.com/theraihanrakibb/DeepfakeAudioVisualTemporalDetector) | Multimodal deepfake detection: EfficientNet+FFT + MFCC + Transformer + Attention Fusion |
 | [NVFP4-DiT](https://github.com/theraihanrakibb/NVFP4-DiT) | 4-bit low-precision video diffusion transformer (IEEE TMM, under review) |
 | [Compiler-C](https://github.com/theraihanrakibb/Compiler-C) | C compiler with lexer, parser, and code generation (Yacc/Lex) |
