@@ -15,7 +15,6 @@
 
 - **AI Infrastructure** — KV-cache architecture, SGLang, RDMA, A800/H200 clusters
 - **M.Eng. Software Engineering** @ NWPU — Researching LLM inference optimization and multimodal AI
-- **IEEE TMM paper** under review — NVFP4-DiT: 4-bit audio-guided video diffusion transformers
 
 ### Key Achievements
 
