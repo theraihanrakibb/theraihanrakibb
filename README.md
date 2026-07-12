@@ -120,7 +120,7 @@ A curated set of **10 production-quality, fully-tested, Dockerized** AI-infra pr
 |---------|-------------|
 | [NVFP4-DiT](https://github.com/theraihanrakibb/NVFP4-DiT) | 4-bit low-precision audio-guided video diffusion transformer (IEEE TMM, under review). |
 | [DeepfakeAudioVisualTemporalDetector](https://github.com/theraihanrakibb/DeepfakeAudioVisualTemporalDetector) | Multimodal deepfake detection: EfficientNet + FFT + MFCC + Transformer + Attention Fusion. |
-| [Compiler-C](https://github.com/theraihanrakibb/Compiler-C) | C compiler with lexer, parser, and code generation (Yacc/Lex). |
+| [c-compiler-frontend](https://github.com/theraihanrakibb/c-compiler-frontend) | 4-stage C compiler front-end: lexical, syntax, semantic analysis + three-address code generation (Flex/Bison). |
 | [Online-Portfolio](https://github.com/theraihanrakibb/Online-Portfolio) | Personal portfolio website. |
 
 ### Publication
