@@ -155,7 +155,7 @@ A curated set of **10 production-quality, fully-tested, Dockerized** AI-infra pr
 </div>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=theraihanrakibb&theme=tokyonight&hide_border=true" width="100%" style="margin:2px;" alt="Realtime Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=theraihanrakibb&theme=tokyonight&hide_border=true&bg_color=1a1b27" width="100%" style="margin:2px;" alt="Realtime Contribution Graph" />
 </p>
 
 ---
