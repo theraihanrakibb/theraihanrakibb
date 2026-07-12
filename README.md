@@ -3,20 +3,20 @@
 </h1>
 
 <p align="center">
-  <a href="mailto:raihanrakib.143@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="40" /></a>
+  <a href="mailto:raihanrakib.143@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" height="24" /></a>
   &nbsp;
-  <a href="https://linkedin.com/in/theraihanrakib"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="40" /></a>
+  <a href="https://linkedin.com/in/theraihanrakib"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" height="24" /></a>
   &nbsp;
-  <a href="https://theraihanrakibb.github.io/Online-Portfolio/"><img src="https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=google-chrome&logoColor=white" height="40" /></a>
+  <a href="https://theraihanrakibb.github.io/Online-Portfolio/"><img src="https://img.shields.io/badge/Portfolio-FF6B6B?style=flat-square&logo=google-chrome&logoColor=white" height="24" /></a>
   &nbsp;
-  <a href="https://github.com/theraihanrakibb"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="40" /></a>
+  <a href="https://github.com/theraihanrakibb"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" height="24" /></a>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Focus-AI%20Infrastructure-00D9FF?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/LLM%20Serving-KV--Cache%20%2F%20PD--Disagg-76B900?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Quant-FP8%20%2F%20FP4-FF6B35?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Hardware-A800%20%2F%20H200-9C27B0?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Focus-AI%20Infrastructure-00B4D8?style=flat-square&logo=serverless&logoColor=white" height="22" />
+  <img src="https://img.shields.io/badge/LLM%20Serving-KV--Cache%20%2F%20PD--Disagg-4361EE?style=flat-square&logo=databricks&logoColor=white" height="22" />
+  <img src="https://img.shields.io/badge/Quant-FP8%20%2F%20FP4-7209B7?style=flat-square&logo=lightning&logoColor=white" height="22" />
+  <img src="https://img.shields.io/badge/Hardware-A800%20%2F%20H200-4CC9F0?style=flat-square&logo=nvidia&logoColor=white" height="22" />
 </p>
 
 ---
