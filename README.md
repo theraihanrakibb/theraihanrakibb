@@ -150,8 +150,8 @@ A curated set of **10 production-quality, fully-tested, Dockerized** AI-infra pr
 </p>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=theraihanrakibb&theme=tokyonight" style="display:inline-block; width:50%; margin:4px; vertical-align:top;" alt="Repos per Language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=theraihanrakibb&theme=tokyonight" style="display:inline-block; width:50%; margin:4px; vertical-align:top;" alt="Most Commit Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=theraihanrakibb&theme=tokyonight" style="display:inline-block; width:49%; margin:4px; vertical-align:top;" alt="Repos per Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=theraihanrakibb&theme=tokyonight" style="display:inline-block; width:49%; margin:4px; vertical-align:top;" alt="Most Commit Language" />
 </div>
 
 ---
