@@ -150,12 +150,12 @@ A curated set of **10 production-quality, fully-tested, Dockerized** AI-infra pr
 </div>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=theraihanrakibb&theme=tokyonight" style="display:inline-block; width:49.5%; margin:2px; vertical-align:top; border-radius:15px;" alt="Repos per Language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=theraihanrakibb&theme=tokyonight" style="display:inline-block; width:49.5%; margin:2px; vertical-align:top; border-radius:15px;" alt="Most Commit Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=theraihanrakibb&theme=tokyonight" style="display:inline-block; width:49.75%; margin:2px; vertical-align:top;" alt="Repos per Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=theraihanrakibb&theme=tokyonight" style="display:inline-block; width:49.75%; margin:2px; vertical-align:top;" alt="Most Commit Language" />
 </div>
 
 <div align="center" style="margin:2px;">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=theraihanrakibb&theme=tokyonight&hide_border=true&bg_color=1a1b27" width="100%" style="margin:2px; border-radius:15px;" alt="Realtime Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=theraihanrakibb&theme=tokyonight&hide_border=true&bg_color=1a1b27&radius=15" width="100%" style="margin:2px;" alt="Realtime Contribution Graph" />
 </div>
 
 ---
