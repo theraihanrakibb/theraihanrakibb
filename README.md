@@ -146,19 +146,11 @@ A curated set of **10 production-quality, fully-tested, Dockerized** AI-infra pr
 ### GitHub Stats
 
 <p align="center">
-  <img src="./assets/overview.svg" width="780" alt="GitHub Overview" />
+  <img src="./assets/overview.svg" width="800" alt="GitHub Stats" />
 </p>
-
-<table align="center" cellspacing="0" cellpadding="10">
-  <tr>
-    <td align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=theraihanrakibb&theme=tokyonight" width="380" height="224" alt="Repos per language" /></td>
-    <td align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=theraihanrakibb&theme=tokyonight" width="380" height="224" alt="Most committed language" /></td>
-  </tr>
-  <tr>
-    <td align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=theraihanrakibb&theme=tokyonight" width="380" height="224" alt="Productive time" /></td>
-    <td align="center"><img src="https://streak-stats.demolab.com/?user=theraihanrakibb&theme=tokyonight&hide_border=true&border_radius=10" width="380" height="224" alt="Contribution streak" /></td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=theraihanrakibb&theme=tokyonight&hide_border=true&border_radius=10" width="500" alt="Contribution streak" />
+</p>
 
 ---
 
