@@ -146,11 +146,11 @@ A curated set of **10 production-quality, fully-tested, Dockerized** AI-infra pr
 ### GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=theraihanrakibb&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&border_radius=10" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theraihanrakibb&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=theraihanrakibb&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&hide_title=true&border_radius=10" height="200" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theraihanrakibb&layout=compact&theme=tokyonight&hide_border=true&hide_title=true&border_radius=10" height="200" />
 </p>
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=theraihanrakibb&theme=tokyonight&hide_border=true&border_radius=10" height="170" />
+  <img src="https://streak-stats.demolab.com/?user=theraihanrakibb&theme=tokyonight&hide_border=true&hide_title=true&border_radius=10" height="140" />
 </p>
 
 ---
