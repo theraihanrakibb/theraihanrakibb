@@ -3,10 +3,13 @@
 </h1>
 
 <p align="center">
-  <a href="mailto:raihanrakib.143@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/theraihanrakib"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://theraihanrakibb.github.io/Online-Portfolio/"><img src="https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
-  <a href="https://github.com/theraihanrakibb"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="mailto:raihanrakib.143@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="40" /></a>
+  &nbsp;
+  <a href="https://linkedin.com/in/theraihanrakib"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="40" /></a>
+  &nbsp;
+  <a href="https://theraihanrakibb.github.io/Online-Portfolio/"><img src="https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=google-chrome&logoColor=white" height="40" /></a>
+  &nbsp;
+  <a href="https://github.com/theraihanrakibb"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="40" /></a>
 </p>
 
 <p align="center">
@@ -18,7 +21,7 @@
 
 ---
 
-> AI Infrastructure Engineer building **fast, cost-efficient LLM serving systems**. I turn inference research — KV-cache disaggregation, FP4 quantization, and RDMA-scale compute — into measurable production wins on A800/H200 clusters. M.Eng. candidate @ NWPU; author of **NVFP4-DiT** (IEEE TMM, under review).
+> I'm an AI Infrastructure Engineer who builds **fast, cost-efficient LLM serving systems**. I take inference research — KV-cache disaggregation, FP4 quantization, and RDMA-scale compute — and turn it into measurable production wins on A800/H200 clusters. I'm an M.Eng. candidate at NWPU and the author of **NVFP4-DiT** (IEEE TMM, under review).
 
 ### Currently
 - 🛠️ Building a **10-project open-source AI-infra portfolio** to sharpen and showcase production engineering.
@@ -53,7 +56,7 @@
 
 ### Experience
 
-**AI Infrastructure Engineer Intern** · [InfiX.ai](https://github.com/theraihanrakibb) · Shenzhen, China · Apr 2026 – Jun 2026
+**AI Infrastructure Engineer Intern** · [InfiX.ai](https://infix.io/) · Shenzhen, China · Apr 2026 – Jun 2026
 
 ### Education
 
