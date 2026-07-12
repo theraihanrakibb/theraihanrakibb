@@ -34,10 +34,11 @@
 
 ```mermaid
 flowchart LR
-    BD[Bangladesh: BSc in CSE] --> CN[China: A New Beginning]
-    CN --> XA[Xian: NWPU MEng]
-    XA --> AI[AI Infrastructure Engineer]
-    XA --> RS[NVFP4-DiT Research]
+    BD[Bangladesh] --> CN[China: Xi'an]
+    CN --> BS[NWPU: BSc in CSE]
+    BS --> MS[NWPU: MEng in SWE]
+    MS --> AI[AI Infrastructure Engineer]
+    MS --> RS[NVFP4-DiT Research]
     AI --> PF[10-Project Open-Source Portfolio]
     RS --> PF
     PF --> FUT[The Road Ahead]
@@ -149,7 +150,7 @@ A curated set of **10 production-quality, fully-tested, Dockerized** AI-infra pr
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theraihanrakibb&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" height="170" />
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=theraihanrakibb&theme=tokyonight&hide_border=true&border_radius=10" height="170" />
+  <img src="https://streak-stats.demolab.com/?user=theraihanrakibb&theme=tokyonight&hide_border=true&border_radius=10" height="170" />
 </p>
 
 ---
