@@ -30,6 +30,21 @@
 
 ---
 
+### My Journey
+
+```mermaid
+flowchart LR
+    BD[Bangladesh: BSc in CSE] --> CN[China: A New Beginning]
+    CN --> XA[Xian: NWPU MEng]
+    XA --> AI[AI Infrastructure Engineer]
+    XA --> RS[NVFP4-DiT Research]
+    AI --> PF[10-Project Open-Source Portfolio]
+    RS --> PF
+    PF --> FUT[The Road Ahead]
+```
+
+---
+
 ### What I Do
 
 - **AI Infrastructure** — KV-cache architecture, prefill/decode disaggregation, SGLang/vLLM, RDMA, A800/H200 clusters.
@@ -130,19 +145,11 @@ A curated set of **10 production-quality, fully-tested, Dockerized** AI-infra pr
 ### GitHub Stats
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=theraihanrakibb&theme=tokyonight" width="90%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=theraihanrakibb&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&border_radius=10" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theraihanrakibb&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" height="170" />
 </p>
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=theraihanrakibb&theme=tokyonight" width="45%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=theraihanrakibb&theme=tokyonight" width="45%" />
-</p>
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=theraihanrakibb&theme=tokyonight" width="45%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=theraihanrakibb&theme=tokyonight" width="45%" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=theraihanrakibb&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4&row=1" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=theraihanrakibb&theme=tokyonight&hide_border=true&border_radius=10" height="170" />
 </p>
 
 ---
