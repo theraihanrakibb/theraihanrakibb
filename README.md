@@ -21,9 +21,9 @@
 > AI Infrastructure Engineer building **fast, cost-efficient LLM serving systems**. I turn inference research — KV-cache disaggregation, FP4 quantization, and RDMA-scale compute — into measurable production wins on A800/H200 clusters. M.Eng. candidate @ NWPU; author of **NVFP4-DiT** (IEEE TMM, under review).
 
 ### Currently
-- 🔬 Interning at **InfiX.ai** (Shenzhen) on LLM serving infrastructure — KV-cache architecture & SGLang on A800/H200.
 - 🛠️ Building a **10-project open-source AI-infra portfolio** to sharpen and showcase production engineering.
 - 📄 Writing my M.Eng. thesis on multimodal deepfake detection.
+- 💡 Open to AI Infrastructure / LLM-serving engineering roles.
 
 ---
 
