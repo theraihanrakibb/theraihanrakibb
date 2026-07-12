@@ -146,10 +146,7 @@ A curated set of **10 production-quality, fully-tested, Dockerized** AI-infra pr
 ### GitHub Stats
 
 <p align="center">
-  <img src="./assets/overview.svg" width="800" alt="GitHub Stats" />
-</p>
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=theraihanrakibb&theme=tokyonight&hide_border=true&border_radius=10" width="500" alt="Contribution streak" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=theraihanrakibb&theme=tokyonight" width="90%" alt="GitHub Stats" />
 </p>
 
 ---
