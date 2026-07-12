@@ -152,8 +152,6 @@ A curated set of **10 production-quality, fully-tested, Dockerized** AI-infra pr
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=theraihanrakibb&theme=tokyonight" style="display:inline-block; width:48%; margin:4px;" alt="Repos per Language" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=theraihanrakibb&theme=tokyonight" style="display:inline-block; width:48%; margin:4px;" alt="Most Commit Language" />
-  <img src="https://streak-stats.demolab.com/?user=theraihanrakibb&theme=tokyonight&hide_border=true" style="display:inline-block; width:48%; margin:4px;" alt="GitHub Streak" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=theraihanrakibb&theme=tokyonight&hide_border=true" style="display:inline-block; width:48%; margin:4px;" alt="Contribution Activity Graph" />
 </div>
 
 ---
