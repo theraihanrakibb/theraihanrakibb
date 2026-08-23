@@ -23,7 +23,7 @@
 
 ---
 
-> I'm an AI Infrastructure Engineer who builds **fast, cost-efficient LLM serving systems**. I take inference research — KV-cache disaggregation, FP4 quantization, and RDMA-scale compute — and turn it into measurable production wins on A800/H200 clusters. I'm an M.Eng. candidate at NWPU and the author of **NVFP4-DiT** (IEEE TMM, under review).
+> I'm an AI Infrastructure Engineer who builds **fast, cost-efficient LLM serving systems**. I take inference research — KV-cache disaggregation, FP4 quantization, and RDMA-scale compute — and turn it into measurable production wins on A800/H200 clusters. I'm an M.Eng. candidate at NWPU and the author of **NVFP4-DiT** (IEEE TNNLS, under review).
 
 ### Currently
 - 🎓 **AI Engineer | LLM Inference & GPU Systems | Multimodal AI Research** — New Graduate 2027, open to roles across **Mainland China & Hong Kong** (MNC & global AI R&D).
@@ -70,7 +70,7 @@ flowchart LR
 ### Focus
 
 - **LLM Serving at Scale** — KV-cache disaggregation (PD split), prefix caching & continuous batching on SGLang/vLLM across A800/H200.
-- **Low-Precision Inference** — FP8/FP4 quantization for LLMs and diffusion transformers; author of NVFP4-DiT (IEEE TMM, under review).
+- **Low-Precision Inference** — FP8/FP4 quantization for LLMs and diffusion transformers; author of NVFP4-DiT (IEEE TNNLS, under review).
 - **Distributed GPU Systems** — RDMA-based multi-node training/inference and cluster orchestration.
 - **GPU Kernels** — CUDA / Triton / FlashAttention kernels for attention and GEMM.
 - **Multimodal AI** — audio-visual-temporal fusion for deepfake detection and video generation.
@@ -133,14 +133,14 @@ A curated set of **10 production-quality, fully-tested, Dockerized** AI-infra pr
 
 | Project | Description |
 |---------|-------------|
-| [NVFP4-DiT](https://github.com/theraihanrakibb/NVFP4-DiT) | 4-bit low-precision audio-guided video diffusion transformer (IEEE TMM, under review). |
+| [NVFP4-DiT](https://github.com/theraihanrakibb/NVFP4-DiT) | 4-bit low-precision audio-guided video diffusion transformer (IEEE TNNLS, under review). |
 | [DeepfakeAudioVisualTemporalDetector](https://github.com/theraihanrakibb/DeepfakeAudioVisualTemporalDetector) | Multimodal deepfake detection: EfficientNet + FFT + MFCC + Transformer + Attention Fusion. |
 | [c-compiler-frontend](https://github.com/theraihanrakibb/c-compiler-frontend) | 4-stage C compiler front-end: lexical, syntax, semantic analysis + three-address code generation (Flex/Bison). |
 | [Online-Portfolio](https://github.com/theraihanrakibb/Online-Portfolio) | Personal portfolio website. |
 
 ### Publication
 
-- **NVFP4-DiT: 4-bit Audio-Guided Video Diffusion Transformers** — IEEE TMM, under review.
+- **NVFP4-DiT: 4-bit Audio-Guided Video Diffusion Transformers** — IEEE TNNLS, under review.
 
 ### Tech Stack
 
