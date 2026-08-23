@@ -134,9 +134,9 @@ A curated set of **10 production-quality, fully-tested, Dockerized** AI-infra pr
 | Project | Description |
 |---------|-------------|
 | [NVFP4-DiT](https://github.com/theraihanrakibb/NVFP4-DiT) | 4-bit low-precision audio-guided video diffusion transformer (IEEE TNNLS, under review). |
-| [DeepfakeAudioVisualTemporalDetector](https://github.com/theraihanrakibb/DeepfakeAudioVisualTemporalDetector) | Multimodal deepfake detection: EfficientNet + FFT + MFCC + Transformer + Attention Fusion. |
+| [M.Eng. Thesis](https://github.com/theraihanrakibb/M.Eng-Thesis-Multimodal-Deepfake-Audio-Visual-Temporal-Framework) | Detecting Deepfake Video by a Multimodal Audio-Visual Framework with Temporal Inconsistencies. |
 | [c-compiler-frontend](https://github.com/theraihanrakibb/c-compiler-frontend) | 4-stage C compiler front-end: lexical, syntax, semantic analysis + three-address code generation (Flex/Bison). |
-| [B.Eng. Thesis](https://github.com/theraihanrakibb/Design-and-Implementation-of-a-Distributed-Confidential-Query-Protocol-for-Spark) | Design and Implementation of a Distributed Confidential Query Protocol for Spark — Apache Spark + CKKS homomorphic encryption. |
+| [B.Eng. Thesis](https://github.com/theraihanrakibb/B.Eng-Thesis-Design-and-Implementation-of-a-Distributed-Confidential-Query-Protocol-for-Spark) | Design and Implementation of a Distributed Confidential Query Protocol for Spark — Apache Spark + CKKS homomorphic encryption. |
 | [Online-Portfolio](https://github.com/theraihanrakibb/Online-Portfolio) | Personal portfolio website. |
 
 ### Publication
