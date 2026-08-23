@@ -23,7 +23,7 @@
 
 ---
 
-> I'm an AI Infrastructure Engineer who builds **fast, cost-efficient LLM serving systems**. I take inference research — KV-cache disaggregation, FP4 quantization, and RDMA-scale compute — and turn it into measurable production wins on A800/H200 clusters. I'm an M.Eng. candidate at NWPU and the author of **NVFP4-DiT** (IEEE TNNLS, under review).
+> I'm an AI Engineer who builds **fast, cost-efficient LLM serving systems**. I take inference research — KV-cache disaggregation, FP4 quantization, and RDMA-scale compute — and turn it into measurable production wins on A800/H200 clusters. I'm an M.Eng. candidate at NWPU and the author of **NVFP4-DiT** (IEEE TNNLS, under review).
 
 ### Currently
 - 🎓 **AI Engineer | LLM Inference & GPU Systems | Multimodal AI Research** — New Graduate 2027, open to roles across **Mainland China & Hong Kong** (MNC & global AI R&D).
@@ -52,7 +52,7 @@ flowchart LR
     BD[Bangladesh] --> CN[China: Xi'an]
     CN --> BS[NWPU: BSc in CST]
     BS --> MS[NWPU: MEng in SWE]
-    MS --> AI[AI Infrastructure Engineer]
+    MS --> AI[AI Engineer]
     MS --> RS[NVFP4-DiT Research]
     AI --> PF[10-Project Open-Source Portfolio]
     RS --> PF
@@ -87,7 +87,7 @@ flowchart LR
 
 ### Experience
 
-**AI Infrastructure Engineer Intern** · [InfiX.ai](https://infix.io/) · Shenzhen, China · Apr 2026 – Jun 2026
+**AI Engineer Intern** · [InfiX.ai](https://infix.io/) · Shenzhen, China · Apr 2026 – Jun 2026
 
 ### Education
 
