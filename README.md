@@ -26,7 +26,7 @@
 > I'm an AI Infrastructure Engineer who builds **fast, cost-efficient LLM serving systems**. I take inference research — KV-cache disaggregation, FP4 quantization, and RDMA-scale compute — and turn it into measurable production wins on A800/H200 clusters. I'm an M.Eng. candidate at NWPU and the author of **NVFP4-DiT** (IEEE TMM, under review).
 
 ### Currently
-- 🎓 **New Graduate 2027** — open to AI Infrastructure / LLM Inference roles across **Mainland China & Hong Kong** (MNC & global AI R&D).
+- 🎓 **AI Engineer | LLM Inference & GPU Systems | Multimodal AI Research** — New Graduate 2027, open to roles across **Mainland China & Hong Kong** (MNC & global AI R&D).
 - 🛠️ Building a **10-project open-source AI-infra portfolio** to sharpen and showcase production engineering.
 - 📄 Writing my M.Eng. thesis on multimodal deepfake detection.
 
