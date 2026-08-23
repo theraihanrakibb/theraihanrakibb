@@ -91,10 +91,10 @@ flowchart LR
 
 ### Education
 
-| Degree | University | Period |
-|--------|-----------|--------|
-| M.Eng. Software Engineering | Northwestern Polytechnical University (985/211) | Sep 2024 – Mar 2027 |
-| B.Eng. Computer Science & Technology | Northwestern Polytechnical University (985/211) | Sep 2020 – Jul 2024 |
+| Degree | University | Period | Thesis |
+|--------|-----------|--------|--------|
+| M.Eng. Software Engineering | Northwestern Polytechnical University (985/211) | Sep 2024 – Mar 2027 · GPA 88/100 (Top 1%) | [M.Eng. Thesis](https://github.com/theraihanrakibb/M.Eng-Thesis-Multimodal-Deepfake-Audio-Visual-Temporal-Framework) |
+| B.Eng. Computer Science & Technology | Northwestern Polytechnical University (985/211) | Sep 2020 – Jul 2024 · GPA 85/100 (Top 1%) | [B.Eng. Thesis](https://github.com/theraihanrakibb/B.Eng-Thesis-Design-and-Implementation-of-a-Distributed-Confidential-Query-Protocol-for-Spark) |
 
 ### Research Interests
 
