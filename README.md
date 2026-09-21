@@ -11,7 +11,7 @@
   &nbsp;
   <a href="https://github.com/theraihanrakibb"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" height="24" /></a>
   &nbsp;
-  <a href="https://raw.githubusercontent.com/theraihanrakibb/theraihanrakibb/main/Raihan_2027_Master_Resume_HongKong_China.pdf"><img src="https://img.shields.io/badge/Resume-2027%20CV-00B4D8?style=flat-square&logo=adobe-acrobat-reader&logoColor=white" height="24" /></a>
+  <a href="https://raw.githubusercontent.com/theraihanrakibb/theraihanrakibb/main/Raihan_Northwestern_Polytechnical_University_MS_2027.pdf"><img src="https://img.shields.io/badge/Resume-2027%20CV-00B4D8?style=flat-square&logo=adobe-acrobat-reader&logoColor=white" height="24" /></a>
 </p>
 
 <p align="center">
@@ -35,13 +35,13 @@
 ### 📄 Resume / CV
 
 <div align="center">
-  <a href="https://raw.githubusercontent.com/theraihanrakibb/theraihanrakibb/main/Raihan_2027_Master_Resume_HongKong_China.pdf">
+  <a href="https://raw.githubusercontent.com/theraihanrakibb/theraihanrakibb/main/Raihan_Northwestern_Polytechnical_University_MS_2027.pdf">
     <img src="https://img.shields.io/badge/📥%20Download%20CV-2027%20Resume%20(HK%2FChina)-00B4D8?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" height="34" />
   </a>
 </div>
 
 > 🎓 **New Graduate 2027** targeting AI Infrastructure / LLM Inference engineering roles at MNC & global AI R&D centers across **Mainland China + Hong Kong**.
-> Full CV (2-page, ATS-friendly): [Raihan_2027_Master_Resume_HongKong_China.pdf](https://raw.githubusercontent.com/theraihanrakibb/theraihanrakibb/main/Raihan_2027_Master_Resume_HongKong_China.pdf)
+> Full CV (2-page, ATS-friendly): [Raihan_Northwestern_Polytechnical_University_MS_2027.pdf](https://raw.githubusercontent.com/theraihanrakibb/theraihanrakibb/main/Raihan_Northwestern_Polytechnical_University_MS_2027.pdf)
 
 ---
 
