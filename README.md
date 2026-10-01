@@ -37,13 +37,9 @@
 > 🎓 **New Graduate 2027** targeting AI Infrastructure / LLM Inference engineering roles at MNC & global AI R&D centers across **Mainland China + Hong Kong**.
 
 <div align="center">
-  <a href="https://raw.githubusercontent.com/theraihanrakibb/theraihanrakibb/main/Raihan_AI_Engineer_Resume_EN.pdf">
-    <img src="https://img.shields.io/badge/📥%20Download%20CV-2027%20Resume%20(EN)-00B4D8?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" height="34" />
-  </a>
+  <a href="https://raw.githubusercontent.com/theraihanrakibb/theraihanrakibb/main/Raihan_AI_Engineer_Resume_EN.pdf"><img src="https://img.shields.io/badge/📥%20Download%20CV-2027%20Resume%20(EN)-00B4D8?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" height="34" alt="Download CV (EN)" /></a>
   &nbsp;
-  <a href="https://raw.githubusercontent.com/theraihanrakibb/theraihanrakibb/main/Raihan_AI_Engineer_Resume_CN.pdf">
-    <img src="https://img.shields.io/badge/📥%20下载简历-2027%20简历%20(中文)-FF6B6B?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" height="34" />
-  </a>
+  <a href="https://raw.githubusercontent.com/theraihanrakibb/theraihanrakibb/main/Raihan_AI_Engineer_Resume_CN.pdf"><img src="https://img.shields.io/badge/📥%20下载简历-2027%20简历%20(中文)-FF6B6B?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" height="34" alt="下载简历 (中文)" /></a>
 </div>
 
 ---
