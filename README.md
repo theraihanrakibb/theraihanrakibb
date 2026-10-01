@@ -34,18 +34,18 @@
 
 ### 📄 Resume / CV
 
-<div align="center">
-  <a href="https://raw.githubusercontent.com/theraihanrakibb/theraihanrakibb/main/Raihan_AI_Engineer_Resume_EN.pdf">
-    <img src="https://img.shields.io/badge/📥%20Download%20CV-2027%20Resume%20(EN)-00B4D8?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" height="34" />
-  </a>
-  &nbsp;
-  <a href="https://raw.githubusercontent.com/theraihanrakibb/theraihanrakibb/main/Raihan_AI_Engineer_Resume_CN.pdf">
-    <img src="https://img.shields.io/badge/📥%20下载简历-2027%20简历%20(中文)-FF6B6B?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" height="34" />
-  </a>
-</div>
-
 > 🎓 **New Graduate 2027** targeting AI Infrastructure / LLM Inference engineering roles at MNC & global AI R&D centers across **Mainland China + Hong Kong**.
-> Full CV (2-page, ATS-friendly): [English PDF](https://raw.githubusercontent.com/theraihanrakibb/theraihanrakibb/main/Raihan_AI_Engineer_Resume_EN.pdf) · [中文 PDF](https://raw.githubusercontent.com/theraihanrakibb/theraihanrakibb/main/Raihan_AI_Engineer_Resume_CN.pdf)
+
+<details>
+<summary>&nbsp;📥&nbsp;&nbsp;<b>Download Resume</b> / <b>下载简历</b> &nbsp;&nbsp;<i>— click to choose English or 中文</i>&nbsp;</summary>
+
+<br>
+
+| 🇬🇧 English (EN) | 🇨🇳 中文 (ZH) |
+|:---:|:---:|
+| [**Download Resume (English)**](https://raw.githubusercontent.com/theraihanrakibb/theraihanrakibb/main/Raihan_AI_Engineer_Resume_EN.pdf) | [**下载简历（中文）**](https://raw.githubusercontent.com/theraihanrakibb/theraihanrakibb/main/Raihan_AI_Engineer_Resume_CN.pdf) |
+
+</details>
 
 ---
 
