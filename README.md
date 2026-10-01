@@ -90,7 +90,7 @@ flowchart LR
 **Software Engineer Intern (AI Agent)** · Hong Kong Amram Group · Shenzhen, China · Jun 2025 – Sep 2025
 **Electrical Software Engineer Intern** · Shaanxi Longong Intelligent Technology · Xi'an, China · Feb 2025 – Apr 2025
 
-**Data & MLOps:** Pandas, SQL, Docker, Kubernetes, Git, CI/CD (GitHub Actions), Slurm, AWS / GCP, Apache Spark, Weights & Biases / MLflow
+**Data & MLOps:** Pandas, SQL, Docker, Kubernetes, Git, CI/CD, Slurm, AWS / GCP, Apache Spark, Weights & Biases / MLflow
 
 ### Education
 
