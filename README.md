@@ -86,18 +86,18 @@ flowchart LR
 
 ### Experience
 
-**AI Infrastructure Engineer Intern** · [InfiX.ai](https://infix.io/) · Shenzhen, China · Apr 2026 – Jun 2026
-**Software Engineer Intern (AI Agent)** · Hong Kong Amram Group · Shenzhen, China · Jun 2025 – Sep 2025
-**Electrical Software Engineer Intern** · Shaanxi Longong Intelligent Technology · Xi'an, China · Feb 2025 – Apr 2025
+**AI Infrastructure Engineer Intern** | [InfiX.ai](https://infix.io/) | Shenzhen, China | Apr 2026 – Jun 2026
+**Software Engineer Intern (AI Agent)** | Hong Kong Amram Group | Shenzhen, China | Jun 2025 – Sep 2025
+**Electrical Software Engineer Intern** | Shaanxi Longong Intelligent Technology | Xi'an, China | Feb 2025 – Apr 2025
 
-**Data & MLOps:** Pandas, SQL, Docker, Kubernetes, Git, CI/CD, Slurm, AWS / GCP, Apache Spark, Weights & Biases / MLflow
+**Data & MLOps:** Pandas | SQL | Docker | Kubernetes | Git | CI/CD | Slurm | AWS / GCP | Apache Spark | Weights & Biases / MLflow
 
 ### Education
 
 | Degree | University | Period | Thesis |
 |--------|-----------|--------|--------|
-| M.Eng. Software Engineering | Northwestern Polytechnical University (985/211) | Sep 2024 – Jul 2027 · GPA 88/100 (Top 1%) | [M.Eng. Thesis](https://github.com/theraihanrakibb/M.Eng-Thesis-Multimodal-Deepfake-Audio-Visual-Temporal-Framework) |
-| B.Eng. Computer Science & Technology | Northwestern Polytechnical University (985/211) | Sep 2020 – Jul 2024 · GPA 85/100 (Top 1%) | [B.Eng. Thesis](https://github.com/theraihanrakibb/B.Eng-Thesis-Design-and-Implementation-of-a-Distributed-Confidential-Query-Protocol-for-Spark) |
+| M.Eng. Software Engineering | Northwestern Polytechnical University (985/211) | Sep 2024 – Jul 2027 \| GPA 88/100 (Top 1%) | [M.Eng. Thesis](https://github.com/theraihanrakibb/M.Eng-Thesis-Multimodal-Deepfake-Audio-Visual-Temporal-Framework) |
+| B.Eng. Computer Science & Technology | Northwestern Polytechnical University (985/211) | Sep 2020 – Jul 2024 \| GPA 85/100 (Top 1%) | [B.Eng. Thesis](https://github.com/theraihanrakibb/B.Eng-Thesis-Design-and-Implementation-of-a-Distributed-Confidential-Query-Protocol-for-Spark) |
 
 ### Research Interests
 
