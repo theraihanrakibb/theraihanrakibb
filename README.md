@@ -34,25 +34,18 @@
 
 ### 📄 Resume / CV
 
-> 🎓 **New Graduate 2027** targeting AI Infrastructure / LLM Inference engineering roles at MNC & global AI R&D centers across **Mainland China + Hong Kong**.
-
-<details>
-<summary align="center">
-
-![Download Resume](https://img.shields.io/badge/Download%20Resume%20%E2%96%BE-00B4D8?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white)
-
-</summary>
-
-<br>
-
 <div align="center">
-
-[![English (EN)](https://img.shields.io/badge/English%20(EN)-00B4D8?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white)](https://raw.githubusercontent.com/theraihanrakibb/theraihanrakibb/main/Raihan_AI_Engineer_Resume_EN.pdf)
-&nbsp;&nbsp;
-[![中文 (ZH)](https://img.shields.io/badge/%E4%B8%AD%E6%96%87%20(ZH)-FF6B6B?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white)](https://raw.githubusercontent.com/theraihanrakibb/theraihanrakibb/main/Raihan_AI_Engineer_Resume_CN.pdf)
-
+  <a href="https://raw.githubusercontent.com/theraihanrakibb/theraihanrakibb/main/Raihan_AI_Engineer_Resume_EN.pdf">
+    <img src="https://img.shields.io/badge/📥%20Download%20CV-2027%20Resume%20(EN)-00B4D8?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" height="34" />
+  </a>
+  &nbsp;
+  <a href="https://raw.githubusercontent.com/theraihanrakibb/theraihanrakibb/main/Raihan_AI_Engineer_Resume_CN.pdf">
+    <img src="https://img.shields.io/badge/📥%20下载简历-2027%20简历%20(中文)-FF6B6B?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" height="34" />
+  </a>
 </div>
-</details>
+
+> 🎓 **New Graduate 2027** targeting AI Infrastructure / LLM Inference engineering roles at MNC & global AI R&D centers across **Mainland China + Hong Kong**.
+> Full CV (2-page, ATS-friendly): [English PDF](https://raw.githubusercontent.com/theraihanrakibb/theraihanrakibb/main/Raihan_AI_Engineer_Resume_EN.pdf) · [中文 PDF](https://raw.githubusercontent.com/theraihanrakibb/theraihanrakibb/main/Raihan_AI_Engineer_Resume_CN.pdf)
 
 ---
 
