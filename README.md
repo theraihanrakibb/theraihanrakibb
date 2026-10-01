@@ -18,12 +18,12 @@
   <img src="https://img.shields.io/badge/Focus-AI%20Infrastructure-00B4D8?style=flat-square&logo=serverless&logoColor=white" height="22" />
   <img src="https://img.shields.io/badge/LLM%20Serving-KV--Cache%20%2F%20PD--Disagg-4361EE?style=flat-square&logo=databricks&logoColor=white" height="22" />
   <img src="https://img.shields.io/badge/Quant-FP8%20%2F%20FP4-7209B7?style=flat-square&logo=lightning&logoColor=white" height="22" />
-  <img src="https://img.shields.io/badge/Hardware-A800%20%2F%20H200-4CC9F0?style=flat-square&logo=nvidia&logoColor=white" height="22" />
+  <img src="https://img.shields.io/badge/Hardware-A800%20%2F%20H100-4CC9F0?style=flat-square&logo=nvidia&logoColor=white" height="22" />
 </p>
 
 ---
 
-> I'm an AI Engineer who builds **fast, cost-efficient LLM serving systems**. I take inference research — KV-cache disaggregation, FP4 quantization, and RDMA-scale compute — and turn it into measurable production wins on A800/H200 clusters. I'm an M.Eng. candidate at NWPU and the author of **NVFP4-DiT** (IEEE TNNLS, under review).
+> I'm an AI Engineer who builds **fast, cost-efficient LLM serving systems**. I take inference research — KV-cache disaggregation, FP4 quantization, and RDMA-scale compute — and turn it into measurable production wins on A800/H100 clusters. I'm an M.Eng. candidate at NWPU and the author of **NVFP4-DiT** (IEEE TNNLS, under review).
 
 ### Currently
 - 🎓 **AI/ML Engineer | LLM Inference & GPU Optimization | Multimodal AI Research** — 2027 New Grad, open to AI/ML, Research Engineer & AI Infrastructure roles across **Mainland China & Hong Kong** (MNC & global AI R&D); available **Jul 2027**.
@@ -74,13 +74,13 @@ flowchart LR
 
 ### What I Do
 
-- **AI Infrastructure** — KV-cache architecture, prefill/decode disaggregation, SGLang/vLLM, RDMA, A800/H200 clusters.
+- **AI Infrastructure** — KV-cache architecture, prefill/decode disaggregation, SGLang/vLLM, RDMA, A800/H100 clusters.
 - **Low-Precision Inference** — FP8/FP4 quantization for LLMs and diffusion transformers.
 - **M.Eng. Software Engineering** @ NWPU — LLM inference optimization & multimodal AI.
 
 ### Focus
 
-- **LLM Serving at Scale** — KV-cache disaggregation (PD split), prefix caching & continuous batching on SGLang/vLLM across A800/H200.
+- **LLM Serving at Scale** — KV-cache disaggregation (PD split), prefix caching & continuous batching on SGLang/vLLM across A800/H100.
 - **Low-Precision Inference** — FP8/FP4 quantization for LLMs and diffusion transformers; author of NVFP4-DiT (IEEE TNNLS, under review).
 - **Distributed GPU Systems** — RDMA-based multi-node training/inference and cluster orchestration.
 - **GPU Kernels** — CUDA / Triton / FlashAttention kernels for attention and GEMM.
@@ -93,12 +93,12 @@ flowchart LR
 | KV-cache hit rate | **92.27%** | prefix-cache tuned serving |
 | TTFT reduction | **8.3×** | 4× A800 PD-disaggregation |
 | Memory reduction | **4×** | FP4 quantization (NVFP4-DiT) |
-| Thesis | **70 pages** | multimodal deepfake detection |
+| M.Eng. Thesis | **deepfake detection** | multimodal audio-visual-temporal framework |
 | Scholarship | Chinese Gov. Scholarship | NWPU M.Eng. |
 
 ### Experience
 
-**AI Engineer Intern** · [InfiX.ai](https://infix.io/) · Shenzhen, China · Apr 2026 – Jun 2026
+**AI Infrastructure Engineer Intern** · [InfiX.ai](https://infix.io/) · Shenzhen, China · Apr 2026 – Jun 2026
 
 ### Education
 
