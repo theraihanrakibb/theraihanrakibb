@@ -37,9 +37,8 @@
 > 🎓 **New Graduate 2027** targeting AI Infrastructure / LLM Inference engineering roles at MNC & global AI R&D centers across **Mainland China + Hong Kong**.
 
 <div align="center">
-  <a href="https://raw.githubusercontent.com/theraihanrakibb/theraihanrakibb/main/Raihan_AI_Engineer_Resume.pdf"><img src="https://img.shields.io/badge/📥%20Download%20CV-2027%20Resume%20(EN%2F中文)-00B4D8?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" height="34" alt="Download CV (EN/中文)" /></a>
-  &nbsp;
-  <a href="https://raw.githubusercontent.com/theraihanrakibb/theraihanrakibb/main/Raihan_AI_Engineer_Cover_Letter.pdf"><img src="https://img.shields.io/badge/📥%20Download%20Cover%20Letter-2027%20(EN%2F中文)-FF6B6B?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" height="34" alt="Download Cover Letter (EN/中文)" /></a>
+  <a href="https://raw.githubusercontent.com/theraihanrakibb/theraihanrakibb/main/Raihan_AI_Engineer_Resume.pdf"><img src="https://img.shields.io/badge/📥%20Download%20CV-2027%20Resume%20(EN%2F中文)-00B4D8?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" height="34" alt="Download CV" /></a>
+  &nbsp; <a href="https://raw.githubusercontent.com/theraihanrakibb/theraihanrakibb/main/Raihan_AI_Engineer_Cover_Letter.pdf">Cover Letter (PDF)</a>
 </div>
 
 ---
