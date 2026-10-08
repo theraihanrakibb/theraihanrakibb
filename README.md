@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=MD+RAKIBUL+ISLAM+RAIHAN;AI+Engineer;LLM+%26+Multimodal+AI+%7C+Inference+Infra;KV-Cache+%7C+NVFP4-DiT" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=MD+RAKIBUL+ISLAM+RAIHAN;ML+Systems+Engineer;LLM+Inference+%26+Multimodal+AI;KV-Cache+%7C+NVFP4-DiT" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -23,10 +23,10 @@
 
 ---
 
-> I'm an AI Engineer working on two equal fronts: **LLM inference infrastructure** (KV-cache, PD-disaggregation, FP8/FP4 on A800/H100) and **multimodal / NLP AI** (audio-guided video diffusion, deepfake detection, LLM agents). I'm an M.Eng. candidate at NWPU and first author of **NVFP4-DiT** (IEEE TNNLS, under review).
+> I'm an ML Systems Engineer working on two equal fronts: **LLM inference infrastructure** (KV-cache, PD-disaggregation, FP8/FP4 on A800/H100) and **multimodal / NLP AI** (audio-guided video diffusion, deepfake detection, LLM agents). I'm an M.Eng. candidate at NWPU and first author of **NVFP4-DiT** (IEEE TNNLS, under review).
 
 ### Currently
-- 🎓 **AI/ML Engineer | LLM Inference & GPU Optimization | Multimodal AI Research** — 2027 New Grad, open to AI/ML, Research Engineer & AI Infrastructure roles across **Mainland China & Hong Kong** (MNC & global AI R&D); available **Jul 2027**.
+- 🎓 **ML Systems Engineer | LLM Inference & Multimodal AI** — 2027 New Grad, open to AI/ML, Research Engineer & AI Infrastructure roles across **Mainland China & Hong Kong** (MNC & global AI R&D); available **Jul 2027**.
 - 🛠️ Building an **open-source AI-infra portfolio** (LLM serving, KV-cache, RDMA, FP8 quantization) to sharpen and showcase production systems engineering.
 - 📄 Writing my M.Eng. thesis on **multimodal deepfake detection** (visual + audio + temporal inconsistencies); first author of **NVFP4-DiT** (IEEE TNNLS, Q1, under review).
 
