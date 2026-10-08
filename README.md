@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=MD+RAKIBUL+ISLAM+RAIHAN;AI+Engineer;LLM+Inference+%7C+GPU+Optimization+%7C+KV-Cache" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=MD+RAKIBUL+ISLAM+RAIHAN;AI+Engineer;LLM+%26+Multimodal+AI+%7C+Inference+Infra;KV-Cache+%7C+NVFP4-DiT" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -23,7 +23,7 @@
 
 ---
 
-> I'm an AI Engineer who builds **fast, cost-efficient LLM serving systems**. I take inference research — KV-cache disaggregation, FP4 quantization, and RDMA-scale compute — and turn it into measurable production wins on A800/H100 clusters. I'm an M.Eng. candidate at NWPU and the author of **NVFP4-DiT** (IEEE TNNLS, under review).
+> I'm an AI Engineer working on two equal fronts: **LLM inference infrastructure** (KV-cache, PD-disaggregation, FP8/FP4 on A800/H100) and **multimodal / NLP AI** (audio-guided video diffusion, deepfake detection, LLM agents). I'm an M.Eng. candidate at NWPU and first author of **NVFP4-DiT** (IEEE TNNLS, under review).
 
 ### Currently
 - 🎓 **AI/ML Engineer | LLM Inference & GPU Optimization | Multimodal AI Research** — 2027 New Grad, open to AI/ML, Research Engineer & AI Infrastructure roles across **Mainland China & Hong Kong** (MNC & global AI R&D); available **Jul 2027**.
@@ -64,15 +64,21 @@ flowchart LR
 
 - **AI Infrastructure** — KV-cache architecture, prefill/decode disaggregation, SGLang/vLLM, RDMA, A800/H100 clusters.
 - **Low-Precision Inference** — FP8/FP4 quantization for LLMs and diffusion transformers.
-- **M.Eng. Software Engineering** @ NWPU — LLM inference optimization & multimodal AI.
+- **Multimodal AI** — audio-guided video diffusion (NVFP4-DiT) and audio-visual deepfake detection research.
+- **LLM / NLP Agents** — LLM-agent workflow automation (Amram Group) and multimodal understanding.
 
 ### Focus
 
+**Inference Infrastructure**
 - **LLM Serving at Scale** — KV-cache disaggregation (PD split), prefix caching & continuous batching on SGLang/vLLM across A800/H100.
 - **Low-Precision Inference** — FP8/FP4 quantization for LLMs and diffusion transformers; author of NVFP4-DiT (IEEE TNNLS, under review).
 - **Distributed GPU Systems** — RDMA-based multi-node training/inference and cluster orchestration.
 - **GPU Kernels** — CUDA / Triton / FlashAttention kernels for attention and GEMM.
-- **Multimodal AI** — audio-visual-temporal fusion for deepfake detection and video generation.
+
+**Multimodal & NLP**
+- **Multimodal Generation** — audio-guided video diffusion transformers (NVFP4-DiT), AIGC video optimization on A800/H100.
+- **Multimodal Understanding** — audio-visual-temporal fusion for deepfake detection.
+- **LLM Agents & NLP** — LLM-agent workflow automation and multimodal understanding (Amram Group internship).
 
 ### Key Achievements
 
@@ -129,6 +135,15 @@ A curated set of **10 production-quality, fully-tested, Dockerized** AI-infra pr
 | [quant-playground](https://github.com/theraihanrakibb/quant-playground) | Low Precision | FP8/FP4/INT8/INT4 bit-packing + numpy MLP quantization demo. |
 | [llmoops-trace](https://github.com/theraihanrakibb/llmoops-trace) | Observability | OpenTelemetry LLM tracing collector + Grafana dashboard. |
 | [rag-pipeline](https://github.com/theraihanrakibb/rag-pipeline) | Retrieval (RAG) | Offline RAG toolkit: ingest → chunk → embed → ANN search → rerank. |
+
+### 🎨 Multimodal & NLP Projects
+
+Research-driven multimodal and NLP work — taking generative and understanding models from paper to reproducible artifacts.
+
+| Project | Area | What it does |
+|---------|------|--------------|
+| [NVFP4-DiT](https://github.com/theraihanrakibb/NVFP4-DiT) | Multimodal Generation | 4-bit audio-guided video diffusion transformer (IEEE TNNLS, under review); 4x memory reduction on A800/H100. |
+| [Multimodal Deepfake Detection](https://github.com/theraihanrakibb/M.Eng-Thesis-Multimodal-Deepfake-Audio-Visual-Temporal-Framework) | Multimodal Understanding | Audio-visual-temporal framework for deepfake video detection (M.Eng. thesis). |
 
 ### Featured Research & Engineering
 
