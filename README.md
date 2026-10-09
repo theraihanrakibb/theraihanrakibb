@@ -115,9 +115,9 @@ flowchart LR
 ### 🎓 Education
 
 <p align="center">
-  <a href="https://www.nwpu.edu.cn/" title="Northwestern Polytechnical University (NWPU)"><img src="assets/nwpu-seal.png" width="108" alt="Northwestern Polytechnical University seal" /></a>
+  <a href="https://www.nwpu.edu.cn/" title="Northwestern Polytechnical University (NWPU)"><img src="assets/nwpu-logo.png" width="340" alt="Northwestern Polytechnical University (NWPU)" /></a>
   <br/>
-  <b><a href="https://www.nwpu.edu.cn/">Northwestern Polytechnical University (NWPU)</a></b> · Xi'an, China · 985 / 211
+  <b>Northwestern Polytechnical University (NWPU)</b> · Xi'an, China · 985 / 211 · <a href="https://www.nwpu.edu.cn/">nwpu.edu.cn</a>
 </p>
 
 | Degree | School | Period | Thesis |
