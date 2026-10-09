@@ -18,12 +18,12 @@
   <img src="https://img.shields.io/badge/Focus-AI%20Infrastructure-00B4D8?style=flat-square&logo=serverless&logoColor=white" height="22" />
   <img src="https://img.shields.io/badge/LLM%20Serving-KV--Cache%20%2F%20PD--Disagg-4361EE?style=flat-square&logo=databricks&logoColor=white" height="22" />
   <img src="https://img.shields.io/badge/Quant-FP8%20%2F%20FP4-7209B7?style=flat-square&logo=lightning&logoColor=white" height="22" />
-  <img src="https://img.shields.io/badge/Hardware-A800%20%2F%20H100-4CC9F0?style=flat-square&logo=nvidia&logoColor=white" height="22" />
+  <img src="https://img.shields.io/badge/Hardware-A800%20%2F%20H100%20%2F%20H200-4CC9F0?style=flat-square&logo=nvidia&logoColor=white" height="22" />
 </p>
 
 ---
 
-> I'm an ML Systems Engineer working on two equal fronts: **LLM inference infrastructure** (KV-cache, PD-disaggregation, FP8/FP4 on A800/H100) and **multimodal / NLP AI** (audio-guided video diffusion, deepfake detection, LLM agents). I'm an M.Eng. candidate at NWPU and first author of **NVFP4-DiT** (IEEE TNNLS, under review).
+> I'm an ML Systems Engineer working on two equal fronts: **LLM inference infrastructure** (3-tier KV-cache offload over Mooncake RDMA, PD-disaggregation, FP8/FP4 on 4× A800-80GB and H200 clusters) and **multimodal AI** (audio-guided video diffusion, deepfake detection). I'm an M.Eng. candidate at NWPU (Top 1%) and first author of **NVFP4-DiT** (IEEE TNNLS, under review).
 
 ### Currently
 - 🎓 **ML Systems Engineer | LLM Inference & Multimodal AI** — 2027 New Grad, open to AI/ML, Research Engineer & AI Infrastructure roles across **Mainland China & Hong Kong** (MNC & global AI R&D); available **Jul 2027**.
@@ -50,7 +50,7 @@ flowchart LR
     BD[Bangladesh] --> CN[China: Xi'an]
     CN --> BS[NWPU: BSc in CST]
     BS --> MS[NWPU: MEng in SWE]
-    MS --> AI[AI Engineer]
+    MS --> AI[ML Systems Engineer]
     MS --> RS[NVFP4-DiT Research]
     AI --> PF[10-Project Open-Source Portfolio]
     RS --> PF
@@ -61,39 +61,44 @@ flowchart LR
 
 ### What I Do
 
-- **AI Infrastructure** — KV-cache architecture, prefill/decode disaggregation, SGLang/vLLM, RDMA, A800/H100 clusters.
+- **AI Infrastructure** — 3-tier KV-cache offload, prefill/decode disaggregation, SGLang (v0.5.9 / v0.5.10-post2), RDMA, 4× A800-80GB + 2×/8× H200 clusters.
 - **Low-Precision Inference** — FP8/FP4 quantization for LLMs and diffusion transformers.
 - **Multimodal AI** — audio-guided video diffusion (NVFP4-DiT) and audio-visual deepfake detection research.
-- **LLM / NLP Agents** — LLM-agent workflow automation (Amram Group) and multimodal understanding.
+- **LLM / NLP Agents** — LLM-agent workflow automation (Amraim Group) and multimodal understanding.
 
 ### Focus
 
 **Inference Infrastructure**
-- **LLM Serving at Scale** — KV-cache disaggregation (PD split), prefix caching & continuous batching on SGLang/vLLM across A800/H100.
-- **Low-Precision Inference** — FP8/FP4 quantization for LLMs and diffusion transformers; author of NVFP4-DiT (IEEE TNNLS, under review).
+- **LLM Serving at Scale** — 3-tier KV-cache offload (GPU HBM → CPU DRAM → SSD) over Mooncake RDMA, PD-disaggregation, prefix caching & continuous batching on SGLang across 4× A800-80GB.
+- **Low-Precision Inference** — FP8/FP4 quantization for LLMs and diffusion transformers; FP8 KV cache halves per-token KV memory (72.9 → 36.5 KB); author of NVFP4-DiT (IEEE TNNLS, under review).
 - **Distributed GPU Systems** — RDMA-based multi-node training/inference and cluster orchestration.
 - **GPU Kernels** — CUDA / Triton / FlashAttention kernels for attention and GEMM.
 
 **Multimodal & NLP**
-- **Multimodal Generation** — audio-guided video diffusion transformers (NVFP4-DiT), AIGC video optimization on A800/H100.
+- **Multimodal Generation** — audio-guided video diffusion transformers (NVFP4-DiT) with FP4-packed Triton kernels, benchmarked on H100.
 - **Multimodal Understanding** — audio-visual-temporal fusion for deepfake detection.
-- **LLM Agents & NLP** — LLM-agent workflow automation and multimodal understanding (Amram Group internship).
+- **LLM Agents & NLP** — LLM-agent workflow automation and multimodal understanding (Amraim Group internship).
 
 ### Key Achievements
 
 | Metric | Result | Context |
 |--------|--------|---------|
-| KV-cache hit rate | **92.27%** | prefix-cache tuned serving |
-| TTFT reduction | **8.3×** | 4× A800 PD-disaggregation |
-| Memory reduction | **4×** | FP4 quantization (NVFP4-DiT) |
+| KV-cache hit rate | **92%** | 3-tier offload over Mooncake RDMA, long-context (32K+ tokens) |
+| TTFT reduction | **8.3×** (55s → 6.7s) | Qwen3.5/3.6-27B on 4× A800-80GB |
+| Stable concurrency | **192 → 256** | 2+2 GPU prefill/decode disaggregation |
+| DeepSeek-V3.2 on 8× H200 | **91 ms TTFT / 36 ms TPOT** @32–64 · **13.16 req/s** @256 | FP8, SGLang benchmark |
+| GEMM profiling | **60%** of step time | Nsight Systems — redirected optimization to compute kernels |
+| KV memory per token | **72.9 → 36.5 KB** | FP8 KV cache |
+| Kernel speedup | **3.2× vs FP16** (2.1× vs naive FP4) | FP4-packed Triton kernels (NVFP4-DiT) |
+| Memory reduction | **4×** | NVFP4-DiT on H100 |
 | M.Eng. Thesis | **deepfake detection** | multimodal audio-visual-temporal framework |
-| Scholarship | Chinese Gov. Scholarship | NWPU M.Eng. |
+| Scholarships | Chinese Gov. · NWPU Presidential · Wu Yajun | NWPU M.Eng. |
 
 ### Experience
 
 - **AI Infrastructure Engineer Intern** | InfiX.ai | Shenzhen, China | Apr 2026 - Jun 2026
-- **Software Engineer Intern (AI Agent)** | Hong Kong Amram Group | Shenzhen, China | Jun 2025 - Sep 2025
-- **Electrical Software Engineer Intern** | Shaanxi Longong Intelligent Technology | Xi'an, China | Feb 2025 - Apr 2025
+- **Software Engineer Intern (AI Agent)** | Hong Kong Amraim Group Co., Ltd. | Shenzhen, China | Jun 2025 - Sep 2025
+- **Electrical Software Engineer Intern** | Shaanxi Longong Intelligent Technology Co., Ltd. | Xi'an, China | Feb 2025 - Apr 2025
 
 ### Education
 
@@ -101,6 +106,11 @@ flowchart LR
 |--------|-----------|--------|--------|
 | M.Eng. Software Engineering | Northwestern Polytechnical University (985/211) | Sep 2024 – Jul 2027 \| GPA 88/100 (Top 1%) | [M.Eng. Thesis](https://github.com/theraihanrakibb/M.Eng-Thesis-Multimodal-Deepfake-Audio-Visual-Temporal-Framework) |
 | B.Eng. Computer Science & Technology | Northwestern Polytechnical University (985/211) | Sep 2020 – Jul 2024 \| GPA 85/100 (Top 1%) | [B.Eng. Thesis](https://github.com/theraihanrakibb/B.Eng-Thesis-Design-and-Implementation-of-a-Distributed-Confidential-Query-Protocol-for-Spark) |
+
+### Awards & Certifications
+
+- **Scholarships:** Chinese Government Scholarship (2024–2027) · NWPU Presidential Scholarship (2020–2024) · Wu Yajun Scholarship (2024)
+- **Certifications:** AWS Certified Machine Learning – Specialty · Professional Scrum Master I (PSM I), Scrum.org · Deep Learning Specialization (DeepLearning.AI)
 
 ### Research Interests
 
@@ -141,14 +151,14 @@ Research-driven multimodal and NLP work — taking generative and understanding 
 
 | Project | Area | What it does |
 |---------|------|--------------|
-| [NVFP4-DiT](https://github.com/theraihanrakibb/NVFP4-DiT) | Multimodal Generation | 4-bit audio-guided video diffusion transformer (IEEE TNNLS, under review); 4x memory reduction on A800/H100. |
+| [NVFP4-DiT](https://github.com/theraihanrakibb/NVFP4-DiT) | Multimodal Generation | 4-bit audio-guided video diffusion transformer (IEEE TNNLS, under review): FP4-packed Triton kernels → **4× memory reduction** and **3.2× faster than FP16** (2.1× vs naive FP4), evaluated on WebVid-10M, VGGSound and UCF-101 on H100; includes a vLLM-style serving scheduler (frame-level paged attention, dynamic frame batching). |
 | [Multimodal Deepfake Detection](https://github.com/theraihanrakibb/M.Eng-Thesis-Multimodal-Deepfake-Audio-Visual-Temporal-Framework) | Multimodal Understanding | Audio-visual-temporal framework for deepfake video detection (M.Eng. thesis). |
 
 ### Featured Research & Engineering
 
 | Project | Description |
 |---------|-------------|
-| [NVFP4-DiT](https://github.com/theraihanrakibb/NVFP4-DiT) | 4-bit low-precision audio-guided video diffusion transformer (IEEE TNNLS, under review). |
+| [NVFP4-DiT](https://github.com/theraihanrakibb/NVFP4-DiT) | 4-bit low-precision audio-guided video diffusion transformer (IEEE TNNLS, under review) — FP4 Triton kernels, QAT with learnable cross-modal scales, vLLM-style scheduler. |
 | [M.Eng. Thesis](https://github.com/theraihanrakibb/M.Eng-Thesis-Multimodal-Deepfake-Audio-Visual-Temporal-Framework) | Detecting Deepfake Video by a Multimodal Audio-Visual Framework with Temporal Inconsistencies. |
 | [c-compiler-frontend](https://github.com/theraihanrakibb/c-compiler-frontend) | 4-stage C compiler front-end: lexical, syntax, semantic analysis + three-address code generation (Flex/Bison). |
 | [B.Eng. Thesis](https://github.com/theraihanrakibb/B.Eng-Thesis-Design-and-Implementation-of-a-Distributed-Confidential-Query-Protocol-for-Spark) | Design and Implementation of a Distributed Confidential Query Protocol for Spark — Apache Spark + CKKS homomorphic encryption. |
