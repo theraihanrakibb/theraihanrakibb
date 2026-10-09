@@ -12,6 +12,8 @@
   <a href="https://github.com/theraihanrakibb"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" height="24" /></a>
   &nbsp;
   <a href="https://raw.githubusercontent.com/theraihanrakibb/theraihanrakibb/main/Resume_Raihan_MLSys_NWPU_2027.pdf"><img src="https://img.shields.io/badge/Resume-2027%20CV%20(EN%2F中文)-00B4D8?style=flat-square&logo=adobe-acrobat-reader&logoColor=white" height="24" /></a>
+  &nbsp;
+  <a href="https://raw.githubusercontent.com/theraihanrakibb/theraihanrakibb/main/CL_Raihan_MLSys_NWPU_2027.pdf"><img src="https://img.shields.io/badge/Cover%20Letter-2027%20CL%20(EN%2F中文)-00B4D8?style=flat-square&logo=adobe-acrobat-reader&logoColor=white" height="24" /></a>
 </p>
 
 <p align="center">
@@ -48,7 +50,7 @@
 
 <div align="center">
   <a href="https://raw.githubusercontent.com/theraihanrakibb/theraihanrakibb/main/Resume_Raihan_MLSys_NWPU_2027.pdf"><img src="https://img.shields.io/badge/📥%20Download%20CV-2027%20Resume%20(EN%2F中文)-00B4D8?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" height="34" alt="Download CV" /></a>
-  &nbsp; <a href="https://raw.githubusercontent.com/theraihanrakibb/theraihanrakibb/main/CL_Raihan_MLSys_NWPU_2027.pdf">Cover Letter (PDF)</a>
+  &nbsp; <a href="https://raw.githubusercontent.com/theraihanrakibb/theraihanrakibb/main/CL_Raihan_MLSys_NWPU_2027.pdf"><img src="https://img.shields.io/badge/📥%20Cover%20Letter-2027%20CL%20(EN%2F中文)-00B4D8?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" height="34" alt="Cover Letter" /></a>
 </div>
 
 ---
@@ -255,12 +257,12 @@ Research-driven multimodal and NLP work — taking generative and understanding 
 </div>
 
 <div align="center" style="margin:2px;">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=theraihanrakibb&theme=tokyonight&hide_border=true&bg_color=1a1b27&radius=15" width="100%" style="margin:2px;" alt="Realtime Contribution Graph" />
+  <img src="https://ghchart.rshah.org/00e5ff/theraihanrakibb" width="100%" style="margin:2px;" alt="Contribution Graph" />
 </div>
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=theraihanrakibb&theme=tokyonight" style="display:inline-block; width:49.75%; margin:2px; vertical-align:top;" alt="GitHub Streak" />
-  <img src="https://github-profile-trophy.vercel.app/?username=theraihanrakibb&theme=tokyonight&no-frame=true&no-bg=true" style="display:inline-block; width:49.75%; margin:2px; vertical-align:top;" alt="GitHub Trophies" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=theraihanrakibb&theme=tokyonight" style="display:inline-block; width:49.75%; margin:2px; vertical-align:top;" alt="GitHub Stats" />
 </div>
 
 ---
