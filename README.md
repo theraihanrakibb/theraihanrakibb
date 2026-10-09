@@ -25,6 +25,16 @@
 
 > I'm an ML Systems Engineer working on two equal fronts: **LLM inference infrastructure** (3-tier KV-cache offload over Mooncake RDMA, PD-disaggregation, FP8/FP4 on 4× A800-80GB and H200 clusters) and **multimodal AI** (audio-guided video diffusion, deepfake detection). I'm an M.Eng. candidate at NWPU (Top 1%) and first author of **NVFP4-DiT** (IEEE TNNLS, under review).
 
+### ⚡ At a glance
+
+| | |
+|---|---|
+| 🎯 **Focus** | LLM inference systems — KV-cache offload, PD disaggregation, FP8/FP4 low-precision |
+| 📈 **Headline result** | **8.3× TTFT** (55s → 6.7s) at **92%** KV-cache hit, on 4× A800-80GB |
+| 🔬 **Research** | First author, **NVFP4-DiT** — 4× memory, **3.2× faster than FP16** (IEEE TNNLS, under review) |
+| 🖥️ **Hardware** | 4× A800-80GB · 8× H200 · H100 |
+| 🎓 **Status** | M.Eng. NWPU (Top 1%) · 2027 New Grad · available Jul 2027 |
+
 ### Currently
 - 🎓 **ML Systems Engineer | LLM Inference & Multimodal AI** — 2027 New Grad, open to AI/ML, Research Engineer & AI Infrastructure roles across **Mainland China & Hong Kong** (MNC & global AI R&D); available **Jul 2027**.
 - 🛠️ Building an **open-source AI-infra portfolio** (LLM serving, KV-cache, RDMA, FP8 quantization) to sharpen and showcase production systems engineering.
@@ -132,6 +142,9 @@ flowchart LR
 
 A curated set of **10 production-quality, fully-tested, Dockerized** AI-infra projects — each with a clear architecture, quickstart, and CI. Showcased in [**ai-infra-portfolio**](https://github.com/theraihanrakibb/ai-infra-portfolio).
 
+<details>
+<summary><b>Show all 10 projects ↓</b></summary>
+
 | Project | Area | What it does |
 |---------|------|--------------|
 | [llm-gateway](https://github.com/theraihanrakibb/llm-gateway) | LLM Gateway | OpenAI-compatible proxy: per-key rate limits, cost caps, caching, provider fallback. |
@@ -145,6 +158,8 @@ A curated set of **10 production-quality, fully-tested, Dockerized** AI-infra pr
 | [llmoops-trace](https://github.com/theraihanrakibb/llmoops-trace) | Observability | OpenTelemetry LLM tracing collector + Grafana dashboard. |
 | [rag-pipeline](https://github.com/theraihanrakibb/rag-pipeline) | Retrieval (RAG) | Offline RAG toolkit: ingest → chunk → embed → ANN search → rerank. |
 
+</details>
+
 ### 🎨 Multimodal & NLP Projects
 
 Research-driven multimodal and NLP work — taking generative and understanding models from paper to reproducible artifacts.
@@ -153,6 +168,21 @@ Research-driven multimodal and NLP work — taking generative and understanding 
 |---------|------|--------------|
 | [NVFP4-DiT](https://github.com/theraihanrakibb/NVFP4-DiT) | Multimodal Generation | 4-bit audio-guided video diffusion transformer (IEEE TNNLS, under review): FP4-packed Triton kernels → **4× memory reduction** and **3.2× faster than FP16** (2.1× vs naive FP4), evaluated on WebVid-10M, VGGSound and UCF-101 on H100; includes a vLLM-style serving scheduler (frame-level paged attention, dynamic frame batching). |
 | [Multimodal Deepfake Detection](https://github.com/theraihanrakibb/M.Eng-Thesis-Multimodal-Deepfake-Audio-Visual-Temporal-Framework) | Multimodal Understanding | Audio-visual-temporal framework for deepfake video detection (M.Eng. thesis). |
+
+### ⭐ Featured Work
+
+<table>
+<tr>
+<td width="50%" align="center">
+<a href="https://github.com/theraihanrakibb/NVFP4-DiT"><img src="https://raw.githubusercontent.com/theraihanrakibb/NVFP4-DiT/main/images/architecture.png" alt="NVFP4-DiT architecture" width="100%"/></a>
+<b>NVFP4-DiT</b><br/>4-bit audio-guided video diffusion — 4× memory, 3.2× faster than FP16.
+</td>
+<td width="50%" align="center">
+<a href="https://theraihanrakibb.github.io/Online-Portfolio/"><img src="https://raw.githubusercontent.com/theraihanrakibb/Online-Portfolio/main/assets/og-image.png" alt="Online Portfolio" width="100%"/></a>
+<b>Online-Portfolio</b><br/>Bilingual personal site with benchmark evidence.
+</td>
+</tr>
+</table>
 
 ### Featured Research & Engineering
 
@@ -170,17 +200,46 @@ Research-driven multimodal and NLP work — taking generative and understanding 
 
 ### Tech Stack
 
+**Languages**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![CUDA](https://img.shields.io/badge/CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![CUDA C++](https://img.shields.io/badge/CUDA%20C%2B%2B-76B900?style=flat-square&logo=nvidia&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=sqlite&logoColor=white)
+
+**LLM Inference & Serving**
 ![SGLang](https://img.shields.io/badge/SGLang-FF6B35?style=flat-square)
 ![vLLM](https://img.shields.io/badge/vLLM-76B900?style=flat-square)
 ![Triton](https://img.shields.io/badge/Triton-FF6B35?style=flat-square)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Mooncake/RDMA](https://img.shields.io/badge/Mooncake%2FRDMA-00B4D8?style=flat-square)
+![KV Cache](https://img.shields.io/badge/KV%20Cache-4361EE?style=flat-square)
+![PD Disaggregation](https://img.shields.io/badge/PD%20Disaggregation-4361EE?style=flat-square)
+
+**GPU & Performance**
+![CUDA](https://img.shields.io/badge/CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white)
+![Nsight Systems](https://img.shields.io/badge/Nsight%20Systems-76B900?style=flat-square&logo=nvidia&logoColor=white)
+![PyTorch Profiler](https://img.shields.io/badge/PyTorch%20Profiler-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![FP8/FP4](https://img.shields.io/badge/FP8%2FFP4-7209B7?style=flat-square)
+![GEMM](https://img.shields.io/badge/GEMM%20Opt-7209B7?style=flat-square)
+
+**ML & Multimodal**
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![Transformers](https://img.shields.io/badge/Transformers-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![Diffusion/DiT](https://img.shields.io/badge/Diffusion%2FDIT-FFD21E?style=flat-square)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+
+**Distributed & Infra**
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+**Web, Data & Tools**
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
 
 ---
 
@@ -197,6 +256,11 @@ Research-driven multimodal and NLP work — taking generative and understanding 
 
 <div align="center" style="margin:2px;">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=theraihanrakibb&theme=tokyonight&hide_border=true&bg_color=1a1b27&radius=15" width="100%" style="margin:2px;" alt="Realtime Contribution Graph" />
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=theraihanrakibb&theme=tokyonight" style="display:inline-block; width:49.75%; margin:2px; vertical-align:top;" alt="GitHub Streak" />
+  <img src="https://github-profile-trophy.vercel.app/?username=theraihanrakibb&theme=tokyonight&no-frame=true&no-bg=true" style="display:inline-block; width:49.75%; margin:2px; vertical-align:top;" alt="GitHub Trophies" />
 </div>
 
 ---
