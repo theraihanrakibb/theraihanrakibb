@@ -25,7 +25,7 @@
 
 ---
 
-> I'm an ML Systems Engineer working on two equal fronts: **LLM inference infrastructure** (3-tier KV-cache offload over Mooncake RDMA, PD-disaggregation, FP8/FP4 on 4× A800-80GB and H200 clusters) and **multimodal AI** (audio-guided video diffusion, deepfake detection). I'm an M.Eng. candidate at NWPU (Top 1%) and first author of **NVFP4-DiT** (IEEE TNNLS, under review).
+> I'm an ML Systems Engineer working on two equal fronts: **LLM inference infrastructure** (3-tier KV-cache offload over Mooncake RDMA, PD-disaggregation, FP8/FP4 on 4× A800-80GB and H200 clusters) and **multimodal AI** (audio-guided video diffusion, deepfake detection). I'm an M.Eng. candidate in Software Engineering at [Northwestern Polytechnical University (NWPU)](https://www.nwpu.edu.cn/) (Top 1%) and first author of **NVFP4-DiT** (IEEE TNNLS, under review).
 
 ### ⚡ At a glance
 
@@ -35,7 +35,7 @@
 | 📈 **Headline result** | **8.3× TTFT** (55s → 6.7s) at **92%** KV-cache hit, on 4× A800-80GB |
 | 🔬 **Research** | First author, **NVFP4-DiT** — 4× memory, **3.2× faster than FP16** (IEEE TNNLS, under review) |
 | 🖥️ **Hardware** | 4× A800-80GB · 8× H200 · H100 |
-| 🎓 **Status** | M.Eng. NWPU (Top 1%) · 2027 New Grad · available Jul 2027 |
+| 🎓 **Status** | M.Eng. in Software Engineering, School of Software, Northwestern Polytechnical University (Top 1%) · 2027 New Grad · available Jul 2027 |
 
 ### Currently
 - 🎓 **ML Systems Engineer | LLM Inference & Multimodal AI** — 2027 New Grad, open to AI/ML, Research Engineer & AI Infrastructure roles across **Mainland China & Hong Kong** (MNC & global AI R&D); available **Jul 2027**.
@@ -104,7 +104,7 @@ flowchart LR
 | Kernel speedup | **3.2× vs FP16** (2.1× vs naive FP4) | FP4-packed Triton kernels (NVFP4-DiT) |
 | Memory reduction | **4×** | NVFP4-DiT on H100 |
 | M.Eng. Thesis | **deepfake detection** | multimodal audio-visual-temporal framework |
-| Scholarships | Chinese Gov. · NWPU Presidential · Wu Yajun | NWPU M.Eng. |
+| Scholarships | Chinese Gov. · NWPU Presidential · Wu Yajun | Northwestern Polytechnical University M.Eng. |
 
 ### Experience
 
@@ -112,12 +112,18 @@ flowchart LR
 - **Software Engineer Intern (AI Agent)** | Hong Kong Amraim Group Co., Ltd. | Shenzhen, China | Jun 2025 - Sep 2025
 - **Electrical Software Engineer Intern** | Shaanxi Longong Intelligent Technology Co., Ltd. | Xi'an, China | Feb 2025 - Apr 2025
 
-### Education
+### 🎓 Education
 
-| Degree | University | Period | Thesis |
-|--------|-----------|--------|--------|
-| M.Eng. Software Engineering | Northwestern Polytechnical University (985/211) | Sep 2024 – Jul 2027 \| GPA 88/100 (Top 1%) | [M.Eng. Thesis](https://github.com/theraihanrakibb/M.Eng-Thesis-Multimodal-Deepfake-Audio-Visual-Temporal-Framework) |
-| B.Eng. Computer Science & Technology | Northwestern Polytechnical University (985/211) | Sep 2020 – Jul 2024 \| GPA 85/100 (Top 1%) | [B.Eng. Thesis](https://github.com/theraihanrakibb/B.Eng-Thesis-Design-and-Implementation-of-a-Distributed-Confidential-Query-Protocol-for-Spark) |
+<p align="center">
+  <a href="https://www.nwpu.edu.cn/" title="Northwestern Polytechnical University (NWPU)"><img src="assets/nwpu-seal.png" width="108" alt="Northwestern Polytechnical University seal" /></a>
+  <br/>
+  <b><a href="https://www.nwpu.edu.cn/">Northwestern Polytechnical University (NWPU)</a></b> · Xi'an, China · 985 / 211
+</p>
+
+| Degree | School | Period | Thesis |
+|--------|--------|--------|--------|
+| **M.Eng. in Software Engineering** | School of Software | Sep 2024 – Jul 2027 \| GPA 88/100 (Top 1%)<br/>Chinese Government Scholarship · President, International Student Union (ISU) | [M.Eng. Thesis](https://github.com/theraihanrakibb/M.Eng-Thesis-Multimodal-Deepfake-Audio-Visual-Temporal-Framework) |
+| **B.Eng. in Computer Science & Technology** | School of Computer Science | Sep 2020 – Jul 2024 \| GPA 85/100 (Top 1%)<br/>Presidential Scholarship · Best Undergraduate Thesis Award | [B.Eng. Thesis](https://github.com/theraihanrakibb/B.Eng-Thesis-Design-and-Implementation-of-a-Distributed-Confidential-Query-Protocol-for-Spark) |
 
 ### Awards & Certifications
 
