@@ -25,7 +25,7 @@
 
 ---
 
-> ML Systems Engineer focused on LLM inference, GPU optimization, and multimodal generative AI. Engineered large-scale LLM serving (Qwen on 4× A800, DeepSeek on H200 clusters), reducing long-context TTFT by 8.3× (55s→6.7s) via 3-tier KV-cache offload and raising stable concurrency by 33% (192→256) via RDMA-based prefill/decode disaggregation. First-author of an IEEE TNNLS manuscript on NVFP4 4-bit video diffusion, benchmarked on H100 GPUs (achieving 4× memory reduction). Strong in SGLang internals, CUDA/Triton, low-precision kernels, and distributed systems.
+<p align="justify">ML Systems Engineer focused on LLM inference, GPU optimization, and multimodal generative AI. Engineered large-scale LLM serving (Qwen on 4× A800, DeepSeek on H200 clusters), reducing long-context TTFT by 8.3× (55s→6.7s) via 3-tier KV-cache offload and raising stable concurrency by 33% (192→256) via RDMA-based prefill/decode disaggregation. First-author of an IEEE TNNLS manuscript on NVFP4 4-bit video diffusion, benchmarked on H100 GPUs (achieving 4× memory reduction). Strong in SGLang internals, CUDA/Triton, low-precision kernels, and distributed systems.</p>
 
 ### ⚡ At a glance
 
