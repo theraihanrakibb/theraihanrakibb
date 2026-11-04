@@ -257,21 +257,7 @@ Research-driven multimodal and NLP work — taking generative and understanding 
 ### GitHub Stats
 
 <div align="center" style="margin:2px;">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=theraihanrakibb&theme=tokyonight" width="100%" style="margin:2px; border-radius:15px;" alt="GitHub Profile Details" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=theraihanrakibb&theme=tokyonight" style="display:inline-block; width:49.75%; margin:2px; vertical-align:top;" alt="Repos per Language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=theraihanrakibb&theme=tokyonight" style="display:inline-block; width:49.75%; margin:2px; vertical-align:top;" alt="Most Commit Language" />
-</div>
-
-<div align="center" style="margin:2px;">
   <img src="https://ghchart.rshah.org/00e5ff/theraihanrakibb" width="100%" style="margin:2px;" alt="Contribution Graph" />
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=theraihanrakibb&theme=tokyonight" style="display:inline-block; width:49.75%; margin:2px; vertical-align:top;" alt="GitHub Streak" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=theraihanrakibb&theme=tokyonight" style="display:inline-block; width:49.75%; margin:2px; vertical-align:top;" alt="GitHub Stats" />
 </div>
 
 ---
