@@ -13,7 +13,7 @@
   &nbsp;
   <a href="https://raw.githubusercontent.com/theraihanrakibb/theraihanrakibb/main/Resume_Raihan_MLSys_NWPU_2027.pdf"><img src="https://img.shields.io/badge/Resume-2027%20CV%20(EN%2F中文)-00B4D8?style=flat-square&logo=adobe-acrobat-reader&logoColor=white" height="24" /></a>
   &nbsp;
-  <a href="https://raw.githubusercontent.com/theraihanrakibb/theraihanrakibb/main/CL_Raihan_MLSys_NWPU_2027.pdf"><img src="https://img.shields.io/badge/Cover%20Letter-2027%20CL%20(EN%2F中文)-00B4D8?style=flat-square&logo=adobe-acrobat-reader&logoColor=white" height="24" /></a>
+  <a href="https://raw.githubusercontent.com/theraihanrakibb/theraihanrakibb/main/Resume_Raihan_PhD_NWPU_2027.pdf"><img src="https://img.shields.io/badge/PhD%20CV-2027%20Academic%20CV%20(EN)-00B4D8?style=flat-square&logo=adobe-acrobat-reader&logoColor=white" height="24" /></a>
 </p>
 
 <p align="center">
@@ -50,7 +50,7 @@
 
 <div align="center">
   <a href="https://raw.githubusercontent.com/theraihanrakibb/theraihanrakibb/main/Resume_Raihan_MLSys_NWPU_2027.pdf"><img src="https://img.shields.io/badge/📥%20Download%20CV-2027%20Resume%20(EN%2F中文)-00B4D8?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" height="34" alt="Download CV" /></a>
-  &nbsp; <a href="https://raw.githubusercontent.com/theraihanrakibb/theraihanrakibb/main/CL_Raihan_MLSys_NWPU_2027.pdf"><img src="https://img.shields.io/badge/📥%20Cover%20Letter-2027%20CL%20(EN%2F中文)-00B4D8?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" height="34" alt="Cover Letter" /></a>
+  &nbsp; <a href="https://raw.githubusercontent.com/theraihanrakibb/theraihanrakibb/main/Resume_Raihan_PhD_NWPU_2027.pdf"><img src="https://img.shields.io/badge/📥%20PhD%20CV-2027%20Academic%20CV%20(EN)-00B4D8?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" height="34" alt="PhD Academic CV" /></a>
 </div>
 
 ---
@@ -131,7 +131,7 @@ flowchart LR
 ### Awards & Certifications
 
 - **Scholarships:** Chinese Government Scholarship (2024–2027) · NWPU Presidential Scholarship (2020–2024) · Wu Yajun Scholarship (2024)
-- **Certifications:** AWS Certified Machine Learning – Specialty · Professional Scrum Master I (PSM I), Scrum.org · Deep Learning Specialization (DeepLearning.AI)
+- **Certifications:** Deep Learning Specialization (DeepLearning.AI) · Claude Academy: Claude Code in Action (Anthropic, 2026) · AI Agents Fundamentals (Hugging Face, 2026)
 
 ### Research Interests
 
