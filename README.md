@@ -38,15 +38,12 @@
 | 🎓 **Status** | M.Eng. in Software Engineering, School of Software, Northwestern Polytechnical University (Top 1%) · 2027 New Grad · available Jul 2027 |
 
 ### Currently
-- 🎓 **ML Systems Engineer | LLM Inference & Multimodal AI** — 2027 New Grad, open to AI/ML, Research Engineer & AI Infrastructure roles across **Mainland China & Hong Kong** (MNC & global AI R&D); available **Jul 2027**.
-- 🛠️ Building an **open-source AI-infra portfolio** (LLM serving, KV-cache, RDMA, FP8 quantization) to sharpen and showcase production systems engineering.
+- 🔬 **Graduate Research Intern** — ReArch · Internship, Shanghai, China (Remote), Oct 2026 – Present. Under Prof. Jingwen Leng and Weiming Hu; research on hardware-software co-design and low-bit LLM inference; developing and optimizing CUDA & Triton kernels and evaluating memory/compute trade-offs for LLMs.
 - 📄 Writing my M.Eng. thesis on **multimodal deepfake detection** (visual + audio + temporal inconsistencies); first author of **NVFP4-DiT** (IEEE TNNLS, Q1, under review).
 
 ---
 
 ### 📄 Resume / CV
-
-> 🎓 **New Graduate 2027** targeting AI Infrastructure / LLM Inference engineering roles at MNC & global AI R&D centers across **Mainland China + Hong Kong**.
 
 <div align="center">
   <a href="https://raw.githubusercontent.com/theraihanrakibb/theraihanrakibb/main/Raihan_Technical_Resume.pdf"><img src="https://img.shields.io/badge/📥%20Technical%20Resume-2027%20(EN%2F中文)-00B4D8?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" height="34" alt="Technical Resume" /></a>
@@ -128,8 +125,8 @@ flowchart LR
 
 | Degree | School | Period | Thesis |
 |--------|--------|--------|--------|
-| **M.Eng. in Software Engineering** | School of Software | Sep 2024 – Jul 2027 \| GPA 88/100 (Top 1%)<br/>Chinese Government Scholarship · President, International Student Union (ISU)<br/>Research Lab: [Audio, Speech and Language Processing Lab (ASLP@NPU)](https://www.npu-aslp.org/) | [M.Eng. Thesis](https://github.com/theraihanrakibb/ddv_avti) |
-| **B.Eng. in Computer Science & Technology** | School of Computer Science | Sep 2020 – Jul 2024 \| GPA 85/100 (Top 1%)<br/>Presidential Scholarship · Best Undergraduate Thesis Award<br/>Advisor's current center: [NWPU Human-Cyber-Physical Fusion Intelligent Computing Innovation Center](https://hcps.nwpu.edu.cn/#) | [B.Eng. Thesis](https://github.com/theraihanrakibb/di-dcqps) |
+| **M.Eng. in Software Engineering** | School of Software | Sep 2024 – Jul 2027 \| GPA 88/100 (Top 1%)<br/>Chinese Government Scholarship · President, International Student Union (ISU), Research Lab: [Audio, Speech and Language Processing Lab (ASLP@NPU)](https://www.npu-aslp.org/) | [M.Eng. Thesis](https://github.com/theraihanrakibb/ddv_avti) |
+| **B.Eng. in Computer Science & Technology** | School of Computer Science | Sep 2020 – Jul 2024 \| GPA 85/100 (Top 1%)<br/>Presidential Scholarship · Best Undergraduate Thesis Award, Advisor's current center: [NWPU Human-Cyber-Physical Fusion Intelligent Computing Innovation Center](https://hcps.nwpu.edu.cn/#) | [B.Eng. Thesis](https://github.com/theraihanrakibb/di-dcqps) |
 
 ### Awards & Certifications
 
