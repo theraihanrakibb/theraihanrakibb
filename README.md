@@ -128,13 +128,13 @@ flowchart LR
 
 | Degree | School | Period | Thesis |
 |--------|--------|--------|--------|
-| **M.Eng. in Software Engineering** | School of Software | Sep 2024 – Jul 2027 \| GPA 88/100 (Top 1%)<br/>Chinese Government Scholarship · President, International Student Union (ISU)<br/>Research Lab: [Audio, Speech and Language Processing Lab (ASLP@NPU)](https://www.npu-aslp.org/) | [M.Eng. Thesis](https://github.com/theraihanrakibb/M.Eng-Thesis-Multimodal-Deepfake-Audio-Visual-Temporal-Framework) |
-| **B.Eng. in Computer Science & Technology** | School of Computer Science | Sep 2020 – Jul 2024 \| GPA 85/100 (Top 1%)<br/>Presidential Scholarship · Best Undergraduate Thesis Award<br/>Advisor's current center: [NWPU Human-Cyber-Physical Fusion Intelligent Computing Innovation Center](https://hcps.nwpu.edu.cn/#) | [B.Eng. Thesis](https://github.com/theraihanrakibb/B.Eng-Thesis-Design-and-Implementation-of-a-Distributed-Confidential-Query-Protocol-for-Spark) |
+| **M.Eng. in Software Engineering** | School of Software | Sep 2024 – Jul 2027 \| GPA 88/100 (Top 1%)<br/>Chinese Government Scholarship · President, International Student Union (ISU)<br/>Research Lab: [Audio, Speech and Language Processing Lab (ASLP@NPU)](https://www.npu-aslp.org/) | [M.Eng. Thesis](https://github.com/theraihanrakibb/ddv_avti) |
+| **B.Eng. in Computer Science & Technology** | School of Computer Science | Sep 2020 – Jul 2024 \| GPA 85/100 (Top 1%)<br/>Presidential Scholarship · Best Undergraduate Thesis Award<br/>Advisor's current center: [NWPU Human-Cyber-Physical Fusion Intelligent Computing Innovation Center](https://hcps.nwpu.edu.cn/#) | [B.Eng. Thesis](https://github.com/theraihanrakibb/di-dcqps) |
 
 ### Awards & Certifications
 
 - **Scholarships:** Chinese Government Scholarship (2024–2027) · NWPU Presidential Scholarship (2020–2024) · Wu Yajun Scholarship (2024)
-- **Certifications:** Deep Learning Specialization (DeepLearning.AI) · Claude Academy: Claude Code in Action (Anthropic, 2026) · AI Agents Fundamentals (Hugging Face, 2026)
+- **Certifications:** Deep Learning Specialization · Claude Academy: Claude Code in Action · AI Agents Fundamentals
 
 ### Research Interests
 
@@ -181,7 +181,7 @@ Research-driven multimodal and NLP work — taking generative and understanding 
 | Project | Area | What it does |
 |---------|------|--------------|
 | [NVFP4-DiT](https://github.com/theraihanrakibb/NVFP4-DiT) | Multimodal Generation | 4-bit audio-guided video diffusion transformer (IEEE TNNLS, under review): FP4-packed Triton kernels → **4× memory reduction** and **3.2× faster than FP16** (2.1× vs naive FP4), evaluated on WebVid-10M, VGGSound and UCF-101 on H100; includes a vLLM-style serving scheduler (frame-level paged attention, dynamic frame batching). |
-| [Multimodal Deepfake Detection](https://github.com/theraihanrakibb/M.Eng-Thesis-Multimodal-Deepfake-Audio-Visual-Temporal-Framework) | Multimodal Understanding | Audio-visual-temporal framework for deepfake video detection (M.Eng. thesis). |
+| [Multimodal Deepfake Detection](https://github.com/theraihanrakibb/ddv_avti) | Multimodal Understanding | Audio-visual-temporal framework for deepfake video detection (M.Eng. thesis). |
 
 ### ⭐ Featured Work
 
@@ -203,9 +203,9 @@ Research-driven multimodal and NLP work — taking generative and understanding 
 | Project | Description |
 |---------|-------------|
 | [NVFP4-DiT](https://github.com/theraihanrakibb/NVFP4-DiT) | 4-bit low-precision audio-guided video diffusion transformer (IEEE TNNLS, under review) — FP4 Triton kernels, QAT with learnable cross-modal scales, vLLM-style scheduler. |
-| [M.Eng. Thesis](https://github.com/theraihanrakibb/M.Eng-Thesis-Multimodal-Deepfake-Audio-Visual-Temporal-Framework) | Detecting Deepfake Video by a Multimodal Audio-Visual Framework with Temporal Inconsistencies. |
+| [M.Eng. Thesis](https://github.com/theraihanrakibb/ddv_avti) | Detecting Deepfake Video by a Multimodal Audio-Visual Framework with Temporal Inconsistencies. |
 | [c-compiler-frontend](https://github.com/theraihanrakibb/c-compiler-frontend) | 4-stage C compiler front-end: lexical, syntax, semantic analysis + three-address code generation (Flex/Bison). |
-| [B.Eng. Thesis](https://github.com/theraihanrakibb/B.Eng-Thesis-Design-and-Implementation-of-a-Distributed-Confidential-Query-Protocol-for-Spark) | Design and Implementation of a Distributed Confidential Query Protocol for Spark — Apache Spark + CKKS homomorphic encryption. |
+| [B.Eng. Thesis](https://github.com/theraihanrakibb/di-dcqps) | Design and Implementation of a Distributed Confidential Query Protocol for Spark — Apache Spark + CKKS homomorphic encryption. |
 | [Portfolio](https://github.com/theraihanrakibb/theraihanrakibb.github.io) | Personal portfolio website. |
 
 ### Publication
