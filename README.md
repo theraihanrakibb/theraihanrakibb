@@ -11,9 +11,9 @@
   &nbsp;
   <a href="https://github.com/theraihanrakibb"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" height="24" /></a>
   &nbsp;
-  <a href="https://raw.githubusercontent.com/theraihanrakibb/theraihanrakibb/main/Resume_Raihan_MLSys_NWPU_2027.pdf"><img src="https://img.shields.io/badge/Resume-2027%20CV%20(EN%2F中文)-00B4D8?style=flat-square&logo=adobe-acrobat-reader&logoColor=white" height="24" /></a>
+  <a href="https://raw.githubusercontent.com/theraihanrakibb/theraihanrakibb/main/Raihan_Technical_Resume.pdf"><img src="https://img.shields.io/badge/Technical%20Resume-2027%20(EN%2F中文)-00B4D8?style=flat-square&logo=adobe-acrobat-reader&logoColor=white" height="24" /></a>
   &nbsp;
-  <a href="https://raw.githubusercontent.com/theraihanrakibb/theraihanrakibb/main/Resume_Raihan_PhD_NWPU_2027.pdf"><img src="https://img.shields.io/badge/PhD%20CV-2027%20Academic%20CV%20(EN)-00B4D8?style=flat-square&logo=adobe-acrobat-reader&logoColor=white" height="24" /></a>
+  <a href="https://raw.githubusercontent.com/theraihanrakibb/theraihanrakibb/main/Raihan_Research_Resume.pdf"><img src="https://img.shields.io/badge/Research%20Resume-2027%20Academic%20CV%20(EN)-00B4D8?style=flat-square&logo=adobe-acrobat-reader&logoColor=white" height="24" /></a>
 </p>
 
 <p align="center">
@@ -49,9 +49,12 @@
 > 🎓 **New Graduate 2027** targeting AI Infrastructure / LLM Inference engineering roles at MNC & global AI R&D centers across **Mainland China + Hong Kong**.
 
 <div align="center">
-  <a href="https://raw.githubusercontent.com/theraihanrakibb/theraihanrakibb/main/Resume_Raihan_MLSys_NWPU_2027.pdf"><img src="https://img.shields.io/badge/📥%20Download%20CV-2027%20Resume%20(EN%2F中文)-00B4D8?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" height="34" alt="Download CV" /></a>
-  &nbsp; <a href="https://raw.githubusercontent.com/theraihanrakibb/theraihanrakibb/main/Resume_Raihan_PhD_NWPU_2027.pdf"><img src="https://img.shields.io/badge/📥%20PhD%20CV-2027%20Academic%20CV%20(EN)-00B4D8?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" height="34" alt="PhD Academic CV" /></a>
+  <a href="https://raw.githubusercontent.com/theraihanrakibb/theraihanrakibb/main/Raihan_Technical_Resume.pdf"><img src="https://img.shields.io/badge/📥%20Technical%20Resume-2027%20(EN%2F中文)-00B4D8?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" height="34" alt="Technical Resume" /></a>
+  &nbsp; <a href="https://raw.githubusercontent.com/theraihanrakibb/theraihanrakibb/main/Raihan_Research_Resume.pdf"><img src="https://img.shields.io/badge/📥%20Research%20Resume-2027%20Academic%20CV%20(EN)-00B4D8?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" height="34" alt="Research Resume" /></a>
 </div>
+
+- [Technical Resume (EN / 中文)](Raihan_Technical_Resume.pdf) — ML Systems, LLM Inference & Multimodal AI, 2027 New Grad.
+- [Research Resume (EN)](Raihan_Research_Resume.pdf) — PhD-oriented academic CV, ML Systems & LLM Inference.
 
 ---
 
@@ -125,8 +128,8 @@ flowchart LR
 
 | Degree | School | Period | Thesis |
 |--------|--------|--------|--------|
-| **M.Eng. in Software Engineering** | School of Software | Sep 2024 – Jul 2027 \| GPA 88/100 (Top 1%)<br/>Chinese Government Scholarship · President, International Student Union (ISU) | [M.Eng. Thesis](https://github.com/theraihanrakibb/M.Eng-Thesis-Multimodal-Deepfake-Audio-Visual-Temporal-Framework) |
-| **B.Eng. in Computer Science & Technology** | School of Computer Science | Sep 2020 – Jul 2024 \| GPA 85/100 (Top 1%)<br/>Presidential Scholarship · Best Undergraduate Thesis Award | [B.Eng. Thesis](https://github.com/theraihanrakibb/B.Eng-Thesis-Design-and-Implementation-of-a-Distributed-Confidential-Query-Protocol-for-Spark) |
+| **M.Eng. in Software Engineering** | School of Software | Sep 2024 – Jul 2027 \| GPA 88/100 (Top 1%)<br/>Chinese Government Scholarship · President, International Student Union (ISU)<br/>Research Lab: [Audio, Speech and Language Processing Lab (ASLP@NPU)](https://www.npu-aslp.org/) | [M.Eng. Thesis](https://github.com/theraihanrakibb/M.Eng-Thesis-Multimodal-Deepfake-Audio-Visual-Temporal-Framework) |
+| **B.Eng. in Computer Science & Technology** | School of Computer Science | Sep 2020 – Jul 2024 \| GPA 85/100 (Top 1%)<br/>Presidential Scholarship · Best Undergraduate Thesis Award<br/>Advisor's current center: [NWPU Human-Cyber-Physical Fusion Intelligent Computing Innovation Center](https://hcps.nwpu.edu.cn/#) | [B.Eng. Thesis](https://github.com/theraihanrakibb/B.Eng-Thesis-Design-and-Implementation-of-a-Distributed-Confidential-Query-Protocol-for-Spark) |
 
 ### Awards & Certifications
 
