@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=MD+RAKIBUL+ISLAM+RAIHAN;ML+Systems+Engineer;LLM+Inference+%26+Multimodal+AI;KV-Cache+%7C+NVFP4-DiT" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=MD+RAKIBUL+ISLAM+RAIHAN;ML+Systems+Engineer;ML+Systems+%26+LLM+Inference;KV-Cache+%7C+NVFP4-DiT" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -25,7 +25,7 @@
 
 ---
 
-> I'm an ML Systems Engineer working on two equal fronts: **LLM inference infrastructure** (3-tier KV-cache offload over Mooncake RDMA, PD-disaggregation, FP8/FP4 on 4× A800-80GB and H200 clusters) and **multimodal AI** (audio-guided video diffusion, deepfake detection). I'm an M.Eng. candidate in Software Engineering at [Northwestern Polytechnical University (NWPU)](https://www.nwpu.edu.cn/) (Top 1%) and first author of **NVFP4-DiT** (IEEE TNNLS, under review).
+> Hi, I'm Raihan. I am an ML Systems Engineer specializing in AI Infrastructure. I focus on optimizing LLM inference, specifically KV-cache management, Prefill/Decode disaggregation, and writing low-precision FP8/FP4 Triton kernels. Currently finishing my M.Eng. at [Northwestern Polytechnical University (NWPU)](https://www.nwpu.edu.cn/), with a research focus on efficient multimodal generative AI.
 
 ### ⚡ At a glance
 
