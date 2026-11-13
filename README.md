@@ -269,7 +269,7 @@ Research-driven multimodal and NLP work — taking generative and understanding 
 ### GitHub Stats
 
 <div align="center" style="margin:2px;">
-  <img src="https://ghchart.rshah.org/00e5ff/theraihanrakibb" width="100%" alt="Contribution Graph" />
+  <img src="assets/contribution-graph.png" width="100%" alt="Contribution Graph" />
 </div>
 
 ---
