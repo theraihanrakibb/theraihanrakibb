@@ -125,8 +125,8 @@ flowchart LR
 
 | Degree | School | Period | Thesis |
 |--------|--------|--------|--------|
-| **M.Eng. in Software Engineering** | School of Software | Sep 2024 – Jul 2027 \| GPA 88/100 (Top 1%)<br/>Chinese Government Scholarship · President, International Student Union (ISU), Research Lab: [Audio, Speech and Language Processing Lab (ASLP@NPU)](https://www.npu-aslp.org/) | [M.Eng. Thesis](https://github.com/theraihanrakibb/ml-research/tree/main/ddv_avti) |
-| **B.Eng. in Computer Science & Technology** | School of Computer Science | Sep 2020 – Jul 2024 \| GPA 85/100 (Top 1%)<br/>Presidential Scholarship · Best Undergraduate Thesis Award, Advisor's current center: [NWPU Human-Cyber-Physical Fusion Intelligent Computing Innovation Center](https://hcps.nwpu.edu.cn/#) | [B.Eng. Thesis](https://github.com/theraihanrakibb/ml-research/tree/main/di-dcqps) |
+| **M.Eng. in Software Engineering** | School of Software | Sep 2024 – Jul 2027 \| GPA 88/100 (Top 1%)<br/>Chinese Government Scholarship · President, International Student Union (ISU), Research Lab: [Audio, Speech and Language Processing Lab (ASLP@NPU)](https://www.npu-aslp.org/) | [M.Eng. Thesis](https://github.com/theraihanrakibb/deepfake-av-detector) |
+| **B.Eng. in Computer Science & Technology** | School of Computer Science | Sep 2020 – Jul 2024 \| GPA 85/100 (Top 1%)<br/>Presidential Scholarship · Best Undergraduate Thesis Award, Advisor's current center: [NWPU Human-Cyber-Physical Fusion Intelligent Computing Innovation Center](https://hcps.nwpu.edu.cn/#) | [B.Eng. Thesis](https://github.com/theraihanrakibb/spark-ckks-query) |
 
 ### Awards & Certifications
 
@@ -151,7 +151,7 @@ flowchart LR
 
 ### 🚀 AI Infrastructure Portfolio
 
-A curated set of **10 production-quality, fully-tested, Dockerized** AI-infra projects — each with a clear architecture, quickstart, and CI. Showcased in [**ai-infra-portfolio**](https://github.com/theraihanrakibb/ml-systems/tree/main/portfolio).
+A curated set of **10 production-quality, fully-tested, Dockerized** AI-infra projects — each with a clear architecture, quickstart, and CI. Showcased in [**ai-infra-portfolio**](https://github.com/theraihanrakibb/ai-infra-portfolio).
 
 <details>
 <summary><b>Show all 10 projects ↓</b></summary>
@@ -177,15 +177,15 @@ Research-driven multimodal and NLP work — taking generative and understanding 
 
 | Project | Area | What it does |
 |---------|------|--------------|
-| [NVFP4-DiT](https://github.com/theraihanrakibb/ml-research/tree/main/NVFP4-DiT) | Multimodal Generation | 4-bit audio-guided video diffusion transformer (IEEE TNNLS, under review): FP4-packed Triton kernels → **4× memory reduction** and **3.2× faster than FP16** (2.1× vs naive FP4), evaluated on WebVid-10M, VGGSound and UCF-101 on H100; includes a vLLM-style serving scheduler (frame-level paged attention, dynamic frame batching). |
-| [Multimodal Deepfake Detection](https://github.com/theraihanrakibb/ml-research/tree/main/ddv_avti) | Multimodal Understanding | Audio-visual-temporal framework for deepfake video detection (M.Eng. thesis). |
+| [NVFP4-DiT](https://github.com/theraihanrakibb/nvfp4-dit) | Multimodal Generation | 4-bit audio-guided video diffusion transformer (IEEE TNNLS, under review): FP4-packed Triton kernels → **4× memory reduction** and **3.2× faster than FP16** (2.1× vs naive FP4), evaluated on WebVid-10M, VGGSound and UCF-101 on H100; includes a vLLM-style serving scheduler (frame-level paged attention, dynamic frame batching). |
+| [Multimodal Deepfake Detection](https://github.com/theraihanrakibb/deepfake-av-detector) | Multimodal Understanding | Audio-visual-temporal framework for deepfake video detection (M.Eng. thesis). |
 
 ### ⭐ Featured Work
 
 <table>
 <tr>
 <td width="50%" align="center">
-<a href="https://github.com/theraihanrakibb/ml-research/tree/main/NVFP4-DiT"><img src="https://raw.githubusercontent.com/theraihanrakibb/ml-research/main/NVFP4-DiT/images/architecture.png" alt="NVFP4-DiT architecture" width="100%"/></a>
+<a href="https://github.com/theraihanrakibb/nvfp4-dit"><img src="https://raw.githubusercontent.com/theraihanrakibb/nvfp4-dit/main/images/architecture.png" alt="NVFP4-DiT architecture" width="100%"/></a>
 <b>NVFP4-DiT</b><br/>4-bit audio-guided video diffusion — 4× memory, 3.2× faster than FP16.
 </td>
 <td width="50%" align="center">
@@ -199,10 +199,10 @@ Research-driven multimodal and NLP work — taking generative and understanding 
 
 | Project | Description |
 |---------|-------------|
-| [NVFP4-DiT](https://github.com/theraihanrakibb/ml-research/tree/main/NVFP4-DiT) | 4-bit low-precision audio-guided video diffusion transformer (IEEE TNNLS, under review) — FP4 Triton kernels, QAT with learnable cross-modal scales, vLLM-style scheduler. |
-| [M.Eng. Thesis](https://github.com/theraihanrakibb/ml-research/tree/main/ddv_avti) | Detecting Deepfake Video by a Multimodal Audio-Visual Framework with Temporal Inconsistencies. |
-| [c-compiler-frontend](https://github.com/theraihanrakibb/ml-deep-learning/tree/main/c-compiler) | 4-stage C compiler front-end: lexical, syntax, semantic analysis + three-address code generation (Flex/Bison). |
-| [B.Eng. Thesis](https://github.com/theraihanrakibb/ml-research/tree/main/di-dcqps) | Design and Implementation of a Distributed Confidential Query Protocol for Spark — Apache Spark + CKKS homomorphic encryption. |
+| [NVFP4-DiT](https://github.com/theraihanrakibb/nvfp4-dit) | 4-bit low-precision audio-guided video diffusion transformer (IEEE TNNLS, under review) — FP4 Triton kernels, QAT with learnable cross-modal scales, vLLM-style scheduler. |
+| [M.Eng. Thesis](https://github.com/theraihanrakibb/deepfake-av-detector) | Detecting Deepfake Video by a Multimodal Audio-Visual Framework with Temporal Inconsistencies. |
+| [c-compiler](https://github.com/theraihanrakibb/c-compiler) | 4-stage C compiler front-end: lexical, syntax, semantic analysis + three-address code generation (Flex/Bison). |
+| [B.Eng. Thesis](https://github.com/theraihanrakibb/spark-ckks-query) | Design and Implementation of a Distributed Confidential Query Protocol for Spark — Apache Spark + CKKS homomorphic encryption. |
 | [Portfolio](https://github.com/theraihanrakibb/theraihanrakibb.github.io) | Personal portfolio website. |
 
 ### Publication
