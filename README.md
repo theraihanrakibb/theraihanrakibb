@@ -11,7 +11,7 @@
   &nbsp;
   <a href="https://github.com/theraihanrakibb"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" height="24" /></a>
   &nbsp;
-  <a href="https://raw.githubusercontent.com/theraihanrakibb/theraihanrakibb/main/Raihan_Technical_Resume.pdf"><img src="https://img.shields.io/badge/Technical%20Resume-2027%20(EN%2F中文)-00B4D8?style=flat-square&logo=adobe-acrobat-reader&logoColor=white" height="24" /></a>
+  <a href="https://raw.githubusercontent.com/theraihanrakibb/theraihanrakibb/main/Raihan_Technical_Resume.pdf"><img src="https://img.shields.io/badge/Technical%20Resume-2027%20(EN)-00B4D8?style=flat-square&logo=adobe-acrobat-reader&logoColor=white" height="24" /></a>
   &nbsp;
   <a href="https://raw.githubusercontent.com/theraihanrakibb/theraihanrakibb/main/Raihan_Research_Resume.pdf"><img src="https://img.shields.io/badge/Research%20Resume-2027%20Academic%20CV%20(EN)-00B4D8?style=flat-square&logo=adobe-acrobat-reader&logoColor=white" height="24" /></a>
 </p>
@@ -40,7 +40,8 @@
 | 🎓 **Status** | M.Eng. in Software Engineering, School of Software, Northwestern Polytechnical University (Top 1%) · 2027 New Grad · available Jul 2027 |
 
 ### Currently
-- 🔬 **Graduate Research Intern** — ReArch · Internship, Shanghai, China (Remote), Oct 2026 – Present. Under Prof. Jingwen Leng and Weiming Hu; research on hardware-software co-design and low-bit LLM inference; developing and optimizing CUDA & Triton kernels and evaluating memory/compute trade-offs for LLMs.
+- 🔬 **Research Intern** — Approaching AI × Tsinghua MADSys Lab (Remote), Nov 2026 – Present. Advisor: **Prof. Mingxing Zhang**; Technical Mentor: **Dr. Ke Yang**. Core development of **Mooncake** (KV-cache-centric disaggregated LLM serving); optimizing the C++ Transfer Engine for RDMA-based data movement; investigating Agentic RL rollout systems (tree-structured KV-prefix reuse, memory management for disaggregated long-context serving).
+- 🔬 **Research Collaborator** — SJTU ReArch Lab (Remote), Nov 2026 – Present. Under **Prof. Jingwen Leng** & **Weiming Hu (PhD)**; hardware-software co-design and low-bit LLM inference (FP8/FP4), developing & optimizing CUDA/Triton kernels.
 - 📄 Writing my M.Eng. thesis on **multimodal deepfake detection** (visual + audio + temporal inconsistencies); first author of **NVFP4-DiT** (IEEE TNNLS, Q1, under review).
 
 ---
@@ -48,11 +49,11 @@
 ### 📄 Resume / CV
 
 <div align="center">
-  <a href="https://raw.githubusercontent.com/theraihanrakibb/theraihanrakibb/main/Raihan_Technical_Resume.pdf"><img src="https://img.shields.io/badge/📥%20Technical%20Resume-2027%20(EN%2F中文)-00B4D8?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" height="34" alt="Technical Resume" /></a>
+  <a href="https://raw.githubusercontent.com/theraihanrakibb/theraihanrakibb/main/Raihan_Technical_Resume.pdf"><img src="https://img.shields.io/badge/📥%20Technical%20Resume-2027%20(EN)-00B4D8?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" height="34" alt="Technical Resume" /></a>
   &nbsp; <a href="https://raw.githubusercontent.com/theraihanrakibb/theraihanrakibb/main/Raihan_Research_Resume.pdf"><img src="https://img.shields.io/badge/📥%20Research%20Resume-2027%20Academic%20CV%20(EN)-00B4D8?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" height="34" alt="Research Resume" /></a>
 </div>
 
-- [Technical Resume (EN / 中文)](Raihan_Technical_Resume.pdf) — ML Systems, LLM Inference & Multimodal AI, 2027 New Grad.
+- [Technical Resume (EN)](Raihan_Technical_Resume.pdf) — ML Systems, LLM Inference & Multimodal AI, 2027 New Grad.
 - [Research Resume (EN)](Raihan_Research_Resume.pdf) — PhD-oriented academic CV, ML Systems & LLM Inference.
 
 ---
@@ -106,13 +107,15 @@ flowchart LR
 | Kernel speedup | **3.2× vs FP16** (2.1× vs naive FP4) | FP4-packed Triton kernels (NVFP4-DiT) |
 | Memory reduction | **4×** | NVFP4-DiT on H100 |
 | M.Eng. Thesis | **deepfake detection** | multimodal audio-visual-temporal framework |
-| Scholarships | Chinese Gov. · NWPU Presidential · Wu Yajun | Northwestern Polytechnical University M.Eng. |
+| Scholarships & Awards | Chinese Gov. · Presidential · Wu Yajun · Best Thesis · Hackathon | Northwestern Polytechnical University M.Eng. / B.Eng. |
 
 ### Experience
 
-- **AI Infrastructure Engineer Intern** | InfiX.ai | Shenzhen, China | Apr 2026 - Jun 2026
-- **Software Engineer Intern (AI Agent)** | Hong Kong Amraim Group Co., Ltd. | Shenzhen, China | Jun 2025 - Sep 2025
-- **Electrical Software Engineer Intern** | Shaanxi Longong Intelligent Technology Co., Ltd. | Xi'an, China | Feb 2025 - Apr 2025
+- **Research Intern** | Approaching AI (Tsinghua MADSys Collaboration) | Remote | Nov 2026 – Present
+- **Research Collaborator** | SJTU ReArch Lab | Remote | Nov 2026 – Present
+- **AI Infrastructure Engineer Intern** | InfiX.ai | Shenzhen, China | Apr 2026 – Jun 2026
+- **Software Engineer Intern (AI Agent)** | Hong Kong Amraim Group Co., Ltd. | Shenzhen, China | Jun 2025 – Sep 2025
+- **Electrical Software Engineer Intern** | Shaanxi Longong Intelligent Technology Co., Ltd. | Xi'an, China | Feb 2025 – Apr 2025
 
 ### 🎓 Education
 
@@ -132,7 +135,7 @@ flowchart LR
 
 ### Awards & Certifications
 
-- **Scholarships:** Chinese Government Scholarship (2024–2027) · NWPU Presidential Scholarship (2020–2024) · Wu Yajun Scholarship (2024)
+- **Scholarships & Awards:** Chinese Government Scholarship (2024–2027) · NWPU Presidential Scholarship (2020–2024) · Wu Yajun Scholarship (2024) · Best Undergraduate Thesis Award (2024) · NWPU AI Challenge Hackathon Winner (2023)
 - **Certifications:** Deep Learning Specialization · Claude Academy: Claude Code in Action · AI Agents Fundamentals
 
 ### 🤝 Service & Teaching
