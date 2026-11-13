@@ -53,8 +53,7 @@
   &nbsp; <a href="https://raw.githubusercontent.com/theraihanrakibb/theraihanrakibb/main/Raihan_Research_Resume.pdf"><img src="https://img.shields.io/badge/📥%20Research%20Resume-2027%20Academic%20CV%20(EN)-00B4D8?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" height="34" alt="Research Resume" /></a>
 </div>
 
-- [Technical Resume (EN)](Raihan_Technical_Resume.pdf) — ML Systems, LLM Inference & Multimodal AI, 2027 New Grad.
-- [Research Resume (EN)](Raihan_Research_Resume.pdf) — PhD-oriented academic CV, ML Systems & LLM Inference.
+
 
 ---
 
@@ -79,7 +78,7 @@ flowchart LR
 - **AI Infrastructure** — 3-tier KV-cache offload, prefill/decode disaggregation, SGLang (v0.5.9 / v0.5.10-post2), RDMA, 4× A800-80GB + 2×/8× H200 clusters.
 - **Low-Precision Inference** — FP8/FP4 quantization for LLMs and diffusion transformers.
 - **Multimodal AI** — audio-guided video diffusion (NVFP4-DiT) and audio-visual deepfake detection research.
-- **LLM / NLP Agents** — LLM-agent workflow automation (Amraim Group) and multimodal understanding.
+- **LLM / NLP Agents** — LLM-agent workflow automation and multimodal understanding.
 
 ### Focus
 
@@ -92,7 +91,7 @@ flowchart LR
 **Multimodal & NLP**
 - **Multimodal Generation** — audio-guided video diffusion transformers (NVFP4-DiT) with FP4-packed Triton kernels, benchmarked on H100.
 - **Multimodal Understanding** — audio-visual-temporal fusion for deepfake detection.
-- **LLM Agents & NLP** — LLM-agent workflow automation and multimodal understanding (Amraim Group internship).
+- **LLM Agents & NLP** — LLM-agent workflow automation and multimodal understanding.
 
 ### Key Achievements
 
@@ -114,8 +113,7 @@ flowchart LR
 - **Research Intern** | Approaching AI (Tsinghua MADSys Collaboration) | Remote | Nov 2026 – Present
 - **Research Collaborator** | SJTU ReArch Lab | Remote | Nov 2026 – Present
 - **AI Infrastructure Engineer Intern** | InfiX.ai | Shenzhen, China | Apr 2026 – Jun 2026
-- **Software Engineer Intern (AI Agent)** | Hong Kong Amraim Group Co., Ltd. | Shenzhen, China | Jun 2025 – Sep 2025
-- **Electrical Software Engineer Intern** | Shaanxi Longong Intelligent Technology Co., Ltd. | Xi'an, China | Feb 2025 – Apr 2025
+
 
 ### 🎓 Education
 
