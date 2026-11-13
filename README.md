@@ -27,6 +27,8 @@
 
 <p align="justify">ML Systems Engineer focused on LLM inference, GPU optimization, and multimodal generative AI. Engineered large-scale LLM serving (Qwen on 4× A800, DeepSeek on H200 clusters), reducing long-context TTFT by 8.3× (55s→6.7s) via 3-tier KV-cache offload and raising stable concurrency by 33% (192→256) via RDMA-based prefill/decode disaggregation. First-author of an IEEE TNNLS manuscript on NVFP4 4-bit video diffusion, benchmarked on H100 GPUs (achieving 4× memory reduction). Strong in SGLang internals, CUDA/Triton, low-precision kernels, and distributed systems.</p>
 
+**🚀 Open to ML Systems / LLM Inference Engineering roles — available from Jul 2027.**
+
 ### ⚡ At a glance
 
 | | |
@@ -125,13 +127,20 @@ flowchart LR
 
 | Degree | School | Period | Thesis |
 |--------|--------|--------|--------|
-| **M.Eng. in Software Engineering** | School of Software | Sep 2024 – Jul 2027 \| GPA 88/100 (Top 1%)<br/>Chinese Government Scholarship · President, International Student Union (ISU), Research Lab: [Audio, Speech and Language Processing Lab (ASLP@NPU)](https://www.npu-aslp.org/) | [M.Eng. Thesis](https://github.com/theraihanrakibb/deepfake-av-detector) |
+| **M.Eng. in Software Engineering** | School of Software | Sep 2024 – Jul 2027 \| GPA 88/100 (Top 1%)<br/>Chinese Government Scholarship · Member, International Student Union (ISU), Research Lab: [Audio, Speech and Language Processing Lab (ASLP@NPU)](https://www.npu-aslp.org/) | [M.Eng. Thesis](https://github.com/theraihanrakibb/deepfake-av-detector) |
 | **B.Eng. in Computer Science & Technology** | School of Computer Science | Sep 2020 – Jul 2024 \| GPA 85/100 (Top 1%)<br/>Presidential Scholarship · Best Undergraduate Thesis Award, Advisor's current center: [NWPU Human-Cyber-Physical Fusion Intelligent Computing Innovation Center](https://hcps.nwpu.edu.cn/#) | [B.Eng. Thesis](https://github.com/theraihanrakibb/spark-ckks-query) |
 
 ### Awards & Certifications
 
 - **Scholarships:** Chinese Government Scholarship (2024–2027) · NWPU Presidential Scholarship (2020–2024) · Wu Yajun Scholarship (2024)
 - **Certifications:** Deep Learning Specialization · Claude Academy: Claude Code in Action · AI Agents Fundamentals
+
+### 🤝 Service & Teaching
+
+- **Member**, International Student Union (ISU), Northwestern Polytechnical University
+- **Academic Volunteer**, School of International College, Northwestern Polytechnical University
+- **Teaching Assistant (TA)**, Object-Oriented Programming (OOP), Northwestern Polytechnical University
+- **Teaching Assistant (TA)**, QT Cross-Platform Framework Design and Programming, Northwestern Polytechnical University
 
 ### Research Interests
 
@@ -257,7 +266,7 @@ Research-driven multimodal and NLP work — taking generative and understanding 
 ### GitHub Stats
 
 <div align="center" style="margin:2px;">
-  <img src="https://ghchart.rshah.org/00e5ff/theraihanrakibb" width="100%" style="margin:2px;" alt="Contribution Graph" />
+  <img src="https://github-contribution-graph.org/graph?username=theraihanrakibb&theme=modern&format=svg" width="100%" alt="Contribution Graph" />
 </div>
 
 ---
