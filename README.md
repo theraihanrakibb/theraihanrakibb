@@ -158,16 +158,16 @@ A curated set of **10 production-quality, fully-tested, Dockerized** AI-infra pr
 
 | Project | Area | What it does |
 |---------|------|--------------|
-| [llm-gateway](https://github.com/theraihanrakibb/ml-systems/tree/main/llm-gateway) | LLM Gateway | OpenAI-compatible proxy: per-key rate limits, cost caps, caching, provider fallback. |
-| [mini-serve](https://github.com/theraihanrakibb/ml-systems/tree/main/mini-serve) | Model Serving | Inference server: dynamic batching, SSE streaming, Prometheus metrics. |
-| [gpu-exporter](https://github.com/theraihanrakibb/ml-systems/tree/main/gpu-exporter) | Observability | NVIDIA GPU Prometheus exporter + Grafana dashboard. |
-| [train-launcher](https://github.com/theraihanrakibb/ml-systems/tree/main/train-launcher) | Training Ops | Fault-tolerant multi-node PyTorch launcher with auto-retry. |
-| [model-registry](https://github.com/theraihanrakibb/ml-systems/tree/main/model-registry) | MLOps | Content-addressed model/dataset registry (mini-MLflow) with aliases. |
-| [kv-cache-sim](https://github.com/theraihanrakibb/ml-systems/tree/main/kv-cache-sim) | Inference Eff. | KV-cache eviction + prefill/decode disaggregation simulator (TTFT/TPOT). |
-| [llm-bench](https://github.com/theraihanrakibb/ml-systems/tree/main/llm-bench) | Benchmarking | LLM benchmark/eval harness: TTFT, TPOT, throughput, cost model. |
-| [quant-playground](https://github.com/theraihanrakibb/ml-systems/tree/main/quant-playground) | Low Precision | FP8/FP4/INT8/INT4 bit-packing + numpy MLP quantization demo. |
-| [llmoops-trace](https://github.com/theraihanrakibb/ml-systems/tree/main/llmoops-trace) | Observability | OpenTelemetry LLM tracing collector + Grafana dashboard. |
-| [rag-pipeline](https://github.com/theraihanrakibb/ml-systems/tree/main/rag-pipeline) | Retrieval (RAG) | Offline RAG toolkit: ingest → chunk → embed → ANN search → rerank. |
+| [llm-gateway](https://github.com/theraihanrakibb/llm-gateway) | LLM Gateway | OpenAI-compatible proxy: per-key rate limits, cost caps, caching, provider fallback. |
+| [mini-serve](https://github.com/theraihanrakibb/mini-llm-serve) | Model Serving | Inference server: dynamic batching, SSE streaming, Prometheus metrics. |
+| [gpu-exporter](https://github.com/theraihanrakibb/gpu-exporter) | Observability | NVIDIA GPU Prometheus exporter + Grafana dashboard. |
+| [train-launcher](https://github.com/theraihanrakibb/train-launcher) | Training Ops | Fault-tolerant multi-node PyTorch launcher with auto-retry. |
+| [model-registry](https://github.com/theraihanrakibb/model-registry) | MLOps | Content-addressed model/dataset registry (mini-MLflow) with aliases. |
+| [kv-cache-sim](https://github.com/theraihanrakibb/kv-cache-simulator) | Inference Eff. | KV-cache eviction + prefill/decode disaggregation simulator (TTFT/TPOT). |
+| [llm-bench](https://github.com/theraihanrakibb/llm-benchmark) | Benchmarking | LLM benchmark/eval harness: TTFT, TPOT, throughput, cost model. |
+| [quant-playground](https://github.com/theraihanrakibb/quantization-playground) | Low Precision | FP8/FP4/INT8/INT4 bit-packing + numpy MLP quantization demo. |
+| [llmoops-trace](https://github.com/theraihanrakibb/llmops-tracer) | Observability | OpenTelemetry LLM tracing collector + Grafana dashboard. |
+| [rag-pipeline](https://github.com/theraihanrakibb/rag-toolkit) | Retrieval (RAG) | Offline RAG toolkit: ingest → chunk → embed → ANN search → rerank. |
 
 </details>
 
