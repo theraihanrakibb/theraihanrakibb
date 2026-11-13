@@ -25,7 +25,9 @@
 
 ---
 
-<p align="justify">ML Systems Engineer specializing in LLM inference infrastructure, distributed model serving, and GPU performance optimization. Engineered large-scale LLM serving (Qwen on 4× A800, DeepSeek on H200 clusters), reducing long-context TTFT by 8.3× (55s→6.7s) via three-tier KV-cache offload over Mooncake RDMA and raising stable concurrency by 33% (192→256) via RDMA-based prefill/decode disaggregation. First author of an IEEE TNNLS manuscript on NVFP4 4-bit video diffusion (4× memory reduction, benchmarked on H100). Strong in SGLang internals, CUDA/Triton, low-precision kernels, and distributed systems, with interests in Agentic RL infrastructure and hardware-software co-design.</p>
+<p align="justify">ML Systems Engineer specializing in LLM inference infrastructure, distributed model serving, and GPU performance optimization. Experienced in developing disaggregated LLM serving systems, optimizing KV-cache management and RDMA data movement, and implementing high-performance CUDA/Triton kernels. Achieved an 8.3× reduction in long-context Time to First Token (TTFT), from 55 seconds to 6.7 seconds, through three-tier KV-cache offloading over Mooncake RDMA. Interested in scalable LLM inference, Agentic RL infrastructure, low-precision computation, and hardware-software co-design.</p>
+
+<p align="center"><b>Core Skills:</b> Mooncake, SGLang, vLLM, KV-Cache, PD Disaggregation, CUDA, Triton, FP8/FP4, PyTorch, Distributed Systems.</p>
 
 **🚀 Open to ML Systems / LLM Inference Engineering roles — available from Jul 2027.**
 
@@ -267,7 +269,7 @@ Research-driven multimodal and NLP work — taking generative and understanding 
 ### GitHub Stats
 
 <div align="center" style="margin:2px;">
-  <img src="https://github-contribution-graph.org/graph?username=theraihanrakibb&theme=modern&format=svg" width="100%" alt="Contribution Graph" />
+  <img src="https://ghchart.rshah.org/00e5ff/theraihanrakibb" width="100%" alt="Contribution Graph" />
 </div>
 
 ---
