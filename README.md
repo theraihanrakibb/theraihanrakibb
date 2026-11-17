@@ -42,8 +42,8 @@
 | 🎓 **Status** | M.Eng. in Software Engineering, School of Software, Northwestern Polytechnical University (Top 1%) · 2027 New Grad · available Jul 2027 |
 
 ### Currently
-- 🔬 **Research Intern** — Approaching AI × Tsinghua MADSys Lab (Remote), Nov 2026 – Present. Advisor: **Prof. Mingxing Zhang**; Technical Mentor: **Dr. Ke Yang**. Core development of **Mooncake** (KV-cache-centric disaggregated LLM serving); optimizing the C++ Transfer Engine for RDMA-based data movement; investigating Agentic RL rollout systems (tree-structured KV-prefix reuse, memory management for disaggregated long-context serving).
-- 🔬 **Research Collaborator** — SJTU ReArch Lab (Remote), Nov 2026 – Present. Under **Prof. Jingwen Leng** & **Weiming Hu (PhD)**; hardware-software co-design and low-bit LLM inference (FP8/FP4), developing & optimizing CUDA/Triton kernels.
+- 🔬 **Large Model Inference Distributed System R&D Intern** — Approaching.AI (Tsinghua MADSys Collaboration), Remote, Nov 2026 – Present. Advisor: **Prof. Mingxing Zhang**; Technical Mentor: **Dr. Ke Yang**. Core development of **Mooncake** (KV-cache-centric disaggregated LLM serving); optimizing the C++ Transfer Engine for RDMA-based data movement; investigating Agentic RL rollout systems (tree-structured KV-prefix reuse, memory management for disaggregated long-context serving).
+- 🔬 **Research Intern** — SJTU ReArch Lab (Remote), Nov 2026 – Present. Under **Prof. Jingwen Leng** & **Weiming Hu (PhD)**; hardware-software co-design and low-bit LLM inference (FP8/FP4), developing & optimizing CUDA/Triton kernels.
 - 📄 Writing my M.Eng. thesis on **multimodal deepfake detection** (visual + audio + temporal inconsistencies); first author of **NVFP4-DiT** (IEEE TNNLS, Q1, under review).
 
 ---
@@ -112,9 +112,9 @@ flowchart LR
 
 ### Experience
 
-- **Research Intern** | Approaching AI (Tsinghua MADSys Collaboration) | Remote | Nov 2026 – Present
-- **Research Collaborator** | SJTU ReArch Lab | Remote | Nov 2026 – Present
-- **AI Infrastructure Engineer Intern** | InfiX.ai | Shenzhen, China | Apr 2026 – Jun 2026
+- **Large Model Inference Distributed System R&D Intern** | Approaching.AI (Tsinghua MADSys Collaboration) | Remote | Nov 2026 – Present
+- **Research Intern** | SJTU ReArch Lab | Remote | Nov 2026 – Present
+- **Technical Staff** | InfiX.ai | Shenzhen, China | Apr 2026 – Jun 2026
 
 
 ### 🎓 Education
