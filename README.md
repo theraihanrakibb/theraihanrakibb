@@ -5,14 +5,14 @@
   <img src="assets/studio/trimmed-hero-light.svg" width="100%" alt="MD RAKIBUL ISLAM RAIHAN. ML System, LLM Inference, KV-Cache, Mooncake, SGLang, and Agent RL. Actions speak louder than words. Snapshot: 3 followers, 5 stars, and 496 profile views." />
 </picture>
 
-<p align="center">
+<div align="center">
   <br />
   <a href="https://theraihanrakibb.github.io/"><img src="assets/studio/accent-contact-1.svg" alt="Portfolio" /></a>
   <a href="https://linkedin.com/in/theraihanrakib"><img src="assets/studio/accent-contact-2.svg" alt="LinkedIn" /></a>
   <a href="mailto:raihanrakib.143@gmail.com"><img src="assets/studio/accent-contact-3.svg" alt="Email" /></a>
   <a href="Raihan_Research_Resume.pdf"><img src="assets/studio/accent-contact-4.svg" alt="Research CV" /></a>
   <a href="Raihan_Technical_Resume.pdf"><img src="assets/studio/accent-contact-5.svg" alt="Technical CV" /></a>
-</p>
+</div>
 
 ## <samp>Selected Work</samp>
 
