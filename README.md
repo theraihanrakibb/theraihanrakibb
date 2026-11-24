@@ -16,9 +16,7 @@
   <a href="Raihan_Technical_Resume.pdf">Technical CV</a>
 </p>
 
-<br/>
-
-<sub>SELECTED WORK — EXPLORE A PROJECT</sub>
+## Selected work
 
 <p>
   <a href="https://github.com/kvcache-ai/Mooncake"><img src="assets/studio/mooncake.png" width="49%" alt="Mooncake: contributing process-group collectives and expert-parallel dispatch. C++ and RDMA." /></a>
@@ -27,51 +25,53 @@
   <a href="https://github.com/theraihanrakibb/deepfake-av-detector"><img src="assets/studio/deepfake.png" width="49%" alt="Multimodal deepfake detection: M.E. thesis on audio, video, and temporal inconsistencies." /></a>
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&amp;logo=python&amp;logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&amp;logo=c%2B%2B&amp;logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/CUDA-76B900?style=flat-square&amp;logo=nvidia&amp;logoColor=white" alt="CUDA" />
-  <img src="https://img.shields.io/badge/Triton-FF6B35?style=flat-square" alt="Triton" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&amp;logo=pytorch&amp;logoColor=white" alt="PyTorch" />
+## Tech stack
+
+<p>
+  <strong>Languages &amp; GPU kernels</strong><br />
+  <img src="https://img.shields.io/badge/Python-376DA0?style=flat-square&amp;logo=python&amp;logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&amp;logo=cplusplus&amp;logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/CUDA-4D7400?style=flat-square&amp;logo=nvidia&amp;logoColor=white" alt="CUDA" />
+  <img src="https://img.shields.io/badge/Triton-B94017?style=flat-square" alt="Triton" />
+  <img src="https://img.shields.io/badge/PyTorch-B83926?style=flat-square&amp;logo=pytorch&amp;logoColor=white" alt="PyTorch" />
 </p>
 
-<details>
-<summary><b>Behind the work</b> · research &amp; experience</summary>
+<p>
+  <strong>Inference &amp; memory</strong><br />
+  <img src="https://img.shields.io/badge/SGLang-BD4820?style=flat-square" alt="SGLang" />
+  <img src="https://img.shields.io/badge/vLLM-4D7400?style=flat-square" alt="vLLM" />
+  <img src="https://img.shields.io/badge/Mooncake%20%2F%20RDMA-087B9A?style=flat-square" alt="Mooncake / RDMA" />
+  <img src="https://img.shields.io/badge/KV%20cache-2757AD?style=flat-square" alt="KV cache" />
+  <img src="https://img.shields.io/badge/Prefill%20%2F%20decode-4E47B0?style=flat-square" alt="Prefill / decode" />
+  <img src="https://img.shields.io/badge/FP8%20%2F%20FP4-6C3CA1?style=flat-square" alt="FP8 / FP4" />
+</p>
 
-My research connects disaggregated LLM serving, KV-cache offloading, and RDMA with the memory demands of agentic reinforcement learning. My goal is to make long-context agent rollouts cheaper and more scalable.
+<p>
+  <strong>Infrastructure &amp; profiling</strong><br />
+  <img src="https://img.shields.io/badge/Docker-146BA8?style=flat-square&amp;logo=docker&amp;logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Kubernetes-3256AE?style=flat-square&amp;logo=kubernetes&amp;logoColor=white" alt="Kubernetes" />
+  <img src="https://img.shields.io/badge/Linux-745800?style=flat-square&amp;logo=linux&amp;logoColor=white" alt="Linux" />
+  <img src="https://img.shields.io/badge/Nsight-4D7400?style=flat-square" alt="Nsight" />
+</p>
 
-**Research Intern · SJTU ReArch Lab**  
-November 2026–present. Low-bit CUDA/Triton inference kernels and FP8/FP4 KV-cache compression.
+## Research & experience
 
-**Large Model Inference Distributed System R&D Intern · Approaching.AI**  
-November 2026–present. Tsinghua MADSys collaboration: Mooncake's C++ transfer engine, RDMA, and KV-cache offloading for agent RL rollouts.
+I work on **distributed LLM inference and low-bit GPU kernels** to make long-context agent rollouts cheaper to run.
 
-**Tools:** SGLang, vLLM, Mooncake, Linux, Docker, Kubernetes, NVIDIA Nsight.
+- **SJTU ReArch Lab · Research Intern** — CUDA and Triton kernels, plus FP8/FP4 KV-cache compression.
+- **Approaching.AI · Distributed Inference R&D Intern** — Mooncake’s C++ transfer engine, RDMA, and KV-cache offloading for agent RL, in collaboration with Tsinghua MADSys.
 
-</details>
+### Selected results
 
-<details>
-<summary><b>A closer look</b> · results &amp; more projects</summary>
+> **55 s → 6.7 s time to first token** at a **92% KV-cache hit rate** with three-tier Mooncake RDMA offloading on 4× A800 80 GB GPUs.
+>
+> **3.2× kernel speedup** over FP16 with **one-quarter of the memory** for FP4-packed Triton kernels in NVFP4-DiT. IEEE TNNLS, under review.
 
-**Inference:** 8.3× lower TTFT (55 s → 6.7 s), at 92% KV-cache hit rate with three-tier offload over Mooncake RDMA on 4× A800-80GB.
+### Education
 
-**NVFP4-DiT:** FP4-packed Triton kernels are 3.2× faster than FP16 and use 4× less memory. IEEE TNNLS, under review.
+**Northwestern Polytechnical University** · Xi’an, China
 
-**[Distributed Training Launcher](https://github.com/theraihanrakibb/train-launcher):** fault-tolerant multi-node PyTorch launcher with retries and checkpoint recovery.
+- **M.E. Software Engineering** · 2024–2027 · Rank 2/87 · GPA 88/100 · Chinese Government Scholarship
+- **B.E. Computer Science** · 2020–2024 · Rank 5/56 · GPA 85/100 · Outstanding Graduate · Presidential Scholarship
 
-**[Confidential Spark Queries](https://github.com/theraihanrakibb/spark-ckks-query):** B.E. thesis on distributed confidential queries with CKKS homomorphic encryption.
-
-</details>
-
-<details>
-<summary><b>Background</b> · education</summary>
-
-**Northwestern Polytechnical University · Xi'an, China**
-
-**M.E. Software Engineering · 2024–2027**  
-GPA 88/100 · Rank 2/87 · Chinese Government Scholarship.
-
-**B.E. Computer Science · 2020–2024**  
-GPA 85/100 · Rank 5/56 · Outstanding Graduate · Presidential Scholarship.
-
-</details>
+**More projects** · [Distributed Training Launcher](https://github.com/theraihanrakibb/train-launcher) · [Confidential Spark Queries](https://github.com/theraihanrakibb/spark-ckks-query)
