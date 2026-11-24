@@ -94,7 +94,6 @@ Contributing process-group collectives and expert-parallel dispatch to [kvcache-
 
 <img src="https://img.shields.io/github/followers/theraihanrakibb?style=for-the-badge&logo=github&label=followers&color=00B4D8" alt="GitHub followers" />
 <img src="https://img.shields.io/github/stars/theraihanrakibb?style=for-the-badge&logo=github&label=stars&color=FFD21E" alt="GitHub stars" />
-<img src="https://img.shields.io/github/repos/theraihanrakibb?style=for-the-badge&logo=github&label=repos&color=7209B7" alt="GitHub repositories" />
 
 </div>
 
@@ -107,7 +106,7 @@ Contributing process-group collectives and expert-parallel dispatch to [kvcache-
 
 </details>
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+<hr/>
 
 <div align="center">
   <sub>Where models meet the metal.</sub>
