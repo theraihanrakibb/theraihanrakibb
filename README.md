@@ -2,7 +2,7 @@
 
 <h1>MD Rakibul Islam Raihan</h1>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00D9FF&center=true&vCenter=true&width=760&lines=LLM+Inference+%7C+AI+Infrastructure+%7C+ML+Systems;KV-Cache+Offload+%7C+PD+Disaggregation;FP8%2FFP4+Kernels" alt="LLM Inference, AI Infrastructure, ML Systems, KV-Cache Offload, PD Disaggregation, FP8/FP4 Kernels" height="34" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00D9FF&center=true&vCenter=true&width=760&lines=LLM+Inference;AI+Infrastructure;ML+Systems" alt="LLM Inference, AI Infrastructure, ML Systems" height="34" />
 
 <p>
   <a href="mailto:raihanrakib.143@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" height="24" alt="Email" /></a>
@@ -22,25 +22,25 @@
   <img src="https://img.shields.io/badge/ML%20Systems-7209B7?style=flat-square&logo=nvidia&logoColor=white" height="22" alt="ML Systems" />
 </p>
 
-<p><b>Focus:</b> LLM Inference &nbsp;|&nbsp; AI Infrastructure &nbsp;|&nbsp; ML Systems</p>
+<p align="justify"><b>Focus:</b> LLM Inference &nbsp;|&nbsp; AI Infrastructure &nbsp;|&nbsp; ML Systems</p>
 
 </div>
 
 ---
 
-<p align="center">LLM inference and GPU systems engineer. I build serving systems around KV-cache offloading, prefill/decode disaggregation, and low-precision kernels. At InfiX.ai I cut long-context time to first token 8.3× (55 s to 6.7 s) at a 92% cache hit rate with three-tier KV-cache offload over Mooncake RDMA on 4× A800.</p>
+<p align="justify">My research focuses on Machine Learning Systems (MLSys). Specifically, I aim to bridge the gap between the LLM inference stack (disaggregated serving, KV-cache offloading, RDMA) and the memory-intensive demands of Agentic Reinforcement Learning (Agent RL). My goal is to design systems that make long-context agent rollouts cheaper and more scalable.</p>
 
-<p align="center"><b>Open to ML Systems / LLM Inference Engineering roles from Jul 2027.</b></p>
+<p align="justify">At InfiX.ai I cut long-context time to first token 8.3× (55 s to 6.7 s) at a 92% KV-cache hit rate with three-tier offload over Mooncake RDMA on 4× A800-80GB.</p>
+
+<p align="justify"><b>Open to ML Systems / LLM Inference Engineering roles from Jul 2027.</b></p>
 
 ---
 
-### At a glance
+### Headline
 
-| | |
-|---|---|
-| 📈 **Headline result** | **8.3× TTFT** (55 s → 6.7 s) at **92%** KV-cache hit, on 4× A800-80GB |
-| 🔬 **Research** | First author, **NVFP4-DiT**: 4× less memory, **3.2× faster than FP16** (IEEE TNNLS, under review) |
-| 🎓 **Status** | M.E. Software Engineering, Northwestern Polytechnical University · 2027 New Grad |
+<p align="center"><b>🌙 Mooncake PG-EP</b> &nbsp; <a href="https://github.com/kvcache-ai/Mooncake/pull/5755"><img src="https://img.shields.io/badge/PR%20%235755-Open%20Review-00B4D8?style=flat-square&logo=github&logoColor=white" height="22" alt="PR 5755 open review" /></a></p>
+
+<p align="justify">Process-group collectives (Ring, OneShot, hierarchical AllReduce) and expert-parallel token dispatch for disaggregated LLM serving. The combined PG/EP build passes 68 CTest entries and four host checks, including the EP dispatch-slot test. My hierarchical AllReduce topology is in upstream review against <a href="https://github.com/kvcache-ai/Mooncake">kvcache-ai/Mooncake</a>.</p>
 
 ### Now
 
@@ -89,7 +89,7 @@
 
 ### Education
 
-**Northwestern Polytechnical University** · Xi'an, China
+<p align="justify"><b>Northwestern Polytechnical University</b> · Xi'an, China</p>
 
 | Degree | Period | Details |
 |--------|--------|---------|
