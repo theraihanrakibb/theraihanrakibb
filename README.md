@@ -59,8 +59,8 @@
 <sub><samp>Collaborations</samp></sub>
 
 <div>
-  <a href="https://madsys.cs.tsinghua.edu.cn/"><img src="assets/studio/theme-mini-madsys.svg" alt="Tsinghua MADSys" /></a>
-  <a href="https://kvcache.ai/"><img src="assets/studio/theme-mini-kvcache-ai.svg" alt="kvcache.ai" /></a>
+  <a href="https://madsys.cs.tsinghua.edu.cn/"><img src="assets/studio/collab-logo-madsys.svg" alt="Tsinghua MADSys" /></a>
+  <a href="https://kvcache.ai/"><img src="assets/studio/collab-logo-kvcache.svg" alt="KVCache.AI" /></a>
 </div>
 
 ## <samp>Selected Results</samp>
