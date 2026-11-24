@@ -107,5 +107,5 @@ Contributing process-group collectives and expert-parallel dispatch to [kvcache-
 <hr/>
 
 <div align="center">
-  <sub>Where models meet the metal.</sub>
+  <sub>Actions speak louder than words.</sub>
 </div>
