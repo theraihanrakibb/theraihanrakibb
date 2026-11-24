@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="611" height="25" viewBox="0 0 611 25" role="img" aria-labelledby="title">
+  <title id="title">SGLang, vLLM, Mooncake/RDMA, KV Cache, PD Disaggregation, FP8/FP4</title>
+  <g transform="translate(0 0)"><rect width="74" height="25" rx="6" fill="#d8cef4"/><text x="9" y="17" fill="#1e2b25" font-family="Consolas, monospace" font-size="13" font-weight="bold">SGLang</text></g>
+  <g transform="translate(80 0)"><rect width="59" height="25" rx="6" fill="#f5c4ae"/><path d="m23.6 0-8.721 4.59L9.829 24h7.41zM9.83 24V5.142H.4Z" transform="translate(6 6.5) scale(.5)" fill="#1e2b25"/><text x="22" y="17" fill="#1e2b25" font-family="Consolas, monospace" font-size="13" font-weight="bold">vLLM</text></g>
+  <g transform="translate(145 0)"><rect width="125" height="25" rx="6" fill="#c0dfe6"/><text x="9" y="17" fill="#1e2b25" font-family="Consolas, monospace" font-size="13" font-weight="bold">Mooncake/RDMA</text></g>
+  <g transform="translate(276 0)"><rect width="88" height="25" rx="6" fill="#d9efbb"/><text x="9" y="17" fill="#1e2b25" font-family="Consolas, monospace" font-size="13" font-weight="bold">KV Cache</text></g>
+  <g transform="translate(370 0)"><rect width="154" height="25" rx="6" fill="#d8cef4"/><text x="9" y="17" fill="#1e2b25" font-family="Consolas, monospace" font-size="13" font-weight="bold">PD Disaggregation</text></g>
+  <g transform="translate(530 0)"><rect width="81" height="25" rx="6" fill="#f5c4ae"/><text x="9" y="17" fill="#1e2b25" font-family="Consolas, monospace" font-size="13" font-weight="bold">FP8/FP4</text></g>
+</svg>
