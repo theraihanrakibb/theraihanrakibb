@@ -7,11 +7,11 @@
 
 <div align="center">
   <br />
-  <a href="https://theraihanrakibb.github.io/"><img src="assets/studio/accent-contact-1.svg" alt="Portfolio" /></a>
-  <a href="https://linkedin.com/in/theraihanrakib"><img src="assets/studio/accent-contact-2.svg" alt="LinkedIn" /></a>
-  <a href="mailto:raihanrakib.143@gmail.com"><img src="assets/studio/accent-contact-3.svg" alt="Email" /></a>
-  <a href="Raihan_Research_Resume.pdf"><img src="assets/studio/accent-contact-4.svg" alt="Research CV" /></a>
-  <a href="Raihan_Technical_Resume.pdf"><img src="assets/studio/accent-contact-5.svg" alt="Technical CV" /></a>
+  <a href="https://theraihanrakibb.github.io/"><img src="assets/studio/accent-contact-1.svg" height="25" alt="Portfolio" /></a>
+  <a href="https://linkedin.com/in/theraihanrakib"><img src="assets/studio/accent-contact-2.svg" height="25" alt="LinkedIn" /></a>
+  <a href="mailto:raihanrakib.143@gmail.com"><img src="assets/studio/accent-contact-3.svg" height="25" alt="Email" /></a>
+  <a href="Raihan_Research_Resume.pdf"><img src="assets/studio/accent-contact-4.svg" height="25" alt="Research CV" /></a>
+  <a href="Raihan_Technical_Resume.pdf"><img src="assets/studio/accent-contact-5.svg" height="25" alt="Technical CV" /></a>
 </div>
 
 ## <samp>Selected Work</samp>
