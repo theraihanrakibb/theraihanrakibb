@@ -31,4 +31,5 @@
     <circle cx="884" cy="230" r="7" fill="#ffa28c"/>
     <circle cx="915" cy="123" r="6" fill="#c9afff"/>
   </g>
+  <text x="600" y="322" text-anchor="middle" fill="#c5cce0" font-family="Consolas, monospace" font-size="15" font-weight="bold" letter-spacing="2.4">RESEARCH IN MOTION</text>
 </svg>

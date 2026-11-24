@@ -47,22 +47,41 @@
 
 ## Research & experience
 
-I work on **distributed LLM inference and low-bit GPU kernels** to make long-context agent rollouts cheaper to run.
+I work on distributed LLM inference and low-bit GPU kernels to make long-context agent rollouts cheaper to run.
 
-- **SJTU ReArch Lab · Research Intern** — CUDA and Triton kernels, plus FP8/FP4 KV-cache compression.
-- **Approaching.AI · Distributed Inference R&D Intern** — Mooncake’s C++ transfer engine, RDMA, and KV-cache offloading for agent RL, in collaboration with Tsinghua MADSys.
+**[SJTU ReArch Lab][rearch]** · Research Intern  
+I develop CUDA and Triton inference kernels and work on FP8 and FP4 KV-cache compression.
 
-### Selected results
+**[Approaching.AI][approaching]** · Distributed Inference R&D Intern  
+I work on [Mooncake][mooncake]’s C++ transfer engine and KV-cache offloading over RDMA for agent RL, in collaboration with [Tsinghua MADSys][madsys].
 
-> **55 s → 6.7 s time to first token** at a **92% KV-cache hit rate** with three-tier Mooncake RDMA offloading on 4× A800 80 GB GPUs.
->
-> **3.2× kernel speedup** over FP16 with **one-quarter of the memory** for FP4-packed Triton kernels in NVFP4-DiT. IEEE TNNLS, under review.
+## Selected results
 
-### Education
+**55 s → 6.7 s** · Time to first token  
+Three-tier KV-cache offloading with [Mooncake][mooncake] over RDMA on four NVIDIA A800 GPUs (80 GB each), at a **92% cache hit rate**.
 
-**Northwestern Polytechnical University** · Xi’an, China
+**3.2× speedup · ¼ of the memory** · FP4 vs. FP16  
+FP4-packed Triton kernels in [NVFP4-DiT][nvfp4]. The paper is under review at IEEE TNNLS.
 
-- **M.E. Software Engineering** · 2024–2027 · Rank 2/87 · GPA 88/100 · Chinese Government Scholarship
-- **B.E. Computer Science** · 2020–2024 · Rank 5/56 · GPA 85/100 · Outstanding Graduate · Presidential Scholarship
+## Education
 
-**More projects** · [Distributed Training Launcher](https://github.com/theraihanrakibb/train-launcher) · [Confidential Spark Queries](https://github.com/theraihanrakibb/spark-ckks-query)
+**[Northwestern Polytechnical University][nwpu]** · Xi’an, China
+
+**M.E. in Software Engineering** · 2024–2027  
+Rank **2/87** · GPA 88/100 · Chinese Government Scholarship
+
+**B.E. in Computer Science** · 2020–2024  
+Rank **5/56** · GPA 85/100 · Outstanding Graduate · Presidential Scholarship
+
+---
+
+**More projects** · [Distributed Training Launcher][launcher] · [Confidential Spark Queries][spark]
+
+[rearch]: https://github.com/SJTU-ReArch-Group
+[approaching]: https://approaching-ai.com/en/
+[madsys]: https://madsys.cs.tsinghua.edu.cn/
+[nwpu]: https://en.nwpu.edu.cn/
+[mooncake]: https://github.com/kvcache-ai/Mooncake
+[nvfp4]: https://github.com/theraihanrakibb/nvfp4-dit
+[launcher]: https://github.com/theraihanrakibb/train-launcher
+[spark]: https://github.com/theraihanrakibb/spark-ckks-query
