@@ -1,8 +1,16 @@
 <div align="center">
 
-<h1>MD Rakibul Islam Raihan</h1>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="assets/header-light.svg" />
+  <img src="assets/header-light.svg" width="100%" alt="MD Rakibul Islam Raihan — ML systems research and engineering" />
+</picture>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00D9FF&center=true&vCenter=true&width=760&lines=LLM+Inference;AI+Infrastructure;ML+Systems" alt="LLM Inference, AI Infrastructure, ML Systems" height="34" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=19&amp;pause=1600&amp;color=67E8F9&amp;center=true&amp;vCenter=true&amp;width=650&amp;lines=LLM+Inference+%C2%B7+Distributed+Systems;GPU+Kernels+%C2%B7+Low-bit+Computing;Building+systems+for+long-context+agents" />
+  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=19&amp;pause=1600&amp;color=087EAB&amp;center=true&amp;vCenter=true&amp;width=650&amp;lines=LLM+Inference+%C2%B7+Distributed+Systems;GPU+Kernels+%C2%B7+Low-bit+Computing;Building+systems+for+long-context+agents" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=19&amp;pause=1600&amp;color=087EAB&amp;center=true&amp;vCenter=true&amp;width=650&amp;lines=LLM+Inference+%C2%B7+Distributed+Systems;GPU+Kernels+%C2%B7+Low-bit+Computing;Building+systems+for+long-context+agents" width="650" height="38" alt="LLM inference, distributed systems, GPU kernels, and low-bit computing" />
+</picture>
 
 <br/>
 
@@ -17,36 +25,36 @@
 
 <hr/>
 
-## 01 / RESEARCH
+## 🔬 Research
 
-<p align="justify">My research focuses on Machine Learning Systems (MLSys). Specifically, I aim to bridge the gap between the LLM inference stack (disaggregated serving, KV-cache offloading, RDMA) and the memory-intensive demands of Agentic Reinforcement Learning (Agent RL). My goal is to design systems that make long-context agent rollouts cheaper and more scalable.</p>
+I work on **machine learning systems (MLSys)**, connecting LLM inference—disaggregated serving, KV-cache offloading, and RDMA—with the memory demands of **agentic reinforcement learning**. My goal is to make long-context agent rollouts cheaper and more scalable.
 
 > **8.3× lower TTFT** (55 s to 6.7 s) at **92% KV-cache hit** with three-tier offload over Mooncake RDMA on 4× A800-80GB.
 
-## 02 / FEATURED WORK
+## 🌙 Featured work
 
 ### 🌙 Mooncake PG-EP
 
 Contributing process-group collectives and expert-parallel dispatch to [kvcache-ai/Mooncake](https://github.com/kvcache-ai/Mooncake).
 
-## 03 / NOW
+## ⚡ Currently
 
 | Role | Where | Work |
 |------|-------|------|
 | 🔬 **Large Model Inference Distributed System R&D Intern** | Approaching.AI · Tsinghua MADSys collaboration · Nov 2026 to present | Core Mooncake work for agent RL rollouts: the C++ transfer engine over RDMA and KV-cache offloading |
 | 🔬 **Research Intern** | SJTU ReArch Lab · Nov 2026 to present | Low-bit inference kernels in CUDA/Triton and FP8/FP4 KV-cache compression |
 
-## 04 / SELECTED PROJECTS
+## 🚀 Selected projects
 
 | Project | Details |
 |---------|---------|
-| **[NVFP4-DiT](https://github.com/theraihanrakibb/nvfp4-dit)** | **4-bit audio-guided video diffusion. FP4-packed Triton kernels are 3.2× faster than FP16 and use 4× less memory. IEEE TNNLS, under review.** |
-| **[AI Infrastructure Portfolio](https://github.com/theraihanrakibb/ai-infra-portfolio)** | **Ten Dockerized AI-infra services with CI and reproducible quickstarts.** |
-| **[Multimodal Deepfake Detection](https://github.com/theraihanrakibb/deepfake-av-detector)** | **M.E. thesis: audio-visual-temporal framework for deepfake video detection.** |
-| **[Confidential Spark Queries](https://github.com/theraihanrakibb/spark-ckks-query)** | **B.E. thesis: distributed confidential query protocol with CKKS homomorphic encryption.** |
-| **[Distributed Training Launcher](https://github.com/theraihanrakibb/train-launcher)** | **Fault-tolerant multi-node PyTorch launcher with retry and checkpoint recovery.** |
+| **[NVFP4-DiT](https://github.com/theraihanrakibb/nvfp4-dit)** | 4-bit audio-guided video diffusion. FP4-packed Triton kernels are 3.2× faster than FP16 and use 4× less memory. IEEE TNNLS, under review. |
+| **[AI Infrastructure Portfolio](https://github.com/theraihanrakibb/ai-infra-portfolio)** | Ten Dockerized AI-infra services with CI and reproducible quickstarts. |
+| **[Multimodal Deepfake Detection](https://github.com/theraihanrakibb/deepfake-av-detector)** | M.E. thesis: audio-visual-temporal framework for deepfake video detection. |
+| **[Confidential Spark Queries](https://github.com/theraihanrakibb/spark-ckks-query)** | B.E. thesis: distributed confidential query protocol with CKKS homomorphic encryption. |
+| **[Distributed Training Launcher](https://github.com/theraihanrakibb/train-launcher)** | Fault-tolerant multi-node PyTorch launcher with retry and checkpoint recovery. |
 
-## 05 / TECH STACK
+## 🛠 Tech stack
 
 <div align="center">
 
@@ -70,7 +78,7 @@ Contributing process-group collectives and expert-parallel dispatch to [kvcache-
 
 </div>
 
-## 06 / EDUCATION
+## 🎓 Education
 
 **Northwestern Polytechnical University · Xi'an, China**
 
@@ -79,7 +87,7 @@ Contributing process-group collectives and expert-parallel dispatch to [kvcache-
 | **M.E. Software Engineering** | **2024–2027. GPA 88/100 · Rank 2/87 · Chinese Government Scholarship.** |
 | **B.E. Computer Science** | **2020–2024. GPA 85/100 · Rank 5/56 · Outstanding Graduate · Presidential Scholarship.** |
 
-## 07 / ACTIVITY
+## 📈 Activity
 
 <div align="center">
 
@@ -89,9 +97,12 @@ Contributing process-group collectives and expert-parallel dispatch to [kvcache-
 
 </div>
 
-<div align="center">
-  <img src="assets/contribution-graph.png" width="100%" alt="GitHub contribution graph" />
-</div>
+<details>
+<summary>View contribution activity</summary>
+
+<img src="assets/contribution-graph.png" width="100%" alt="GitHub contribution graph" />
+
+</details>
 
 <hr/>
 
