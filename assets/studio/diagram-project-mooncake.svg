@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="590" height="285" viewBox="0 0 590 285" role="img" aria-labelledby="title">
+<title id="title">Mooncake</title><rect width="590" height="285" fill="#d9efbb"/>
+<g fill="#1e2b25" font-family="Cascadia Mono, SFMono-Regular, Consolas, Liberation Mono, monospace"><text x="26" y="37" font-size="15">DISTRIBUTED SYSTEMS</text><text x="26" y="94" font-size="34" font-weight="bold">Mooncake</text><text x="26" y="132" font-size="21">Process-group collectives</text><text x="26" y="159" font-size="21">&amp; expert-parallel dispatch.</text><text x="26" y="257" font-size="14">C++ / RDMA</text></g>
+<g fill="none" stroke="#1e2b25" stroke-width="2" stroke-linecap="round"><g stroke-width="2.4"><path d="M446 101h31l20 23h24m-75 0h75m-75 23h31l20-23"/><circle cx="446" cy="101" r="5" fill="#d9efbb"/><circle cx="446" cy="124" r="5" fill="#d9efbb"/><circle cx="446" cy="147" r="5" fill="#d9efbb"/><rect x="515" y="118" width="12" height="12" rx="2" fill="#1e2b25"/></g><path d="M26 226h538" stroke-opacity=".55" stroke-width="1"/><path d="m540 262 18-18m-14 0h14v14"/></g>
+</svg>

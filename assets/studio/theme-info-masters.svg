@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="590" height="285" viewBox="0 0 590 285" role="img" aria-labelledby="title description">
+  <title id="title">M.E. in Software Engineering</title><style>
+  :root { --surface:#e4efff; --accent:#204e83; --ink:#10213b; --edge:#204e8342; }
+  @media (prefers-color-scheme: dark) { :root { --surface:#122746; --accent:#92bcff; --ink:#f6f8fc; --edge:#92bcff55; } }
+  .card-surface { fill:var(--surface); stroke:var(--edge); }
+  .card-kicker, .card-footer { fill:var(--accent); }
+</style>
+  <desc id="description">Northwestern Polytechnical University, Xi’an, China. M.E. in Software Engineering, 2024 to 2027. Rank 2 of 87, GPA 88 out of 100, Chinese Government Scholarship.</desc>
+  <rect class="card-surface" x="1" y="1" width="588" height="283" rx="10"/>
+  <g fill="var(--ink)" font-family="Cascadia Mono, SFMono-Regular, Consolas, Liberation Mono, monospace">
+    <text class="card-kicker" x="26" y="37" font-family="Cascadia Mono, SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="15">2024–2027 / XI’AN, CHINA</text>
+    <text x="26" y="94" font-size="29" font-weight="bold">M.E. in Software Engineering</text>
+    <text x="26" y="132" font-size="20">Northwestern Polytechnical University</text>
+    <text x="26" y="159" font-size="20">Rank 2/87 · GPA 88/100</text>
+    <text x="26" y="186" font-size="20">Chinese Government Scholarship</text>
+    <text class="card-footer" x="26" y="257" font-family="Cascadia Mono, SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="14">NORTHWESTERN POLYTECHNICAL UNIVERSITY</text>
+  </g>
+  <path d="M26 226h538" stroke="var(--accent)" stroke-opacity=".55"/>
+  <g fill="none" stroke="var(--accent)" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"><g transform="translate(145 28) scale(.8)"><path d="M445 103q19-7 41 6 22-13 41-6v48q-19-6-41 6-22-12-41-6zm41 6v48m-28-37 17 4m22 0 17-4m-56 13 17 4m22 0 17-4"/></g><path d="m540 262 18-18m-14 0h14v14"/></g>
+</svg>

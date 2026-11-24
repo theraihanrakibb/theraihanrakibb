@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="590" height="285" viewBox="0 0 590 285" role="img" aria-labelledby="title description">
+  <title id="title">Approaching.AI</title><style>
+  :root { --surface:#fbebf6; --accent:#86336f; --ink:#10213b; --edge:#86336f42; }
+  @media (prefers-color-scheme: dark) { :root { --surface:#2c202f; --accent:#ed9fd3; --ink:#f6f8fc; --edge:#ed9fd355; } }
+  .card-surface { fill:var(--surface); stroke:var(--edge); }
+  .card-kicker, .card-footer { fill:var(--accent); }
+</style>
+  <desc id="description">Approaching.AI, Distributed Inference R&amp;D Intern. I work on Mooncake and agent RL, in collaboration with Tsinghua MADSys.</desc>
+  <rect class="card-surface" x="1" y="1" width="588" height="283" rx="10"/>
+  <g fill="var(--ink)" font-family="Cascadia Mono, SFMono-Regular, Consolas, Liberation Mono, monospace">
+    <text class="card-kicker" x="26" y="37" font-family="Cascadia Mono, SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="15">DISTRIBUTED INFERENCE R&amp;D INTERN</text>
+    <text x="26" y="94" font-size="34" font-weight="bold">Approaching.AI</text>
+    <text x="26" y="132" font-size="20">Mooncake and agent RL</text>
+    <text x="26" y="159" font-size="20">In collaboration with Tsinghua MADSys</text>
+    <text class="card-footer" x="26" y="257" font-family="Cascadia Mono, SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="14">DISTRIBUTED INFERENCE</text>
+  </g>
+  <path d="M26 226h538" stroke="var(--accent)" stroke-opacity=".55"/>
+  <g fill="none" stroke="var(--accent)" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"><g transform="translate(145 28) scale(.8)"><path d="m448 104 38 23 38-23m-38 23v38"/><circle cx="448" cy="104" r="9"/><circle cx="524" cy="104" r="9"/><circle cx="486" cy="127" r="10"/><circle cx="486" cy="165" r="9"/></g><path d="m540 262 18-18m-14 0h14v14"/></g>
+</svg>

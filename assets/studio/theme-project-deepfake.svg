@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="590" height="285" viewBox="0 0 590 285" role="img" aria-labelledby="title">
+<title id="title">Deepfake detection</title><style>
+  :root { --surface:#eaf8ff; --accent:#245f83; --ink:#10213b; --edge:#245f8342; }
+  @media (prefers-color-scheme: dark) { :root { --surface:#102a38; --accent:#83d5f3; --ink:#f6f8fc; --edge:#83d5f355; } }
+  .card-surface { fill:var(--surface); stroke:var(--edge); }
+  .card-kicker, .card-footer { fill:var(--accent); }
+</style><rect class="card-surface" x="1" y="1" width="588" height="283" rx="10"/>
+<g fill="var(--ink)" font-family="Cascadia Mono, SFMono-Regular, Consolas, Liberation Mono, monospace"><text class="card-kicker" x="26" y="37" font-size="15">MULTIMODAL LEARNING</text><text x="26" y="94" font-size="34" font-weight="bold">Deepfake detection</text><text x="26" y="132" font-size="21">Audio, video, and</text><text x="26" y="159" font-size="21">temporal inconsistencies.</text><text class="card-footer" x="26" y="257" font-size="14">M.E. THESIS</text></g>
+<g fill="none" stroke="var(--accent)" stroke-width="2" stroke-linecap="round"><path d="M436 118v16"/><path d="M443 101.64066975943999v48.71866048112004"/><path d="M450 94.0601203215027v63.87975935699461"/><path d="M457 99.32624327468989v53.34751345062022"/><path d="M464 114.61311980656319v22.773760386873626"/><path d="M471 104.28252835018375v43.4349432996325"/><path d="M478 94.53927717603767v62.921445647924656"/><path d="M485 97.3855721577618v57.228855684476414"/><path d="M492 111.29402804322578v29.41194391354844"/><path d="M499 107.19894222926519v37.602115541469644"/><path d="M506 95.48800055740627v61.02399888518747"/><path d="M513 95.85749895425583v60.28500209148833"/><path d="M520 108.10915635419784v35.781687291604314"/><path d="M527 110.33153935306544v31.336921293869135"/><path d="M26 226h538" stroke-opacity=".55" stroke-width="1"/><path d="m540 262 18-18m-14 0h14v14"/></g>
+</svg>

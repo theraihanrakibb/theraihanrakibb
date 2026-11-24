@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="590" height="285" viewBox="0 0 590 285" role="img" aria-labelledby="title description">
+  <title id="title">55 s → 6.7 s</title><style>
+  :root { --surface:#ffedf0; --accent:#a52f3c; --ink:#10213b; --edge:#a52f3c42; }
+  @media (prefers-color-scheme: dark) { :root { --surface:#321c22; --accent:#ff8f9c; --ink:#f6f8fc; --edge:#ff8f9c55; } }
+  .card-surface { fill:var(--surface); stroke:var(--edge); }
+  .card-kicker, .card-footer { fill:var(--accent); }
+</style>
+  <desc id="description">Time to first token fell from 55 seconds to 6.7 seconds with three-tier Mooncake KV-cache offloading over RDMA on four NVIDIA A800 GPUs, 80 GB each, at a 92% cache hit rate.</desc>
+  <rect class="card-surface" x="1" y="1" width="588" height="283" rx="10"/>
+  <g fill="var(--ink)" font-family="Cascadia Mono, SFMono-Regular, Consolas, Liberation Mono, monospace">
+    <text class="card-kicker" x="26" y="37" font-family="Cascadia Mono, SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="15">TIME TO FIRST TOKEN</text>
+    <text x="26" y="94" font-size="34" font-weight="bold">55 s → 6.7 s</text>
+    <text x="26" y="132" font-size="20">Three-tier KV-cache offload over RDMA</text>
+    <text x="26" y="159" font-size="20">Four NVIDIA A800 GPUs (80 GB each)</text>
+    <text class="card-footer" x="26" y="257" font-family="Cascadia Mono, SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="14">MOONCAKE / 92% CACHE HIT RATE</text>
+  </g>
+  <path d="M26 226h538" stroke="var(--accent)" stroke-opacity=".55"/>
+  <g fill="none" stroke="var(--accent)" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"><g transform="translate(145 28) scale(.8)"><path d="M442 92v79h88m-78-62 23 17 20 14 26 13"/><circle cx="452" cy="109" r="4"/><circle cx="521" cy="153" r="4"/></g><path d="m540 262 18-18m-14 0h14v14"/></g>
+</svg>

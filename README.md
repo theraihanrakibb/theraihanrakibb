@@ -1,15 +1,9 @@
 <picture>
-  <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/studio/accent-hero-mobile-dark.svg" />
-  <source media="(max-width: 600px)" srcset="assets/studio/accent-hero-mobile-light.svg" />
-  <source media="(prefers-color-scheme: dark)" srcset="assets/studio/accent-hero-dark.svg" />
-  <img src="assets/studio/accent-hero-light.svg" width="100%" alt="Raihan. ML System, LLM Inference, KV-Cache, Mooncake, SGLang, and Agent RL. Actions speak louder than words." />
+  <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/studio/stats-hero-mobile-dark.svg" />
+  <source media="(max-width: 600px)" srcset="assets/studio/stats-hero-mobile-light.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="assets/studio/stats-hero-dark.svg" />
+  <img src="assets/studio/stats-hero-light.svg" width="100%" alt="MD RAKIBUL ISLAM RAIHAN. ML System, LLM Inference, KV-Cache, Mooncake, SGLang, and Agent RL. Actions speak louder than words. Snapshot: 3 followers, 5 stars, and 496 profile views." />
 </picture>
-
-<p align="center">
-  <a href="https://github.com/theraihanrakibb?tab=followers"><img src="https://img.shields.io/github/followers/theraihanrakibb?style=flat-square&amp;logo=github&amp;logoColor=white&amp;labelColor=141922&amp;color=225b99&amp;label=Followers" alt="GitHub followers" /></a>
-  <a href="https://github.com/theraihanrakibb?tab=repositories&amp;sort=stargazers"><img src="https://img.shields.io/github/stars/theraihanrakibb?style=flat-square&amp;logo=github&amp;logoColor=white&amp;labelColor=141922&amp;color=660874&amp;label=Stars" alt="GitHub stars" /></a>
-  <img src="https://komarev.com/ghpvc/?username=theraihanrakibb&amp;label=Profile%20Views&amp;color=a52f3c&amp;style=flat-square" alt="Profile views" />
-</p>
 
 <p align="center">
   <a href="https://theraihanrakibb.github.io/"><img src="assets/studio/accent-contact-1.svg" alt="Portfolio" /></a>
@@ -19,16 +13,16 @@
   <a href="Raihan_Technical_Resume.pdf"><img src="assets/studio/accent-contact-5.svg" alt="Technical CV" /></a>
 </p>
 
-## <samp>Selected work</samp>
+## <samp>Selected Work</samp>
 
 <p>
-  <a href="https://github.com/kvcache-ai/Mooncake"><img src="assets/studio/accent-project-mooncake.svg" width="400" alt="Mooncake: contributing process-group collectives and expert-parallel dispatch. C++ and RDMA." /></a>
-  <a href="https://github.com/theraihanrakibb/nvfp4-dit"><img src="assets/studio/accent-project-nvfp4.svg" width="400" alt="NVFP4-DiT: 4-bit audio-guided video diffusion with Triton and FP4." /></a>
-  <a href="https://github.com/theraihanrakibb/ai-infra-portfolio"><img src="assets/studio/accent-project-infra.svg" width="400" alt="AI Infrastructure Portfolio: ten Dockerized services with CI and reproducible quickstarts." /></a>
-  <a href="https://github.com/theraihanrakibb/deepfake-av-detector"><img src="assets/studio/accent-project-deepfake.svg" width="400" alt="Multimodal deepfake detection: M.E. thesis on audio, video, and temporal inconsistencies." /></a>
+  <a href="https://github.com/kvcache-ai/Mooncake"><img src="assets/studio/theme-project-mooncake.svg" width="400" alt="Mooncake: contributing process-group collectives and expert-parallel dispatch. C++ and RDMA." /></a>
+  <a href="https://github.com/theraihanrakibb/nvfp4-dit"><img src="assets/studio/theme-project-nvfp4.svg" width="400" alt="NVFP4-DiT: 4-bit audio-guided video diffusion with Triton and FP4." /></a>
+  <a href="https://github.com/theraihanrakibb/ai-infra-portfolio"><img src="assets/studio/theme-project-infra.svg" width="400" alt="AI Infrastructure Portfolio: ten Dockerized services with CI and reproducible quickstarts." /></a>
+  <a href="https://github.com/theraihanrakibb/deepfake-av-detector"><img src="assets/studio/theme-project-deepfake.svg" width="400" alt="Multimodal deepfake detection: M.E. thesis on audio, video, and temporal inconsistencies." /></a>
 </p>
 
-## <samp>Tech stack</samp>
+## <samp>Tech Stack</samp>
 
 <p align="center">
   <img src="assets/studio/accent-tech-1-1.svg" alt="Python" />
@@ -54,47 +48,53 @@
   <img src="assets/studio/accent-tech-3-4.svg" alt="Nsight" />
 </p>
 
-## <samp>Research & experience</samp>
+## <samp>Research & Experience</samp>
 
 <p>
-  <a href="https://github.com/SJTU-ReArch-Group"><img src="assets/studio/accent-info-rearch.svg" width="400" alt="SJTU ReArch Lab, Research Intern. I develop CUDA and Triton inference kernels and work on FP8 and FP4 KV-cache compression." /></a>
-  <a href="https://approaching-ai.com/en/"><img src="assets/studio/accent-info-approaching.svg" width="400" alt="Approaching.AI, Distributed Inference R&amp;D Intern. I work on Mooncake and agent RL, in collaboration with Tsinghua MADSys." /></a>
+  <a href="https://github.com/SJTU-ReArch-Group"><img src="assets/studio/theme-info-rearch.svg" width="400" alt="SJTU ReArch Lab, Research Intern. I develop CUDA and Triton inference kernels and work on FP8 and FP4 KV-cache compression." /></a>
+  <a href="https://approaching-ai.com/en/"><img src="assets/studio/theme-info-approaching.svg" width="400" alt="Approaching.AI, Distributed Inference R&amp;D Intern. I work on Mooncake and agent RL, in collaboration with Tsinghua MADSys." /></a>
 </p>
 
-<sub><samp>COLLABORATIONS</samp></sub>
+<sub><samp>Collaborations</samp></sub>
 
 <p>
-  <a href="https://github.com/kvcache-ai/Mooncake"><img src="assets/studio/accent-mini-moon.svg" alt="Mooncake" /></a>
-  <a href="https://madsys.cs.tsinghua.edu.cn/"><img src="assets/studio/accent-mini-madsys.svg" alt="Tsinghua MADSys" /></a>
-  <a href="https://kvcache.ai/"><img src="assets/studio/accent-mini-kvcache-ai.svg" alt="kvcache.ai" /></a>
+  <a href="https://github.com/kvcache-ai/Mooncake"><img src="assets/studio/theme-mini-moon.svg" alt="Mooncake" /></a>
+  <a href="https://madsys.cs.tsinghua.edu.cn/"><img src="assets/studio/theme-mini-madsys.svg" alt="Tsinghua MADSys" /></a>
+  <a href="https://kvcache.ai/"><img src="assets/studio/theme-mini-kvcache-ai.svg" alt="kvcache.ai" /></a>
 </p>
 
-## <samp>Selected results</samp>
+## <samp>Selected Results</samp>
 
 <p>
-  <a href="https://github.com/kvcache-ai/Mooncake"><img src="assets/studio/accent-info-ttft.svg" width="400" alt="Time to first token fell from 55 seconds to 6.7 seconds with three-tier Mooncake KV-cache offloading over RDMA on four NVIDIA A800 GPUs, 80 GB each, at a 92% cache hit rate." /></a>
-  <a href="https://github.com/theraihanrakibb/nvfp4-dit"><img src="assets/studio/accent-info-fp4.svg" width="400" alt="NVFP4-DiT: FP4-packed Triton kernels achieved 3.2 times the speed and used one-quarter of the memory compared with FP16. The paper is under review at IEEE TNNLS." /></a>
+  <a href="https://github.com/kvcache-ai/Mooncake"><img src="assets/studio/theme-info-ttft.svg" width="400" alt="Time to first token fell from 55 seconds to 6.7 seconds with three-tier Mooncake KV-cache offloading over RDMA on four NVIDIA A800 GPUs, 80 GB each, at a 92% cache hit rate." /></a>
+  <a href="https://github.com/theraihanrakibb/nvfp4-dit"><img src="assets/studio/theme-info-fp4.svg" width="400" alt="NVFP4-DiT: FP4-packed Triton kernels achieved 3.2 times the speed and used one-quarter of the memory compared with FP16. The paper is under review at IEEE TNNLS." /></a>
 </p>
 
 ## <samp>Education</samp>
 
 <p>
-  <a href="https://en.nwpu.edu.cn/"><img src="assets/studio/accent-info-masters.svg" width="400" alt="Northwestern Polytechnical University, Xi’an, China. M.E. in Software Engineering, 2024 to 2027. Rank 2 of 87, GPA 88 out of 100, Chinese Government Scholarship." /></a>
-  <a href="https://en.nwpu.edu.cn/"><img src="assets/studio/accent-info-bachelors.svg" width="400" alt="Northwestern Polytechnical University, Xi’an, China. B.E. in Computer Science, 2020 to 2024. Rank 5 of 56, GPA 85 out of 100, Outstanding Graduate, Presidential Scholarship." /></a>
+  <a href="https://en.nwpu.edu.cn/"><img src="assets/studio/theme-info-masters.svg" width="400" alt="Northwestern Polytechnical University, Xi’an, China. M.E. in Software Engineering, 2024 to 2027. Rank 2 of 87, GPA 88 out of 100, Chinese Government Scholarship." /></a>
+  <a href="https://en.nwpu.edu.cn/"><img src="assets/studio/theme-info-bachelors.svg" width="400" alt="Northwestern Polytechnical University, Xi’an, China. B.E. in Computer Science, 2020 to 2024. Rank 5 of 56, GPA 85 out of 100, Outstanding Graduate, Presidential Scholarship." /></a>
 </p>
 
 ---
 
-## <samp>More projects</samp>
+## <samp>More Projects</samp>
 
 <p>
-  <a href="https://github.com/theraihanrakibb/llm-gateway"><img src="assets/studio/terminal-mini-gateway.svg" alt="LLM Gateway" /></a>
-  <a href="https://github.com/theraihanrakibb/mini-llm-serve"><img src="assets/studio/terminal-mini-serve.svg" alt="Mini LLM Serve" /></a>
-  <a href="https://github.com/theraihanrakibb/llm-benchmark"><img src="assets/studio/terminal-mini-benchmark.svg" alt="LLM Benchmark" /></a>
-  <a href="https://github.com/theraihanrakibb/kv-cache-simulator"><img src="assets/studio/terminal-mini-cache.svg" alt="KV Cache Simulator" /></a>
+  <a href="https://github.com/theraihanrakibb/llm-gateway"><img src="assets/studio/theme-mini-gateway.svg" alt="LLM Gateway" /></a>
+  <a href="https://github.com/theraihanrakibb/mini-llm-serve"><img src="assets/studio/theme-mini-serve.svg" alt="Mini LLM Serve" /></a>
+  <a href="https://github.com/theraihanrakibb/llm-benchmark"><img src="assets/studio/theme-mini-benchmark.svg" alt="LLM Benchmark" /></a>
+  <a href="https://github.com/theraihanrakibb/kv-cache-simulator"><img src="assets/studio/theme-mini-cache.svg" alt="KV Cache Simulator" /></a>
 </p>
 
 ## <samp>Activity</samp>
+
+<p align="center">
+  <a href="https://github.com/theraihanrakibb?tab=followers"><img src="https://img.shields.io/github/followers/theraihanrakibb?style=flat-square&amp;logo=github&amp;logoColor=white&amp;labelColor=141922&amp;color=225b99&amp;label=Followers" alt="GitHub followers" /></a>
+  <a href="https://github.com/theraihanrakibb?tab=repositories&amp;sort=stargazers"><img src="https://img.shields.io/github/stars/theraihanrakibb?style=flat-square&amp;logo=github&amp;logoColor=white&amp;labelColor=141922&amp;color=660874&amp;label=Stars" alt="GitHub stars" /></a>
+  <img src="https://komarev.com/ghpvc/?username=theraihanrakibb&amp;label=Profile%20Views&amp;color=a52f3c&amp;style=flat-square" alt="Profile views" />
+</p>
 
 <a href="https://github.com/theraihanrakibb#contribution-activity">
   <picture>

@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="590" height="285" viewBox="0 0 590 285" role="img" aria-labelledby="title">
+<title id="title">NVFP4-DiT</title><style>
+  :root { --surface:#f5efff; --accent:#660874; --ink:#10213b; --edge:#66087442; }
+  @media (prefers-color-scheme: dark) { :root { --surface:#211930; --accent:#c9a8f5; --ink:#f6f8fc; --edge:#c9a8f555; } }
+  .card-surface { fill:var(--surface); stroke:var(--edge); }
+  .card-kicker, .card-footer { fill:var(--accent); }
+</style><rect class="card-surface" x="1" y="1" width="588" height="283" rx="10"/>
+<g fill="var(--ink)" font-family="Cascadia Mono, SFMono-Regular, Consolas, Liberation Mono, monospace"><text class="card-kicker" x="26" y="37" font-size="15">LOW-BIT COMPUTING</text><text x="26" y="94" font-size="34" font-weight="bold">NVFP4-DiT</text><text x="26" y="132" font-size="21">4-bit audio-guided</text><text x="26" y="159" font-size="21">video diffusion.</text><text class="card-footer" x="26" y="257" font-size="14">TRITON / FP4</text></g>
+<g fill="none" stroke="var(--accent)" stroke-width="2" stroke-linecap="round"><rect x="445" y="91" width="15" height="15" fill="var(--ink)"/><rect x="467" y="91" width="15" height="15" fill="var(--ink)"/><rect x="489" y="91" width="15" height="15" fill="var(--ink)"/><rect x="445" y="113" width="15" height="15" fill="var(--ink)"/><rect x="467" y="113" width="15" height="15" fill="var(--ink)"/><rect x="489" y="113" width="15" height="15" fill="var(--ink)"/><rect x="445" y="135" width="15" height="15" fill="var(--ink)"/><rect x="467" y="135" width="15" height="15" fill="var(--ink)"/><rect x="489" y="135" width="15" height="15" fill="var(--ink)"/><path d="M26 226h538" stroke-opacity=".55" stroke-width="1"/><path d="m540 262 18-18m-14 0h14v14"/></g>
+</svg>

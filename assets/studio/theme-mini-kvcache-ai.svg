@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="160" height="49" viewBox="0 0 160 49" role="img" aria-labelledby="title">
+<title id="title">kvcache.ai</title><style>
+  :root { --surface:#fff0f4; --accent:#953a50; --ink:#10213b; --edge:#953a5042; }
+  @media (prefers-color-scheme: dark) { :root { --surface:#2e2129; --accent:#fda6b4; --ink:#f6f8fc; --edge:#fda6b455; } }
+  .card-surface { fill:var(--surface); stroke:var(--edge); }
+  .card-kicker, .card-footer { fill:var(--accent); }
+</style><rect class="card-surface" x="1" y="1" width="158" height="47" rx="6"/>
+<g fill="var(--ink)" font-family="Cascadia Mono, SFMono-Regular, Consolas, Liberation Mono, monospace"><text class="card-kicker" x="10" y="17" font-size="9">INFERENCE OPTIMIZATION</text><text x="10" y="35" font-size="13" font-weight="bold">kvcache.ai</text></g>
+<path d="m142 33 8-8m-6 0h6v6" fill="none" stroke="var(--accent)" stroke-width="1.25" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

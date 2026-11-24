@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="160" height="49" viewBox="0 0 160 49" role="img" aria-labelledby="title">
+  <title id="title">Mooncake</title><style>
+  :root { --surface:#e8f7ff; --accent:#246c89; --ink:#10213b; --edge:#246c8942; }
+  @media (prefers-color-scheme: dark) { :root { --surface:#19344a; --accent:#80cff8; --ink:#f6f8fc; --edge:#80cff855; } }
+  .card-surface { fill:var(--surface); stroke:var(--edge); }
+  .card-kicker, .card-footer { fill:var(--accent); }
+</style>
+  <rect class="card-surface" x="1" y="1" width="158" height="47" rx="6"/>
+  <text class="card-kicker" x="10" y="17" fill="var(--ink)" font-family="Cascadia Mono, SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="9">COLLABORATION</text>
+  <text x="10" y="35" fill="var(--ink)" font-family="Cascadia Mono, SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="12" font-weight="bold">Mooncake</text>
+  <path d="M136 26h14m-14 4h10m-10 4h6" fill="none" stroke="var(--accent)" stroke-width="1.35" stroke-linecap="round"/>
+</svg>

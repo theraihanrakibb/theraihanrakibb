@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="590" height="285" viewBox="0 0 590 285" role="img" aria-labelledby="title description">
+  <title id="title">3.2× speedup</title><style>
+  :root { --surface:#f1efff; --accent:#5b367c; --ink:#10213b; --edge:#5b367c42; }
+  @media (prefers-color-scheme: dark) { :root { --surface:#231d3b; --accent:#bca8f9; --ink:#f6f8fc; --edge:#bca8f955; } }
+  .card-surface { fill:var(--surface); stroke:var(--edge); }
+  .card-kicker, .card-footer { fill:var(--accent); }
+</style>
+  <desc id="description">NVFP4-DiT: FP4-packed Triton kernels achieved 3.2 times the speed and used one-quarter of the memory compared with FP16. The paper is under review at IEEE TNNLS.</desc>
+  <rect class="card-surface" x="1" y="1" width="588" height="283" rx="10"/>
+  <g fill="var(--ink)" font-family="Cascadia Mono, SFMono-Regular, Consolas, Liberation Mono, monospace">
+    <text class="card-kicker" x="26" y="37" font-family="Cascadia Mono, SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="15">FP4 VS. FP16</text>
+    <text x="26" y="94" font-size="34" font-weight="bold">3.2× speedup</text>
+    <text x="26" y="132" font-size="20">FP4-packed Triton kernels in NVFP4-DiT</text>
+    <text x="26" y="159" font-size="20">One-quarter of the memory</text>
+    <text class="card-footer" x="26" y="257" font-family="Cascadia Mono, SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="14">IEEE TNNLS / UNDER REVIEW</text>
+  </g>
+  <path d="M26 226h538" stroke="var(--accent)" stroke-opacity=".55"/>
+  <g fill="none" stroke="var(--accent)" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"><g transform="translate(145 28) scale(.8)"><path fill="var(--ink)" d="M450 96h15v15h-15zm19 0h15v15h-15zm19 0h15v15h-15zm19 0h15v15h-15zm-57 19h15v15h-15zm19 0h15v15h-15zm19 0h15v15h-15zm-38 19h15v15h-15zm19 0h15v15h-15zm-19 19h15v15h-15z"/></g><path d="m540 262 18-18m-14 0h14v14"/></g>
+</svg>
