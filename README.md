@@ -16,7 +16,7 @@
 
 ## <samp>Selected Work</samp>
 
-<p>
+<p align="center">
   <a href="https://github.com/kvcache-ai/Mooncake"><img src="assets/studio/theme-project-mooncake.svg" width="419" alt="Mooncake: contributing process-group collectives and expert-parallel dispatch. C++ and RDMA." /></a>
   <a href="https://github.com/theraihanrakibb/nvfp4-dit"><img src="assets/studio/theme-project-nvfp4.svg" width="419" alt="NVFP4-DiT: 4-bit audio-guided video diffusion with Triton and FP4." /></a>
   <a href="https://github.com/theraihanrakibb/ai-infra-portfolio"><img src="assets/studio/theme-project-infra.svg" width="419" alt="AI Infrastructure Portfolio: ten Dockerized services with CI and reproducible quickstarts." /></a>
