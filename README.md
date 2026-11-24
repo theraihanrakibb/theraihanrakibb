@@ -80,7 +80,7 @@
 
 ---
 
-## <samp>More Projects</samp>
+### <samp>More Projects</samp>
 
 <p>
   <a href="https://github.com/theraihanrakibb/llm-gateway"><img src="assets/studio/theme-mini-gateway.svg" alt="LLM Gateway" /></a>
