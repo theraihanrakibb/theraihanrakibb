@@ -40,26 +40,22 @@
 
 <p align="center"><b>🌙 Mooncake PG-EP</b> &nbsp; <a href="https://github.com/kvcache-ai/Mooncake/pull/5755"><img src="https://img.shields.io/badge/PR%20%235755-Open%20Review-00B4D8?style=flat-square&logo=github&logoColor=white" height="22" alt="PR 5755 open review" /></a></p>
 
-<p align="justify">Process-group collectives (Ring, OneShot, hierarchical AllReduce) and expert-parallel token dispatch for disaggregated LLM serving. The combined PG/EP build passes 68 CTest entries and four host checks, including the EP dispatch-slot test. My hierarchical AllReduce topology is in upstream review against <a href="https://github.com/kvcache-ai/Mooncake">kvcache-ai/Mooncake</a>.</p>
+<p align="center">Hierarchical AllReduce topology for disaggregated LLM serving</p>
 
 ### Now
 
-| Role | Where | What I do |
-|------|-------|-----------|
-| **Large Model Inference Distributed System R&D Intern** | Approaching.AI · Tsinghua MADSys collaboration · Nov 2026 to present | Core Mooncake development for agent RL rollouts: the C++ transfer engine over RDMA and KV-cache offloading |
-| **Research Intern** | SJTU ReArch Lab · Nov 2026 to present | Low-bit inference kernels in CUDA/Triton and FP8/FP4 KV-cache compression |
+- **Large Model Inference Distributed System R&D Intern** at Approaching.AI, a Tsinghua MADSys collaboration, Nov 2026 to present. Core Mooncake work for agent RL rollouts: the C++ transfer engine over RDMA and KV-cache offloading.
+- **Research Intern** at SJTU ReArch Lab, Nov 2026 to present. Low-bit inference kernels in CUDA/Triton and FP8/FP4 KV-cache compression.
 
 ---
 
 ### Selected work
 
-| Project | What it does |
-|---------|--------------|
-| [NVFP4-DiT](https://github.com/theraihanrakibb/nvfp4-dit) | 4-bit audio-guided video diffusion. FP4-packed Triton kernels are 3.2× faster than FP16 and use 4× less memory. IEEE TNNLS, under review. |
-| [AI Infrastructure Portfolio](https://github.com/theraihanrakibb/ai-infra-portfolio) | Ten Dockerized AI-infra services with CI and reproducible quickstarts. |
-| [Multimodal Deepfake Detection](https://github.com/theraihanrakibb/deepfake-av-detector) | M.E. thesis: audio-visual-temporal framework for deepfake video detection. |
-| [Confidential Spark Queries](https://github.com/theraihanrakibb/spark-ckks-query) | B.E. thesis: distributed confidential query protocol with CKKS homomorphic encryption. |
-| [Distributed Training Launcher](https://github.com/theraihanrakibb/train-launcher) | Fault-tolerant multi-node PyTorch launcher with retry and checkpoint recovery. |
+- [NVFP4-DiT](https://github.com/theraihanrakibb/nvfp4-dit) — 4-bit audio-guided video diffusion. FP4-packed Triton kernels are 3.2× faster than FP16 and use 4× less memory. IEEE TNNLS, under review.
+- [AI Infrastructure Portfolio](https://github.com/theraihanrakibb/ai-infra-portfolio) — Ten Dockerized AI-infra services with CI and reproducible quickstarts.
+- [Multimodal Deepfake Detection](https://github.com/theraihanrakibb/deepfake-av-detector) — M.E. thesis: audio-visual-temporal framework for deepfake video detection.
+- [Confidential Spark Queries](https://github.com/theraihanrakibb/spark-ckks-query) — B.E. thesis: distributed confidential query protocol with CKKS homomorphic encryption.
+- [Distributed Training Launcher](https://github.com/theraihanrakibb/train-launcher) — Fault-tolerant multi-node PyTorch launcher with retry and checkpoint recovery.
 
 ---
 
@@ -91,10 +87,8 @@
 
 <p align="justify"><b>Northwestern Polytechnical University</b> · Xi'an, China</p>
 
-| Degree | Period | Details |
-|--------|--------|---------|
-| **M.E. Software Engineering** | 2024–2027 | GPA 88/100 · Rank 2/87 · Chinese Government Scholarship |
-| **B.E. Computer Science** | 2020–2024 | GPA 85/100 · Rank 5/56 · Outstanding Graduate · Presidential Scholarship |
+- **M.E. Software Engineering**, 2024–2027. GPA 88/100 · Rank 2/87 · Chinese Government Scholarship.
+- **B.E. Computer Science**, 2020–2024. GPA 85/100 · Rank 5/56 · Outstanding Graduate · Presidential Scholarship.
 
 <details>
 <summary>Contribution graph</summary>
