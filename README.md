@@ -41,10 +41,10 @@ Contributing process-group collectives and expert-parallel dispatch to [kvcache-
 
 ## 03 / NOW
 
-| Role | Details |
-|------|---------|
-| 🔬 **Large Model Inference Distributed System R&D Intern** | **at Approaching.AI, a Tsinghua MADSys collaboration, Nov 2026 to present. Core Mooncake work for agent RL rollouts: the C++ transfer engine over RDMA and KV-cache offloading.** |
-| 🔬 **Research Intern** | **at SJTU ReArch Lab, Nov 2026 to present. Low-bit inference kernels in CUDA/Triton and FP8/FP4 KV-cache compression.** |
+| Role | Where | Work |
+|------|-------|------|
+| 🔬 **Large Model Inference Distributed System R&D Intern** | Approaching.AI · Tsinghua MADSys collaboration · Nov 2026 to present | Core Mooncake work for agent RL rollouts: the C++ transfer engine over RDMA and KV-cache offloading |
+| 🔬 **Research Intern** | SJTU ReArch Lab · Nov 2026 to present | Low-bit inference kernels in CUDA/Triton and FP8/FP4 KV-cache compression |
 
 ## 04 / SELECTED PROJECTS
 
