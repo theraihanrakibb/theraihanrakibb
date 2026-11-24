@@ -1,10 +1,11 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/studio/hero-type-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="assets/studio/hero-type-light.svg" />
-  <img src="assets/studio/hero-type-light.svg" width="100%" alt="Raihan — ML systems. Actions speak louder than words." />
+  <source media="(prefers-color-scheme: dark)" srcset="assets/studio/hero-raihan-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="assets/studio/hero-raihan-light.svg" />
+  <img src="assets/studio/hero-raihan-light.svg" width="100%" alt="Raihan — ML systems. Actions speak louder than words." />
 </picture>
 
 <p align="center">
+  <br />
   <a href="https://theraihanrakibb.github.io/"><img src="https://img.shields.io/badge/Portfolio-B64730?style=flat-square&amp;logo=googlechrome&amp;logoColor=white" alt="Portfolio" /></a>
   <a href="https://linkedin.com/in/theraihanrakib"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square" alt="LinkedIn" /></a>
   <a href="mailto:raihanrakib.143@gmail.com"><img src="https://img.shields.io/badge/Email-A72D3D?style=flat-square&amp;logo=gmail&amp;logoColor=white" alt="Email" /></a>

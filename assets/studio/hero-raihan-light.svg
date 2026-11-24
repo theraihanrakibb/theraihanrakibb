@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" role="img" aria-labelledby="title desc">
+  <title id="title">Raihan</title>
+  <desc id="desc">Actions speak louder than words. LLM inference, GPU kernels, and distributed systems.</desc>
+  <style>
+    .orbit { transform-origin: 931px 168px; animation: turn 18s linear infinite; }
+    @keyframes turn { to { transform: rotate(360deg); } }
+    @media (prefers-reduced-motion: reduce) { .orbit { animation: none; } }
+  </style>
+  <defs>
+    <radialGradient id="paper" cx="78%" cy="50%" r="72%">
+      <stop stop-color="#e5e9f6"/><stop offset=".8" stop-color="#f6f3e9"/>
+    </radialGradient>
+    <linearGradient id="rule"><stop stop-color="#365b16"/><stop offset=".55" stop-color="#6844ad"/><stop offset="1" stop-color="#b5422d"/></linearGradient>
+  </defs>
+  <rect x="1" y="1" width="1198" height="338" rx="18" fill="url(#paper)" stroke="#d9d7c9" stroke-width="2"/>
+  <path d="M45 47h54" stroke="url(#rule)" stroke-width="4" stroke-linecap="round"/>
+  <text x="115" y="53" fill="#365b16" font-family="Consolas, monospace" font-size="17" font-weight="bold" letter-spacing="2.4">ML SYSTEMS</text>
+  <text x="44" y="151" fill="#202739" font-family="Segoe UI, Arial, sans-serif" font-size="72" font-weight="500">Raihan</text>
+  <text x="46" y="225" fill="#365b16" font-family="Georgia, serif" font-size="37" font-style="italic">Actions speak louder than words.</text>
+  <path d="M46 255H650" stroke="#66768c" stroke-opacity=".42"/>
+  <text x="46" y="292" fill="#48546d" font-family="Arial, sans-serif" font-size="23" font-weight="bold">LLM inference<tspan fill="#6844ad">  ·  </tspan>GPU kernels<tspan fill="#b5422d">  ·  </tspan>Distributed systems</text>
+  <g fill="none" stroke="#66768c">
+    <circle cx="931" cy="168" r="109" stroke-opacity=".45"/>
+    <circle cx="931" cy="168" r="78" stroke-opacity=".56"/>
+    <circle cx="931" cy="168" r="48" stroke-opacity=".65"/>
+    <path d="M791 168h280M931 28v280" stroke-opacity=".33"/>
+  </g>
+  <path d="M911 168h40M931 148v40" stroke="#365b16" stroke-width="3" stroke-linecap="round"/>
+  <g class="orbit">
+    <circle cx="1040" cy="168" r="7" fill="#365b16"/>
+    <circle cx="884" cy="230" r="7" fill="#b5422d"/>
+    <circle cx="915" cy="123" r="6" fill="#6844ad"/>
+  </g>
+  <text x="600" y="322" text-anchor="middle" fill="#48546d" font-family="Consolas, monospace" font-size="15" font-weight="bold" letter-spacing="2.4">RESEARCH IN MOTION</text>
+</svg>
