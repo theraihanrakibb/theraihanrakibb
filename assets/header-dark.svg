@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="230" viewBox="0 0 1100 230" role="img" aria-labelledby="title desc">
+<title id="title">MD Rakibul Islam Raihan</title><desc id="desc">Machine learning systems. LLM inference, AI infrastructure, GPU computing.</desc>
+<defs>
+<linearGradient id="accent"><stop stop-color="#06b6d4"/><stop offset=".5" stop-color="#8b5cf6"/><stop offset="1" stop-color="#ec4899"/></linearGradient>
+<pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse"><path d="M28 0H0V28" fill="none" stroke="#9eb0cd" stroke-opacity=".08"/></pattern>
+</defs>
+<style>@media(prefers-reduced-motion:reduce){.pulse{display:none}}</style>
+<rect x="1" y="1" width="1098" height="228" rx="16" fill="#0d1324" stroke="#9eb0cd" stroke-opacity=".22"/>
+<rect x="1" y="1" width="1098" height="228" rx="16" fill="url(#grid)"/>
+<path d="M25 2H1075" stroke="url(#accent)" stroke-width="3"/>
+<g font-family="Segoe UI,Arial,sans-serif">
+<text x="40" y="48" font-size="12" font-weight="600" letter-spacing="3" fill="#67e8f9">ML SYSTEMS / RESEARCH &amp; ENGINEERING</text>
+<text x="38" y="108" font-size="42" font-weight="750" fill="#edf5ff">MD Rakibul Islam Raihan</text>
+<text x="40" y="149" font-size="19" fill="#9eb0cd">LLM inference · AI infrastructure · GPU computing</text>
+<text x="40" y="193" font-size="12" letter-spacing="2" fill="#9eb0cd">COMPUTE FASTER. SCALE FURTHER.</text>
+</g>
+<g transform="translate(900 114)" fill="none">
+<rect x="-53" y="-53" width="106" height="106" rx="16" stroke="url(#accent)" stroke-width="2"/>
+<rect x="-34" y="-34" width="68" height="68" rx="8" stroke="#67e8f9" stroke-opacity=".65"/>
+<path d="M-20-53v-20M0-53v-20M20-53v-20M-20 53v20M0 53v20M20 53v20M-53-20h-20M-53 0h-20M-53 20h-20M53-20h20M53 0h20M53 20h20" stroke="#9eb0cd" stroke-width="2"/>
+<path d="m-17 9 17-27 17 27M-10 0h20" stroke="#67e8f9" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<circle class="pulse" r="78" stroke="url(#accent)" stroke-opacity=".2"><animate attributeName="r" values="72;94;72" dur="5s" repeatCount="indefinite"/><animate attributeName="opacity" values=".2;.7;.2" dur="5s" repeatCount="indefinite"/></circle>
+</g></svg>
