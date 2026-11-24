@@ -1,9 +1,9 @@
 <div align="center">
 <picture>
-  <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/studio/lite-hero-mobile-dark.svg" />
-  <source media="(max-width: 600px)" srcset="assets/studio/lite-hero-mobile-light.svg" />
-  <source media="(prefers-color-scheme: dark)" srcset="assets/studio/lite-hero-dark.svg" />
-  <img src="assets/studio/lite-hero-light.svg" width="844" alt="MD RAKIBUL ISLAM RAIHAN. ML System, LLM Inference, KV-Cache, Mooncake, SGLang, and Agent RL. Actions speak louder than words. Snapshot: 3 followers, 5 stars, and 496 profile views." />
+  <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/studio/opt-lite-hero-mobile-dark.svg" />
+  <source media="(max-width: 600px)" srcset="assets/studio/opt-lite-hero-mobile-light.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="assets/studio/opt-lite-hero-dark.svg" />
+  <img src="assets/studio/opt-lite-hero-light.svg" width="844" alt="MD RAKIBUL ISLAM RAIHAN. ML System, LLM Inference, KV-Cache, Mooncake, SGLang, and Agent RL. Actions speak louder than words. Snapshot: 3 followers, 5 stars, and 496 profile views." />
 </picture>
 </div>
 
@@ -29,8 +29,8 @@
 
 <div align="center">
   <picture>
-    <source media="(max-width: 1000px)" srcset="assets/studio/tech-stack-narrow.svg" />
-    <img src="assets/studio/tech-stack-wide.svg" alt="Python, C++, CUDA, Triton, PyTorch, SGLang, vLLM, Mooncake/RDMA, KV Cache, PD Disaggregation, FP8/FP4, Docker, Kubernetes, Linux, Nsight" />
+    <source media="(max-width: 1000px)" srcset="assets/studio/opt-tech-stack-narrow.svg" />
+    <img src="assets/studio/opt-tech-stack-wide.svg" alt="Python, C++, CUDA, Triton, PyTorch, SGLang, vLLM, Mooncake/RDMA, KV Cache, PD Disaggregation, FP8/FP4, Docker, Kubernetes, Linux, Nsight" />
   </picture>
 </div>
 
@@ -44,8 +44,8 @@
 <sub><samp>Collaborations</samp></sub>
 
 <div>
-  <a href="https://madsys.cs.tsinghua.edu.cn/"><img src="assets/studio/collab-logo-madsys-lite.svg" alt="Tsinghua MADSys" /></a>
-  <a href="https://kvcache.ai/"><img src="assets/studio/collab-logo-kvcache.svg" alt="KVCache.AI" /></a>
+  <a href="https://madsys.cs.tsinghua.edu.cn/"><img src="assets/studio/opt-collab-logo-madsys-lite.svg" alt="Tsinghua MADSys" /></a>
+  <a href="https://kvcache.ai/"><img src="assets/studio/opt-collab-logo-kvcache.svg" alt="KVCache.AI" /></a>
 </div>
 
 ## <samp>Selected Results</samp>
