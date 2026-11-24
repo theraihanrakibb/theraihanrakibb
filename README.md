@@ -1,7 +1,7 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/studio/hero-raihan-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="assets/studio/hero-raihan-light.svg" />
-  <img src="assets/studio/hero-raihan-light.svg" width="100%" alt="Raihan — ML systems. Actions speak louder than words." />
+  <source media="(prefers-color-scheme: dark)" srcset="assets/studio/hero-dark-clean.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="assets/studio/hero-light-clean.svg" />
+  <img src="assets/studio/hero-light-clean.svg" width="100%" alt="Raihan. ML System, LLM Inference, KV-Cache, Mooncake, SGLang, and Agent RL. Actions speak louder than words." />
 </picture>
 
 <p align="center">
@@ -48,35 +48,27 @@
 
 ## Research & experience
 
-**[SJTU ReArch Lab][rearch]** · Research Intern  
-I develop CUDA and Triton inference kernels and work on FP8 and FP4 KV-cache compression.
+<p>
+  <a href="https://github.com/SJTU-ReArch-Group"><img src="assets/studio/info-rearch.svg" width="49%" alt="SJTU ReArch Lab, Research Intern. I develop CUDA and Triton inference kernels and work on FP8 and FP4 KV-cache compression." /></a>
+  <a href="https://approaching-ai.com/en/"><img src="assets/studio/info-approaching.svg" width="49%" alt="Approaching.AI, Distributed Inference R&amp;D Intern. I work on Mooncake and agent RL, in collaboration with Tsinghua MADSys." /></a>
+</p>
 
-**[Approaching.AI][approaching]** · Distributed Inference R&D Intern  
-I work on [Mooncake](https://github.com/kvcache-ai/Mooncake) and agent RL, in collaboration with [Tsinghua MADSys](https://madsys.cs.tsinghua.edu.cn/).
+<sub>Collaborations · <a href="https://github.com/kvcache-ai/Mooncake">Mooncake</a> · <a href="https://madsys.cs.tsinghua.edu.cn/">Tsinghua MADSys</a></sub>
 
 ## Selected results
 
-**55 s → 6.7 s** · Time to first token  
-Three-tier KV-cache offloading with [Mooncake][mooncake] over RDMA on four NVIDIA A800 GPUs (80 GB each), at a **92% cache hit rate**.
-
-**3.2× speedup · ¼ of the memory** · FP4 vs. FP16  
-FP4-packed Triton kernels in [NVFP4-DiT][nvfp4]. The paper is under review at IEEE TNNLS.
+<p>
+  <a href="https://github.com/kvcache-ai/Mooncake"><img src="assets/studio/info-ttft.svg" width="49%" alt="Time to first token fell from 55 seconds to 6.7 seconds with three-tier Mooncake KV-cache offloading over RDMA on four NVIDIA A800 GPUs, 80 GB each, at a 92% cache hit rate." /></a>
+  <a href="https://github.com/theraihanrakibb/nvfp4-dit"><img src="assets/studio/info-fp4.svg" width="49%" alt="NVFP4-DiT: FP4-packed Triton kernels achieved 3.2 times the speed and used one-quarter of the memory compared with FP16. The paper is under review at IEEE TNNLS." /></a>
+</p>
 
 ## Education
 
-[**Northwestern Polytechnical University**](https://en.nwpu.edu.cn/) · Xi’an, China  
-**M.E. in Software Engineering** · 2024–2027\
-Rank **2/87** · GPA 88/100 · Chinese Government Scholarship
-
-[**Northwestern Polytechnical University**](https://en.nwpu.edu.cn/) · Xi’an, China  
-**B.E. in Computer Science** · 2020–2024\
-Rank **5/56** · GPA 85/100 · Outstanding Graduate · Presidential Scholarship
+<p>
+  <a href="https://en.nwpu.edu.cn/"><img src="assets/studio/info-masters.svg" width="49%" alt="Northwestern Polytechnical University, Xi’an, China. M.E. in Software Engineering, 2024 to 2027. Rank 2 of 87, GPA 88 out of 100, Chinese Government Scholarship." /></a>
+  <a href="https://en.nwpu.edu.cn/"><img src="assets/studio/info-bachelors.svg" width="49%" alt="Northwestern Polytechnical University, Xi’an, China. B.E. in Computer Science, 2020 to 2024. Rank 5 of 56, GPA 85 out of 100, Outstanding Graduate, Presidential Scholarship." /></a>
+</p>
 
 ---
 
 **More projects** · [LLM Gateway](https://github.com/theraihanrakibb/llm-gateway) · [Mini LLM Serve](https://github.com/theraihanrakibb/mini-llm-serve) · [LLM Benchmark](https://github.com/theraihanrakibb/llm-benchmark) · [KV Cache Simulator](https://github.com/theraihanrakibb/kv-cache-simulator)
-
-[rearch]: https://github.com/SJTU-ReArch-Group
-[approaching]: https://approaching-ai.com/en/
-[mooncake]: https://github.com/kvcache-ai/Mooncake
-[nvfp4]: https://github.com/theraihanrakibb/nvfp4-dit

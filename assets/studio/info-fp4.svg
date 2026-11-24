@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="590" height="285" viewBox="0 0 590 285" role="img" aria-labelledby="title description">
+  <title id="title">3.2× speedup</title>
+  <desc id="description">NVFP4-DiT: FP4-packed Triton kernels achieved 3.2 times the speed and used one-quarter of the memory compared with FP16. The paper is under review at IEEE TNNLS.</desc>
+  <rect width="590" height="285" fill="#c0dfe6"/>
+  <g fill="#1e2b25" font-family="Arial, sans-serif">
+    <text x="26" y="37" font-family="Consolas, monospace" font-size="15">FP4 VS. FP16</text>
+    <text x="26" y="94" font-size="34" font-weight="bold">3.2× speedup</text>
+    <text x="26" y="132" font-size="19">FP4-packed Triton kernels in NVFP4-DiT</text>
+    <text x="26" y="159" font-size="19">One-quarter of the memory</text>
+    <text x="26" y="257" font-family="Consolas, monospace" font-size="14">IEEE TNNLS / UNDER REVIEW</text>
+  </g>
+  <path d="M26 226h538" stroke="#1e2b25" stroke-opacity=".55"/>
+  <g fill="none" stroke="#1e2b25" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"><path fill="#1e2b25" d="M450 96h15v15h-15zm19 0h15v15h-15zm19 0h15v15h-15zm19 0h15v15h-15zm-57 19h15v15h-15zm19 0h15v15h-15zm19 0h15v15h-15zm-38 19h15v15h-15zm19 0h15v15h-15zm-19 19h15v15h-15z"/><path d="m540 262 18-18m-14 0h14v14"/></g>
+</svg>

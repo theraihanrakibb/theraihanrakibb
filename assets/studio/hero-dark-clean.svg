@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" role="img" aria-labelledby="title desc">
+  <title id="title">Raihan</title>
+  <desc id="desc">Raihan. ML System · LLM Inference · KV-Cache · Mooncake · SGLang · Agent RL. Actions speak louder than words.</desc>
+  <style>
+    .orbit { transform-origin: 931px 168px; animation: turn 18s linear infinite; }
+    .topics-animated { display: none; }
+    @media (prefers-reduced-motion: no-preference) {
+      .topics-static { display: none; }
+      .topics-animated { display: inline; }
+      .topic { opacity: 0; animation: topic 16.8s linear infinite; }
+    }
+    @keyframes topic {
+      0%, 14% { opacity: 1; }
+      16.66%, 98% { opacity: 0; }
+      100% { opacity: 1; }
+    }
+    @keyframes turn { to { transform: rotate(360deg); } }
+    @media (prefers-reduced-motion: reduce) { .orbit { animation: none; } }
+  </style>
+  <defs>
+    <radialGradient id="paper" cx="78%" cy="50%" r="72%">
+      <stop stop-color="#2b3450"/><stop offset=".8" stop-color="#141824"/>
+    </radialGradient>
+    <linearGradient id="rule"><stop stop-color="#d2fa80"/><stop offset=".55" stop-color="#c9afff"/><stop offset="1" stop-color="#ffa28c"/></linearGradient>
+  </defs>
+  <rect x="1" y="1" width="1198" height="338" rx="18" fill="url(#paper)" stroke="#343b50" stroke-width="2"/>
+
+  <text x="44" y="137" fill="#f9f5e9" font-family="Segoe UI, Arial, sans-serif" font-size="72" font-weight="500">Raihan</text>
+  <text x="46" y="257" fill="#d2fa80" font-family="Georgia, serif" font-size="37" font-style="italic">Actions speak louder than words.</text>
+
+  <path d="M46 218h500" stroke="url(#rule)" stroke-opacity=".45"/>
+  <text class="topics-static" x="46" y="185" fill="#c5cce0" font-family="Arial, sans-serif" font-size="18" font-weight="bold">ML System · LLM Inference · KV-Cache · Mooncake · SGLang · Agent RL</text>
+  <g class="topics-animated" fill="#d2fa80" font-family="Arial, sans-serif" font-size="26" font-weight="bold">
+    <text class="topic" x="46" y="185" style="animation-delay: -0.0s">ML System</text>
+    <text class="topic" x="46" y="185" style="animation-delay: -14.0s">LLM Inference</text>
+    <text class="topic" x="46" y="185" style="animation-delay: -11.2s">KV-Cache</text>
+    <text class="topic" x="46" y="185" style="animation-delay: -8.4s">Mooncake</text>
+    <text class="topic" x="46" y="185" style="animation-delay: -5.6s">SGLang</text>
+    <text class="topic" x="46" y="185" style="animation-delay: -2.8s">Agent RL</text>
+  </g>
+  <g fill="none" stroke="#8594ba">
+    <circle cx="931" cy="168" r="109" stroke-opacity=".45"/>
+    <circle cx="931" cy="168" r="78" stroke-opacity=".56"/>
+    <circle cx="931" cy="168" r="48" stroke-opacity=".65"/>
+    <path d="M791 168h280M931 28v280" stroke-opacity=".33"/>
+  </g>
+  <path d="M911 168h40M931 148v40" stroke="#d2fa80" stroke-width="3" stroke-linecap="round"/>
+  <g class="orbit">
+    <circle cx="1040" cy="168" r="7" fill="#d2fa80"/>
+    <circle cx="884" cy="230" r="7" fill="#ffa28c"/>
+    <circle cx="915" cy="123" r="6" fill="#c9afff"/>
+  </g>
+
+</svg>
