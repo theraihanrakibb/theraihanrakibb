@@ -1,283 +1,35 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=MD+RAKIBUL+ISLAM+RAIHAN;ML+Systems+Engineer;ML+Systems+%26+LLM+Inference;KV-Cache+%7C+NVFP4-DiT" alt="Typing SVG" />
-</h1>
+# MD Rakibul Islam Raihan
 
-<p align="center">
-  <a href="mailto:raihanrakib.143@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" height="24" /></a>
-  &nbsp;
-  <a href="https://linkedin.com/in/theraihanrakib"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" height="24" /></a>
-  &nbsp;
-  <a href="https://theraihanrakibb.github.io/"><img src="https://img.shields.io/badge/Portfolio-FF6B6B?style=flat-square&logo=google-chrome&logoColor=white" height="24" /></a>
-  &nbsp;
-  <a href="https://github.com/theraihanrakibb"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" height="24" /></a>
-  &nbsp;
-  <a href="https://raw.githubusercontent.com/theraihanrakibb/theraihanrakibb/main/Raihan_Technical_Resume.pdf"><img src="https://img.shields.io/badge/Technical%20Resume-2027%20(EN)-00B4D8?style=flat-square&logo=adobe-acrobat-reader&logoColor=white" height="24" /></a>
-  &nbsp;
-  <a href="https://raw.githubusercontent.com/theraihanrakibb/theraihanrakibb/main/Raihan_Research_Resume.pdf"><img src="https://img.shields.io/badge/Research%20Resume-2027%20Academic%20CV%20(EN)-00B4D8?style=flat-square&logo=adobe-acrobat-reader&logoColor=white" height="24" /></a>
-</p>
+LLM inference and GPU systems engineer. I build serving systems around KV-cache offloading, prefill/decode disaggregation, and low-precision kernels.
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Focus-AI%20Infrastructure-00B4D8?style=flat-square&logo=serverless&logoColor=white" height="22" />
-  <img src="https://img.shields.io/badge/LLM%20Serving-KV--Cache%20%2F%20PD--Disagg-4361EE?style=flat-square&logo=databricks&logoColor=white" height="22" />
-  <img src="https://img.shields.io/badge/Quant-FP8%20%2F%20FP4-7209B7?style=flat-square&logo=lightning&logoColor=white" height="22" />
-  <img src="https://img.shields.io/badge/Hardware-A800%20%2F%20H100%20%2F%20H200-4CC9F0?style=flat-square&logo=nvidia&logoColor=white" height="22" />
-</p>
+M.E. Software Engineering, Northwestern Polytechnical University, graduating Jul 2027. Open to ML systems and inference engineering roles from then.
 
----
+[Email](mailto:raihanrakib.143@gmail.com) · [LinkedIn](https://linkedin.com/in/theraihanrakib) · [Portfolio](https://theraihanrakibb.github.io/) · [Technical resume](https://github.com/theraihanrakibb/theraihanrakibb/blob/main/Raihan_Technical_Resume.pdf) · [Research resume](https://github.com/theraihanrakibb/theraihanrakibb/blob/main/Raihan_Research_Resume.pdf)
 
-<p align="justify">ML Systems Engineer specializing in LLM inference infrastructure, distributed model serving, and GPU performance optimization. Experienced in developing disaggregated LLM serving systems, optimizing KV-cache management and RDMA data movement, and implementing high-performance CUDA/Triton kernels. Achieved an 8.3× reduction in long-context Time to First Token (TTFT), from 55 seconds to 6.7 seconds, through three-tier KV-cache offloading over Mooncake RDMA. Interested in scalable LLM inference, Agentic RL infrastructure, low-precision computation, and hardware-software co-design.</p>
+## Now
 
-<p align="center"><b>Core Skills:</b> Mooncake, SGLang, vLLM, KV-Cache, PD Disaggregation, CUDA, Triton, FP8/FP4, PyTorch, Distributed Systems.</p>
+Research intern at Approaching.AI with Tsinghua MADSys (Nov 2026 – present), working on Mooncake: the C++ transfer engine over RDMA and KV-cache offloading for agent RL rollouts. Also at SJTU ReArch Lab on low-bit inference kernels in CUDA/Triton and FP8/FP4 KV-cache compression.
 
-**🚀 Open to ML Systems / LLM Inference Engineering roles — available from Jul 2027.**
+At InfiX.ai (Apr – Jun 2026) I ran production serving on 4× A800 and 8× H200 clusters. Three-tier KV-cache offload over Mooncake RDMA cut long-context time to first token 8.3× (55 s to 6.7 s) at a 92% cache hit rate, and 2+2 prefill/decode disaggregation raised stable concurrency from 192 to 256 requests.
 
-### ⚡ At a glance
+## Selected work
 
-| | |
-|---|---|
-| 🎯 **Focus** | LLM inference systems — KV-cache offload, PD disaggregation, FP8/FP4 low-precision |
-| 📈 **Headline result** | **8.3× TTFT** (55s → 6.7s) at **92%** KV-cache hit, on 4× A800-80GB |
-| 🔬 **Research** | First author, **NVFP4-DiT** — 4× memory, **3.2× faster than FP16** (IEEE TNNLS, under review) |
-| 🖥️ **Hardware** | 4× A800-80GB · 8× H200 · H100 |
-| 🎓 **Status** | M.Eng. in Software Engineering, School of Software, Northwestern Polytechnical University (Top 1%) · 2027 New Grad · available Jul 2027 |
+| Repo | What it does |
+| --- | --- |
+| [nvfp4-dit](https://github.com/theraihanrakibb/nvfp4-dit) | 4-bit audio-guided video diffusion. FP4-packed Triton kernels are 3.2× faster than FP16 and use 4× less memory. First-author paper at IEEE TNNLS (under review). |
+| [ai-infra-portfolio](https://github.com/theraihanrakibb/ai-infra-portfolio) | Ten Dockerized AI-infra services with CI and reproducible quickstarts. |
+| [deepfake-av-detector](https://github.com/theraihanrakibb/deepfake-av-detector) | M.E. thesis: audio-visual deepfake detection with temporal inconsistencies. |
+| [spark-ckks-query](https://github.com/theraihanrakibb/spark-ckks-query) | B.E. thesis: confidential queries over Spark with CKKS homomorphic encryption. |
+| [train-launcher](https://github.com/theraihanrakibb/train-launcher) | Fault-tolerant multi-node PyTorch launcher with retry and checkpoint recovery. |
 
-### Currently
-- 🔬 **Large Model Inference Distributed System R&D Intern** — Approaching.AI (Tsinghua MADSys Collaboration), Remote, Nov 2026 – Present. Advisor: **Prof. Mingxing Zhang**; Technical Mentor: **Dr. Ke Yang**. Core development of **Mooncake** (KV-cache-centric disaggregated LLM serving); optimizing the C++ Transfer Engine for RDMA-based data movement; investigating Agentic RL rollout systems (tree-structured KV-prefix reuse, memory management for disaggregated long-context serving).
-- 🔬 **Research Intern** — SJTU ReArch Lab (Remote), Nov 2026 – Present. Under **Prof. Jingwen Leng** & **Weiming Hu (PhD)**; hardware-software co-design and low-bit LLM inference (FP8/FP4), developing & optimizing CUDA/Triton kernels.
-- 📄 Writing my M.Eng. thesis on **multimodal deepfake detection** (visual + audio + temporal inconsistencies); first author of **NVFP4-DiT** (IEEE TNNLS, Q1, under review).
+## Research
 
----
+First author of "NVFP4-DiT: Efficient 4-Bit Audio-Guided Video Diffusion Transformers for Low-Cost Video Generation" (IEEE TNNLS, Q1, under review). My M.E. thesis at ASLP@NPU covers multimodal audio-visual deepfake detection. I'm studying the memory cost of long-context agent RL rollouts and how KV-cache compression with disaggregated serving could make them cheaper.
 
-### 📄 Resume / CV
+## Education
 
-<div align="center">
-  <a href="https://raw.githubusercontent.com/theraihanrakibb/theraihanrakibb/main/Raihan_Technical_Resume.pdf"><img src="https://img.shields.io/badge/📥%20Technical%20Resume-2027%20(EN)-00B4D8?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" height="34" alt="Technical Resume" /></a>
-  &nbsp; <a href="https://raw.githubusercontent.com/theraihanrakibb/theraihanrakibb/main/Raihan_Research_Resume.pdf"><img src="https://img.shields.io/badge/📥%20Research%20Resume-2027%20Academic%20CV%20(EN)-00B4D8?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" height="34" alt="Research Resume" /></a>
-</div>
+Northwestern Polytechnical University, Xi'an. M.E. Software Engineering 2024–2027 (GPA 88/100, rank 2/87); B.E. Computer Science 2020–2024 (GPA 85/100, rank 5/56, Outstanding Graduate). Chinese Government Scholarship 2024–2027, Presidential Scholarship 2020–2024, Wu Yajun Scholarship 2024, Best Undergraduate Thesis Award 2024, NWPU AI Challenge Hackathon winner 2023.
 
+## Stack
 
-
----
-
-### My Journey
-
-```mermaid
-flowchart LR
-    BD[Bangladesh] --> CN[China: Xi'an]
-    CN --> BS[NWPU: BSc in CST]
-    BS --> MS[NWPU: MEng in SWE]
-    MS --> AI[ML Systems Engineer]
-    MS --> RS[NVFP4-DiT Research]
-    AI --> PF[10-Project Open-Source Portfolio]
-    RS --> PF
-    PF --> FUT[The Road Ahead]
-```
-
----
-
-### What I Do
-
-- **AI Infrastructure** — 3-tier KV-cache offload, prefill/decode disaggregation, SGLang (v0.5.9 / v0.5.10-post2), RDMA, 4× A800-80GB + 2×/8× H200 clusters.
-- **Low-Precision Inference** — FP8/FP4 quantization for LLMs and diffusion transformers.
-- **Multimodal AI** — audio-guided video diffusion (NVFP4-DiT) and audio-visual deepfake detection research.
-- **LLM / NLP Agents** — LLM-agent workflow automation and multimodal understanding.
-
-### Focus
-
-**Inference Infrastructure**
-- **LLM Serving at Scale** — 3-tier KV-cache offload (GPU HBM → CPU DRAM → SSD) over Mooncake RDMA, PD-disaggregation, prefix caching & continuous batching on SGLang across 4× A800-80GB.
-- **Low-Precision Inference** — FP8/FP4 quantization for LLMs and diffusion transformers; FP8 KV cache halves per-token KV memory (72.9 → 36.5 KB); author of NVFP4-DiT (IEEE TNNLS, under review).
-- **Distributed GPU Systems** — RDMA-based multi-node training/inference and cluster orchestration.
-- **GPU Kernels** — CUDA / Triton / FlashAttention kernels for attention and GEMM.
-
-**Multimodal & NLP**
-- **Multimodal Generation** — audio-guided video diffusion transformers (NVFP4-DiT) with FP4-packed Triton kernels, benchmarked on H100.
-- **Multimodal Understanding** — audio-visual-temporal fusion for deepfake detection.
-- **LLM Agents & NLP** — LLM-agent workflow automation and multimodal understanding.
-
-### Key Achievements
-
-| Metric | Result | Context |
-|--------|--------|---------|
-| KV-cache hit rate | **92%** | 3-tier offload over Mooncake RDMA, long-context (32K+ tokens) |
-| TTFT reduction | **8.3×** (55s → 6.7s) | Qwen3.5/3.6-27B on 4× A800-80GB |
-| Stable concurrency | **192 → 256** | 2+2 GPU prefill/decode disaggregation |
-| DeepSeek-V3.2 on 8× H200 | **91 ms TTFT / 36 ms TPOT** @32–64 · **13.16 req/s** @256 | FP8, SGLang benchmark |
-| GEMM profiling | **60%** of step time | Nsight Systems — redirected optimization to compute kernels |
-| KV memory per token | **72.9 → 36.5 KB** | FP8 KV cache |
-| Kernel speedup | **3.2× vs FP16** (2.1× vs naive FP4) | FP4-packed Triton kernels (NVFP4-DiT) |
-| Memory reduction | **4×** | NVFP4-DiT on H100 |
-| M.Eng. Thesis | **deepfake detection** | multimodal audio-visual-temporal framework |
-| Scholarships & Awards | Chinese Gov. · Presidential · Wu Yajun · Best Thesis · Hackathon | Northwestern Polytechnical University M.Eng. / B.Eng. |
-
-### Experience
-
-- **Large Model Inference Distributed System R&D Intern** | Approaching.AI (Tsinghua MADSys Collaboration) | Remote | Nov 2026 – Present
-- **Research Intern** | SJTU ReArch Lab | Remote | Nov 2026 – Present
-- **Technical Staff** | InfiX.ai | Shenzhen, China | Apr 2026 – Jun 2026
-
-
-### 🎓 Education
-
-<p align="center">
-  <a href="https://www.nwpu.edu.cn/" title="Northwestern Polytechnical University (NWPU)"><picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/nwpu-logo-white.png">
-    <img src="assets/nwpu-logo-dark.png" width="340" alt="Northwestern Polytechnical University (NWPU)" />
-  </picture></a>
-  <br/>
-  <b><a href="https://www.nwpu.edu.cn/">Northwestern Polytechnical University (NWPU)</a></b> · Xi'an, China · 985 / 211
-</p>
-
-| Degree | School | Period | Thesis |
-|--------|--------|--------|--------|
-| **M.Eng. in Software Engineering** | School of Software | Sep 2024 – Jul 2027 \| GPA 88/100 (Top 1%)<br/>Chinese Government Scholarship · Member, International Student Union (ISU), Research Lab: [Audio, Speech and Language Processing Lab (ASLP@NPU)](https://www.npu-aslp.org/) | [M.Eng. Thesis](https://github.com/theraihanrakibb/deepfake-av-detector) |
-| **B.Eng. in Computer Science & Technology** | School of Computer Science | Sep 2020 – Jul 2024 \| GPA 85/100 (Top 1%)<br/>Presidential Scholarship · Best Undergraduate Thesis Award, Advisor's current center: [NWPU Human-Cyber-Physical Fusion Intelligent Computing Innovation Center](https://hcps.nwpu.edu.cn/#) | [B.Eng. Thesis](https://github.com/theraihanrakibb/spark-ckks-query) |
-
-### Awards & Certifications
-
-- **Scholarships & Awards:** Chinese Government Scholarship (2024–2027) · NWPU Presidential Scholarship (2020–2024) · Wu Yajun Scholarship (2024) · Best Undergraduate Thesis Award (2024) · NWPU AI Challenge Hackathon Winner (2023)
-- **Certifications:** Deep Learning Specialization · Claude Academy: Claude Code in Action · AI Agents Fundamentals
-
-### 🤝 Service & Teaching
-
-- **Member**, International Student Union (ISU), Northwestern Polytechnical University
-- **Academic Volunteer**, School of International College, Northwestern Polytechnical University
-- **Teaching Assistant (TA)**, Object-Oriented Programming (OOP), Northwestern Polytechnical University
-- **Teaching Assistant (TA)**, QT Cross-Platform Framework Design and Programming, Northwestern Polytechnical University
-
-### Research Interests
-
-- AI Infrastructure & LLM Inference Systems (KV-cache, PD disaggregation, RDMA)
-- Multimodal AI (visual + audio + temporal fusion, deepfake detection, video generation)
-- Low-Precision Quantization (FP8/FP4 for diffusion transformers and LLMs)
-- GPU Kernel Optimization (CUDA, Triton, FlashAttention, GEMM)
-
-### Open to Collaboration
-
-- LLM serving infrastructure and distributed systems
-- Multimodal AI and computer vision research
-- Open-source AI tooling and frameworks
-- Always happy to connect via email or LinkedIn
-
----
-
-### 🚀 AI Infrastructure Portfolio
-
-A curated set of **10 production-quality, fully-tested, Dockerized** AI-infra projects — each with a clear architecture, quickstart, and CI. Showcased in [**ai-infra-portfolio**](https://github.com/theraihanrakibb/ai-infra-portfolio).
-
-<details>
-<summary><b>Show all 10 projects ↓</b></summary>
-
-| Project | Area | What it does |
-|---------|------|--------------|
-| [llm-gateway](https://github.com/theraihanrakibb/llm-gateway) | LLM Gateway | OpenAI-compatible proxy: per-key rate limits, cost caps, caching, provider fallback. |
-| [mini-serve](https://github.com/theraihanrakibb/mini-llm-serve) | Model Serving | Inference server: dynamic batching, SSE streaming, Prometheus metrics. |
-| [gpu-exporter](https://github.com/theraihanrakibb/gpu-exporter) | Observability | NVIDIA GPU Prometheus exporter + Grafana dashboard. |
-| [train-launcher](https://github.com/theraihanrakibb/train-launcher) | Training Ops | Fault-tolerant multi-node PyTorch launcher with auto-retry. |
-| [model-registry](https://github.com/theraihanrakibb/model-registry) | MLOps | Content-addressed model/dataset registry (mini-MLflow) with aliases. |
-| [kv-cache-sim](https://github.com/theraihanrakibb/kv-cache-simulator) | Inference Eff. | KV-cache eviction + prefill/decode disaggregation simulator (TTFT/TPOT). |
-| [llm-bench](https://github.com/theraihanrakibb/llm-benchmark) | Benchmarking | LLM benchmark/eval harness: TTFT, TPOT, throughput, cost model. |
-| [quant-playground](https://github.com/theraihanrakibb/quantization-playground) | Low Precision | FP8/FP4/INT8/INT4 bit-packing + numpy MLP quantization demo. |
-| [llmoops-trace](https://github.com/theraihanrakibb/llmops-tracer) | Observability | OpenTelemetry LLM tracing collector + Grafana dashboard. |
-| [rag-pipeline](https://github.com/theraihanrakibb/rag-toolkit) | Retrieval (RAG) | Offline RAG toolkit: ingest → chunk → embed → ANN search → rerank. |
-
-</details>
-
-### 🎨 Multimodal & NLP Projects
-
-Research-driven multimodal and NLP work — taking generative and understanding models from paper to reproducible artifacts.
-
-| Project | Area | What it does |
-|---------|------|--------------|
-| [NVFP4-DiT](https://github.com/theraihanrakibb/nvfp4-dit) | Multimodal Generation | 4-bit audio-guided video diffusion transformer (IEEE TNNLS, under review): FP4-packed Triton kernels → **4× memory reduction** and **3.2× faster than FP16** (2.1× vs naive FP4), evaluated on WebVid-10M, VGGSound and UCF-101 on H100; includes a vLLM-style serving scheduler (frame-level paged attention, dynamic frame batching). |
-| [Multimodal Deepfake Detection](https://github.com/theraihanrakibb/deepfake-av-detector) | Multimodal Understanding | Audio-visual-temporal framework for deepfake video detection (M.Eng. thesis). |
-
-### ⭐ Featured Work
-
-<table>
-<tr>
-<td width="50%" align="center">
-<a href="https://github.com/theraihanrakibb/nvfp4-dit"><img src="https://raw.githubusercontent.com/theraihanrakibb/nvfp4-dit/main/images/architecture.png" alt="NVFP4-DiT architecture" width="100%"/></a>
-<b>NVFP4-DiT</b><br/>4-bit audio-guided video diffusion — 4× memory, 3.2× faster than FP16.
-</td>
-<td width="50%" align="center">
-<a href="https://theraihanrakibb.github.io/"><img src="https://raw.githubusercontent.com/theraihanrakibb/theraihanrakibb.github.io/main/assets/og-image.png" alt="Online Portfolio" width="100%"/></a>
-<b>Portfolio</b><br/>Bilingual personal site with benchmark evidence.
-</td>
-</tr>
-</table>
-
-### Featured Research & Engineering
-
-| Project | Description |
-|---------|-------------|
-| [NVFP4-DiT](https://github.com/theraihanrakibb/nvfp4-dit) | 4-bit low-precision audio-guided video diffusion transformer (IEEE TNNLS, under review) — FP4 Triton kernels, QAT with learnable cross-modal scales, vLLM-style scheduler. |
-| [M.Eng. Thesis](https://github.com/theraihanrakibb/deepfake-av-detector) | Detecting Deepfake Video by a Multimodal Audio-Visual Framework with Temporal Inconsistencies. |
-| [c-compiler](https://github.com/theraihanrakibb/c-compiler) | 4-stage C compiler front-end: lexical, syntax, semantic analysis + three-address code generation (Flex/Bison). |
-| [B.Eng. Thesis](https://github.com/theraihanrakibb/spark-ckks-query) | Design and Implementation of a Distributed Confidential Query Protocol for Spark — Apache Spark + CKKS homomorphic encryption. |
-| [Portfolio](https://github.com/theraihanrakibb/theraihanrakibb.github.io) | Personal portfolio website. |
-
-### Publication
-
-- **NVFP4-DiT: 4-bit Audio-Guided Video Diffusion Transformers** — IEEE TNNLS, under review.
-
-### Tech Stack
-
-**Languages**
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![CUDA C++](https://img.shields.io/badge/CUDA%20C%2B%2B-76B900?style=flat-square&logo=nvidia&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=sqlite&logoColor=white)
-
-**LLM Inference & Serving**
-![SGLang](https://img.shields.io/badge/SGLang-FF6B35?style=flat-square)
-![vLLM](https://img.shields.io/badge/vLLM-76B900?style=flat-square)
-![Triton](https://img.shields.io/badge/Triton-FF6B35?style=flat-square)
-![Mooncake/RDMA](https://img.shields.io/badge/Mooncake%2FRDMA-00B4D8?style=flat-square)
-![KV Cache](https://img.shields.io/badge/KV%20Cache-4361EE?style=flat-square)
-![PD Disaggregation](https://img.shields.io/badge/PD%20Disaggregation-4361EE?style=flat-square)
-
-**GPU & Performance**
-![CUDA](https://img.shields.io/badge/CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white)
-![Nsight Systems](https://img.shields.io/badge/Nsight%20Systems-76B900?style=flat-square&logo=nvidia&logoColor=white)
-![PyTorch Profiler](https://img.shields.io/badge/PyTorch%20Profiler-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![FP8/FP4](https://img.shields.io/badge/FP8%2FFP4-7209B7?style=flat-square)
-![GEMM](https://img.shields.io/badge/GEMM%20Opt-7209B7?style=flat-square)
-
-**ML & Multimodal**
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![Transformers](https://img.shields.io/badge/Transformers-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-![Diffusion/DiT](https://img.shields.io/badge/Diffusion%2FDIT-FFD21E?style=flat-square)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-
-**Distributed & Infra**
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-
-**Web, Data & Tools**
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
-
----
-
-### GitHub Stats
-
-<div align="center" style="margin:2px;">
-  <img src="assets/contribution-graph.png" width="100%" alt="Contribution Graph" />
-</div>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=theraihanrakibb&label=Profile+Views&color=0e75b6&style=for-the-badge" />
-</p>
-
-<p align="center">
-  <i>“Inference is where the model meets the metal — I make that intersection fast, cheap, and observable.”</i>
-</p>
+Mooncake, SGLang, vLLM, RDMA, CUDA C++, Triton, FP8/FP4, PyTorch, C++, Python, Docker, Kubernetes, Linux.
