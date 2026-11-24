@@ -90,15 +90,9 @@
 
 ## <samp>Activity</samp>
 
-<p align="center">
-  <a href="https://github.com/theraihanrakibb?tab=followers"><img src="https://img.shields.io/github/followers/theraihanrakibb?style=flat-square&amp;logo=github&amp;logoColor=white&amp;labelColor=141922&amp;color=225b99&amp;label=Followers" alt="GitHub followers" /></a>
-  <a href="https://github.com/theraihanrakibb?tab=repositories&amp;sort=stargazers"><img src="https://img.shields.io/github/stars/theraihanrakibb?style=flat-square&amp;logo=github&amp;logoColor=white&amp;labelColor=141922&amp;color=660874&amp;label=Stars" alt="GitHub stars" /></a>
-  <img src="https://komarev.com/ghpvc/?username=theraihanrakibb&amp;label=Profile%20Views&amp;color=a52f3c&amp;style=flat-square" alt="Profile views" />
-</p>
-
 <a href="https://github.com/theraihanrakibb#contribution-activity">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/studio/activity-dark.svg" />
-    <img src="assets/studio/activity-light.svg" width="100%" alt="Contribution snapshot. Open live GitHub contribution activity." />
+    <source media="(prefers-color-scheme: dark)" srcset="assets/studio/activity-blue-dark.svg" />
+    <img src="assets/studio/activity-blue-light.svg" width="100%" alt="Contribution snapshot. Open live GitHub contribution activity." />
   </picture>
 </a>
