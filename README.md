@@ -42,6 +42,7 @@
 <p>
   <a href="https://github.com/kvcache-ai/Mooncake"><img src="assets/studio/terminal-mini-moon.svg" alt="Mooncake" /></a>
   <a href="https://madsys.cs.tsinghua.edu.cn/"><img src="assets/studio/terminal-mini-madsys.svg" alt="Tsinghua MADSys" /></a>
+  <a href="https://kvcache.ai/"><img src="assets/studio/terminal-mini-kvcache-ai.svg" alt="kvcache.ai" /></a>
 </p>
 
 ## `Selected results`
