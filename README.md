@@ -1,107 +1,100 @@
-<p align="center">
-  <img src="assets/profile-banner.svg" width="100%" alt="MD Rakibul Islam Raihan — LLM inference, AI infrastructure, and ML systems" />
-</p>
+<div align="center">
 
-<p align="center">
-  <a href="https://theraihanrakibb.github.io/"><b>Portfolio</b></a>
-  &nbsp; · &nbsp;
-  <a href="https://linkedin.com/in/theraihanrakib"><b>LinkedIn</b></a>
-  &nbsp; · &nbsp;
-  <a href="mailto:raihanrakib.143@gmail.com"><b>Email</b></a>
-  &nbsp; · &nbsp;
-  <a href="Raihan_Research_Resume.pdf"><b>Research CV</b></a>
-  &nbsp; · &nbsp;
-  <a href="Raihan_Technical_Resume.pdf"><b>Technical CV</b></a>
-</p>
+<h1>MD Rakibul Islam Raihan</h1>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00D9FF&center=true&vCenter=true&width=760&lines=LLM+Inference;AI+Infrastructure;ML+Systems" alt="LLM Inference, AI Infrastructure, ML Systems" height="34" />
 
 <br/>
-
-## Making long-context agents cheaper to run
-
-I work on **machine learning systems**, from LLM serving and KV-cache offloading to low-bit GPU kernels. My research connects disaggregated inference, RDMA, and memory management with the demands of agentic reinforcement learning.
-
-> **8.3× lower time to first token** — from 55 s to 6.7 s, with a 92% KV-cache hit rate using three-tier offloading over Mooncake RDMA on 4× A800-80GB.
-
-### Currently
-
-**Research Intern · SJTU ReArch Lab**  
-Low-bit inference kernels in CUDA and Triton, and FP8/FP4 KV-cache compression.  
-<sub>November 2026 — present</sub>
-
-**Large Model Inference Distributed System R&D Intern · Approaching.AI**  
-Mooncake's C++ transfer engine, RDMA, and KV-cache offloading for agent RL rollouts, through a Tsinghua MADSys collaboration.  
-<sub>November 2026 — present</sub>
-
-<br/>
-
-## Selected work
-
-### Mooncake · Distributed inference
-Contributing process-group collectives and expert-parallel dispatch to **[kvcache-ai/Mooncake](https://github.com/kvcache-ai/Mooncake)**.
-
-<sub>C++ &nbsp; / &nbsp; RDMA &nbsp; / &nbsp; Expert parallelism</sub>
-
----
-
-### [NVFP4-DiT ↗](https://github.com/theraihanrakibb/nvfp4-dit)
-**4-bit audio-guided video diffusion.** FP4-packed Triton kernels achieve 3.2× speedup over FP16 with 4× less memory. Submitted to IEEE TNNLS; under review.
-
-<sub>Triton &nbsp; / &nbsp; FP4 &nbsp; / &nbsp; Video diffusion</sub>
-
----
-
-### [AI Infrastructure Portfolio ↗](https://github.com/theraihanrakibb/ai-infra-portfolio)
-Ten Dockerized AI infrastructure services, with CI and reproducible quickstarts.
-
-<sub>Model serving &nbsp; / &nbsp; Docker &nbsp; / &nbsp; Infrastructure</sub>
-
----
-
-### [Multimodal Deepfake Detection ↗](https://github.com/theraihanrakibb/deepfake-av-detector)
-M.E. thesis: an audio-visual framework for detecting deepfake video through temporal inconsistencies.
-
-<sub>Multimodal learning &nbsp; / &nbsp; Audio-visual detection</sub>
-
-<details>
-<summary><b>More projects</b> — distributed training and confidential computing</summary>
-
-<br/>
-
-- **[Distributed Training Launcher](https://github.com/theraihanrakibb/train-launcher)** — fault-tolerant multi-node PyTorch launcher with retries and checkpoint recovery.
-- **[Confidential Spark Queries](https://github.com/theraihanrakibb/spark-ckks-query)** — B.E. thesis on distributed confidential queries using CKKS homomorphic encryption.
-
-</details>
-
-<br/>
-
-## Tools I work with
-
-**Languages & kernels**  
-Python · C++ · CUDA · Triton · PyTorch
-
-**Inference & memory**  
-SGLang · vLLM · Mooncake · RDMA · KV-cache offloading · Prefill/decode disaggregation · FP8/FP4
-
-**Infrastructure & profiling**  
-Linux · Docker · Kubernetes · NVIDIA Nsight
-
-<br/>
-
-## Education
-
-**Northwestern Polytechnical University** · Xi'an, China
-
-**M.E. in Software Engineering** · 2024–2027  
-GPA 88/100 · Rank 2/87 · Chinese Government Scholarship
-
-**B.E. in Computer Science** · 2020–2024  
-GPA 85/100 · Rank 5/56 · Outstanding Graduate · Presidential Scholarship
-
-<br/>
-
----
 
 <p align="center">
-  <b>Interested in ML systems, inference, or GPU kernels?</b><br/>
-  <a href="mailto:raihanrakib.143@gmail.com">Let's connect.</a>
+  <a href="mailto:raihanrakib.143@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" height="22" alt="Email" /></a>
+  <a href="https://linkedin.com/in/theraihanrakib"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" height="22" alt="LinkedIn" /></a>
+  <a href="https://theraihanrakibb.github.io/"><img src="https://img.shields.io/badge/Portfolio-FF6B6B?style=flat-square&logo=google-chrome&logoColor=white" height="22" alt="Portfolio" /></a>
+  <a href="https://github.com/theraihanrakibb/theraihanrakibb/raw/main/Raihan_Resume_Bundle.zip"><img src="https://img.shields.io/badge/Resume-00B4D8?style=flat-square&logo=adobe-acrobat-reader&logoColor=white" height="22" alt="Resume bundle" /></a>
 </p>
+
+</div>
+
+<hr/>
+
+## 01 / RESEARCH
+
+<p align="justify">My research focuses on Machine Learning Systems (MLSys). Specifically, I aim to bridge the gap between the LLM inference stack (disaggregated serving, KV-cache offloading, RDMA) and the memory-intensive demands of Agentic Reinforcement Learning (Agent RL). My goal is to design systems that make long-context agent rollouts cheaper and more scalable.</p>
+
+> **8.3× lower TTFT** (55 s to 6.7 s) at **92% KV-cache hit** with three-tier offload over Mooncake RDMA on 4× A800-80GB.
+
+## 02 / FEATURED WORK
+
+### 🌙 Mooncake PG-EP
+
+Contributing process-group collectives and expert-parallel dispatch to [kvcache-ai/Mooncake](https://github.com/kvcache-ai/Mooncake).
+
+## 03 / NOW
+
+| Role | Where | Work |
+|------|-------|------|
+| 🔬 **Large Model Inference Distributed System R&D Intern** | Approaching.AI · Tsinghua MADSys collaboration · Nov 2026 to present | Core Mooncake work for agent RL rollouts: the C++ transfer engine over RDMA and KV-cache offloading |
+| 🔬 **Research Intern** | SJTU ReArch Lab · Nov 2026 to present | Low-bit inference kernels in CUDA/Triton and FP8/FP4 KV-cache compression |
+
+## 04 / SELECTED PROJECTS
+
+| Project | Details |
+|---------|---------|
+| **[NVFP4-DiT](https://github.com/theraihanrakibb/nvfp4-dit)** | **4-bit audio-guided video diffusion. FP4-packed Triton kernels are 3.2× faster than FP16 and use 4× less memory. IEEE TNNLS, under review.** |
+| **[AI Infrastructure Portfolio](https://github.com/theraihanrakibb/ai-infra-portfolio)** | **Ten Dockerized AI-infra services with CI and reproducible quickstarts.** |
+| **[Multimodal Deepfake Detection](https://github.com/theraihanrakibb/deepfake-av-detector)** | **M.E. thesis: audio-visual-temporal framework for deepfake video detection.** |
+| **[Confidential Spark Queries](https://github.com/theraihanrakibb/spark-ckks-query)** | **B.E. thesis: distributed confidential query protocol with CKKS homomorphic encryption.** |
+| **[Distributed Training Launcher](https://github.com/theraihanrakibb/train-launcher)** | **Fault-tolerant multi-node PyTorch launcher with retry and checkpoint recovery.** |
+
+## 05 / TECH STACK
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++" />
+<img src="https://img.shields.io/badge/CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white" alt="CUDA" />
+<img src="https://img.shields.io/badge/Triton-FF6B35?style=flat-square" alt="Triton" />
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" />
+<br/>
+<img src="https://img.shields.io/badge/SGLang-FF6B35?style=flat-square" alt="SGLang" />
+<img src="https://img.shields.io/badge/vLLM-76B900?style=flat-square" alt="vLLM" />
+<img src="https://img.shields.io/badge/Mooncake%2FRDMA-00B4D8?style=flat-square" alt="Mooncake and RDMA" />
+<img src="https://img.shields.io/badge/KV%20Cache-4361EE?style=flat-square" alt="KV cache" />
+<img src="https://img.shields.io/badge/PD%20Disaggregation-4361EE?style=flat-square" alt="PD disaggregation" />
+<img src="https://img.shields.io/badge/FP8%2FFP4-7209B7?style=flat-square" alt="FP8 and FP4" />
+<br/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes" />
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
+<img src="https://img.shields.io/badge/Nsight-76B900?style=flat-square" alt="Nsight" />
+
+</div>
+
+## 06 / EDUCATION
+
+**Northwestern Polytechnical University · Xi'an, China**
+
+| Degree | Details |
+|--------|---------|
+| **M.E. Software Engineering** | **2024–2027. GPA 88/100 · Rank 2/87 · Chinese Government Scholarship.** |
+| **B.E. Computer Science** | **2020–2024. GPA 85/100 · Rank 5/56 · Outstanding Graduate · Presidential Scholarship.** |
+
+## 07 / ACTIVITY
+
+<div align="center">
+
+<img src="https://img.shields.io/github/followers/theraihanrakibb?style=for-the-badge&logo=github&label=followers&color=00B4D8" alt="GitHub followers" />
+<img src="https://img.shields.io/github/stars/theraihanrakibb?style=for-the-badge&logo=github&label=stars&color=FFD21E" alt="GitHub stars" />
+<img src="https://komarev.com/ghpvc/?username=theraihanrakibb&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile views" />
+
+</div>
+
+<div align="center">
+  <img src="assets/contribution-graph.png" width="100%" alt="GitHub contribution graph" />
+</div>
+
+<hr/>
+
+<div align="center">
+  <sub>Actions speak louder than words.</sub>
+</div>
