@@ -75,11 +75,9 @@ Rank **5/56** · GPA 85/100 · Outstanding Graduate · Presidential Scholarship
 
 ---
 
-**More projects** · [Distributed Training Launcher][launcher] · [Confidential Spark Queries][spark]
+**More projects** · [LLM Gateway](https://github.com/theraihanrakibb/llm-gateway) · [Mini LLM Serve](https://github.com/theraihanrakibb/mini-llm-serve) · [LLM Benchmark](https://github.com/theraihanrakibb/llm-benchmark) · [KV Cache Simulator](https://github.com/theraihanrakibb/kv-cache-simulator)
 
 [rearch]: https://github.com/SJTU-ReArch-Group
 [approaching]: https://approaching-ai.com/en/
 [mooncake]: https://github.com/kvcache-ai/Mooncake
 [nvfp4]: https://github.com/theraihanrakibb/nvfp4-dit
-[launcher]: https://github.com/theraihanrakibb/train-launcher
-[spark]: https://github.com/theraihanrakibb/spark-ckks-query
