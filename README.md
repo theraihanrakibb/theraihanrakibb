@@ -16,10 +16,12 @@
 
 <br/>
 
-<pre>
-<a href="mailto:raihanrakib.143@gmail.com">EMAIL</a>  ·  <a href="https://linkedin.com/in/theraihanrakib">LINKEDIN</a>  ·  <a href="https://theraihanrakibb.github.io/">PORTFOLIO</a>
-<a href="https://github.com/theraihanrakibb/theraihanrakibb/raw/main/Raihan_Resume_Bundle.zip">RESUME (TECHNICAL + RESEARCH)</a>
-</pre>
+<p align="center">
+  <a href="mailto:raihanrakib.143@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" height="22" alt="Email" /></a>
+  <a href="https://linkedin.com/in/theraihanrakib"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" height="22" alt="LinkedIn" /></a>
+  <a href="https://theraihanrakibb.github.io/"><img src="https://img.shields.io/badge/Portfolio-FF6B6B?style=flat-square&logo=google-chrome&logoColor=white" height="22" alt="Portfolio" /></a>
+  <a href="https://github.com/theraihanrakibb/theraihanrakibb/raw/main/Raihan_Resume_Bundle.zip"><img src="https://img.shields.io/badge/Resume-00B4D8?style=flat-square&logo=adobe-acrobat-reader&logoColor=white" height="22" alt="Resume bundle" /></a>
+</p>
 
 </div>
 
