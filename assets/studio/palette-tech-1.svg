@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="364" height="25" viewBox="0 0 364 25" role="img" aria-labelledby="title">
+  <title id="title">Python, C++, CUDA, Triton, PyTorch</title>
+  <g transform="translate(0 0)"><rect width="74" height="25" rx="6" fill="#d9efbb"/><circle cx="10" cy="12.5" r="2.2" fill="#1e2b25"/><text x="18" y="17" fill="#1e2b25" font-family="Arial,sans-serif" font-size="13" font-weight="bold">Python</text></g>
+  <g transform="translate(80 0)"><rect width="52" height="25" rx="6" fill="#d8cef4"/><circle cx="10" cy="12.5" r="2.2" fill="#1e2b25"/><text x="18" y="17" fill="#1e2b25" font-family="Arial,sans-serif" font-size="13" font-weight="bold">C++</text></g>
+  <g transform="translate(138 0)"><rect width="59" height="25" rx="6" fill="#f5c4ae"/><circle cx="10" cy="12.5" r="2.2" fill="#1e2b25"/><text x="18" y="17" fill="#1e2b25" font-family="Arial,sans-serif" font-size="13" font-weight="bold">CUDA</text></g>
+  <g transform="translate(203 0)"><rect width="74" height="25" rx="6" fill="#c0dfe6"/><circle cx="10" cy="12.5" r="2.2" fill="#1e2b25"/><text x="18" y="17" fill="#1e2b25" font-family="Arial,sans-serif" font-size="13" font-weight="bold">Triton</text></g>
+  <g transform="translate(283 0)"><rect width="81" height="25" rx="6" fill="#d9efbb"/><circle cx="10" cy="12.5" r="2.2" fill="#1e2b25"/><text x="18" y="17" fill="#1e2b25" font-family="Arial,sans-serif" font-size="13" font-weight="bold">PyTorch</text></g>
+</svg>

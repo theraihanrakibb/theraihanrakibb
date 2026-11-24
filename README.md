@@ -1,16 +1,21 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/studio/hero-dark-clean.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="assets/studio/hero-light-clean.svg" />
-  <img src="assets/studio/hero-light-clean.svg" width="100%" alt="Raihan. ML System, LLM Inference, KV-Cache, Mooncake, SGLang, and Agent RL. Actions speak louder than words." />
+  <source media="(prefers-color-scheme: dark)" srcset="assets/studio/hero-palette-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="assets/studio/hero-palette-light.svg" />
+  <img src="assets/studio/hero-palette-light.svg" width="100%" alt="Raihan. ML System, LLM Inference, KV-Cache, Mooncake, SGLang, and Agent RL. Actions speak louder than words." />
 </picture>
 
 <p align="center">
   <br />
-  <a href="https://theraihanrakibb.github.io/"><img src="https://img.shields.io/badge/Portfolio-B64730?style=flat-square&amp;logo=googlechrome&amp;logoColor=white" alt="Portfolio" /></a>
-  <a href="https://linkedin.com/in/theraihanrakib"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square" alt="LinkedIn" /></a>
-  <a href="mailto:raihanrakib.143@gmail.com"><img src="https://img.shields.io/badge/Email-A72D3D?style=flat-square&amp;logo=gmail&amp;logoColor=white" alt="Email" /></a>
-  <a href="Raihan_Research_Resume.pdf"><img src="https://img.shields.io/badge/Research%20CV-6641A2?style=flat-square" alt="Research CV" /></a>
-  <a href="Raihan_Technical_Resume.pdf"><img src="https://img.shields.io/badge/Technical%20CV-08788D?style=flat-square" alt="Technical CV" /></a>
+  <a href="https://theraihanrakibb.github.io/"><img src="assets/studio/palette-contact-1.svg" alt="Portfolio" /></a>
+  <a href="https://linkedin.com/in/theraihanrakib"><img src="assets/studio/palette-contact-2.svg" alt="LinkedIn" /></a>
+  <a href="mailto:raihanrakib.143@gmail.com"><img src="assets/studio/palette-contact-3.svg" alt="Email" /></a>
+  <a href="Raihan_Research_Resume.pdf"><img src="assets/studio/palette-contact-4.svg" alt="Research CV" /></a>
+  <a href="Raihan_Technical_Resume.pdf"><img src="assets/studio/palette-contact-5.svg" alt="Technical CV" /></a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/theraihanrakibb?tab=followers"><img src="https://img.shields.io/github/followers/theraihanrakibb?style=flat-square&amp;logo=github&amp;logoColor=white&amp;labelColor=30303C&amp;color=536C45&amp;label=Followers" alt="GitHub followers" /></a>
+  <a href="https://github.com/theraihanrakibb?tab=repositories&amp;sort=stargazers"><img src="https://img.shields.io/github/stars/theraihanrakibb?style=flat-square&amp;logo=github&amp;logoColor=white&amp;labelColor=30303C&amp;color=695788&amp;label=Stars" alt="GitHub stars" /></a>
 </p>
 
 ## Selected work
@@ -24,27 +29,11 @@
 
 ## Tech stack
 
-<div align="center">
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++" />
-<img src="https://img.shields.io/badge/CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white" alt="CUDA" />
-<img src="https://img.shields.io/badge/Triton-FF6B35?style=flat-square" alt="Triton" />
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" />
-<br/>
-<img src="https://img.shields.io/badge/SGLang-FF6B35?style=flat-square" alt="SGLang" />
-<img src="https://img.shields.io/badge/vLLM-76B900?style=flat-square" alt="vLLM" />
-<img src="https://img.shields.io/badge/Mooncake%2FRDMA-00B4D8?style=flat-square" alt="Mooncake and RDMA" />
-<img src="https://img.shields.io/badge/KV%20Cache-4361EE?style=flat-square" alt="KV cache" />
-<img src="https://img.shields.io/badge/PD%20Disaggregation-4361EE?style=flat-square" alt="PD disaggregation" />
-<img src="https://img.shields.io/badge/FP8%2FFP4-7209B7?style=flat-square" alt="FP8 and FP4" />
-<br/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
-<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes" />
-<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
-<img src="https://img.shields.io/badge/Nsight-76B900?style=flat-square" alt="Nsight" />
-
-</div>
+<p align="center">
+  <img src="assets/studio/palette-tech-1.svg" alt="Python, C++, CUDA, Triton, PyTorch" /><br />
+  <img src="assets/studio/palette-tech-2.svg" alt="SGLang, vLLM, Mooncake/RDMA, KV Cache, PD Disaggregation, FP8/FP4" /><br />
+  <img src="assets/studio/palette-tech-3.svg" alt="Docker, Kubernetes, Linux, Nsight" />
+</p>
 
 ## Research & experience
 
