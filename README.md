@@ -36,7 +36,7 @@
 
 ### 🌙 Mooncake PG-EP
 
-Contributing process-group collectives and expert-parallel dispatch to [kvcache-ai/Mooncake](https://github.com/kvcache-ai/Mooncake). Built the combined PG/EP stack, validated it with 68 CTest entries and four host checks, and put hierarchical AllReduce topology up for review in [PR #5755](https://github.com/kvcache-ai/Mooncake/pull/5755).
+Contributing process-group collectives and expert-parallel dispatch to [kvcache-ai/Mooncake](https://github.com/kvcache-ai/Mooncake).
 
 ## 03 / NOW
 
