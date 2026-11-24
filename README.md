@@ -42,7 +42,12 @@
   <a href="https://approaching-ai.com/en/"><img src="assets/studio/info-approaching.svg" width="49%" alt="Approaching.AI, Distributed Inference R&amp;D Intern. I work on Mooncake and agent RL, in collaboration with Tsinghua MADSys." /></a>
 </p>
 
-<sub>Collaborations · <a href="https://github.com/kvcache-ai/Mooncake">Mooncake</a> · <a href="https://madsys.cs.tsinghua.edu.cn/">Tsinghua MADSys</a></sub>
+<sub>COLLABORATIONS</sub>
+
+<p>
+  <a href="https://github.com/kvcache-ai/Mooncake"><img src="assets/studio/mini-moon.svg" alt="Mooncake" /></a>
+  <a href="https://madsys.cs.tsinghua.edu.cn/"><img src="assets/studio/mini-madsys.svg" alt="Tsinghua MADSys" /></a>
+</p>
 
 ## Selected results
 
@@ -60,4 +65,11 @@
 
 ---
 
-**More projects** · [LLM Gateway](https://github.com/theraihanrakibb/llm-gateway) · [Mini LLM Serve](https://github.com/theraihanrakibb/mini-llm-serve) · [LLM Benchmark](https://github.com/theraihanrakibb/llm-benchmark) · [KV Cache Simulator](https://github.com/theraihanrakibb/kv-cache-simulator)
+## More projects
+
+<p>
+  <a href="https://github.com/theraihanrakibb/llm-gateway"><img src="assets/studio/mini-gateway.svg" alt="LLM Gateway" /></a>
+  <a href="https://github.com/theraihanrakibb/mini-llm-serve"><img src="assets/studio/mini-serve.svg" alt="Mini LLM Serve" /></a>
+  <a href="https://github.com/theraihanrakibb/llm-benchmark"><img src="assets/studio/mini-benchmark.svg" alt="LLM Benchmark" /></a>
+  <a href="https://github.com/theraihanrakibb/kv-cache-simulator"><img src="assets/studio/mini-cache.svg" alt="KV Cache Simulator" /></a>
+</p>
