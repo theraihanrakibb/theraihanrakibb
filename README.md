@@ -53,7 +53,7 @@ I work on distributed LLM inference and low-bit GPU kernels to make long-context
 I develop CUDA and Triton inference kernels and work on FP8 and FP4 KV-cache compression.
 
 **[Approaching.AI][approaching]** · Distributed Inference R&D Intern  
-I work on [Mooncake][mooncake]’s C++ transfer engine and KV-cache offloading over RDMA for agent RL, in collaboration with [Tsinghua MADSys][madsys].
+I work on [Mooncake](https://github.com/kvcache-ai/Mooncake) and agent RL, in collaboration with [Tsinghua MADSys](https://madsys.cs.tsinghua.edu.cn/).
 
 ## Selected results
 
@@ -65,12 +65,12 @@ FP4-packed Triton kernels in [NVFP4-DiT][nvfp4]. The paper is under review at IE
 
 ## Education
 
-**[Northwestern Polytechnical University][nwpu]** · Xi’an, China
-
-**M.E. in Software Engineering** · 2024–2027  
+[**Northwestern Polytechnical University**](https://en.nwpu.edu.cn/) · Xi’an, China  
+**M.E. in Software Engineering** · 2024–2027\
 Rank **2/87** · GPA 88/100 · Chinese Government Scholarship
 
-**B.E. in Computer Science** · 2020–2024  
+[**Northwestern Polytechnical University**](https://en.nwpu.edu.cn/) · Xi’an, China  
+**B.E. in Computer Science** · 2020–2024\
 Rank **5/56** · GPA 85/100 · Outstanding Graduate · Presidential Scholarship
 
 ---
@@ -79,8 +79,6 @@ Rank **5/56** · GPA 85/100 · Outstanding Graduate · Presidential Scholarship
 
 [rearch]: https://github.com/SJTU-ReArch-Group
 [approaching]: https://approaching-ai.com/en/
-[madsys]: https://madsys.cs.tsinghua.edu.cn/
-[nwpu]: https://en.nwpu.edu.cn/
 [mooncake]: https://github.com/kvcache-ai/Mooncake
 [nvfp4]: https://github.com/theraihanrakibb/nvfp4-dit
 [launcher]: https://github.com/theraihanrakibb/train-launcher
