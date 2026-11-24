@@ -93,8 +93,8 @@
 
 | Degree | Period | Details |
 |--------|--------|---------|
-| **M.E. Software Engineering** | 2024–2027 | GPA 88/100 · rank 2/87 · Chinese Government Scholarship |
-| **B.E. Computer Science** | 2020–2024 | GPA 85/100 · rank 5/56 · Outstanding Graduate · Presidential Scholarship |
+| **M.E. Software Engineering** | 2024–2027 | GPA 88/100 · Rank 2/87 · Chinese Government Scholarship |
+| **B.E. Computer Science** | 2020–2024 | GPA 85/100 · Rank 5/56 · Outstanding Graduate · Presidential Scholarship |
 
 <details>
 <summary>Contribution graph</summary>
