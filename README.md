@@ -48,8 +48,6 @@
 
 ## Research & experience
 
-I work on distributed LLM inference and low-bit GPU kernels to make long-context agent rollouts cheaper to run.
-
 **[SJTU ReArch Lab][rearch]** · Research Intern  
 I develop CUDA and Triton inference kernels and work on FP8 and FP4 KV-cache compression.
 
