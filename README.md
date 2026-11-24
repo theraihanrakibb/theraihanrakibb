@@ -6,6 +6,7 @@
 </picture>
 
 <p align="center">
+  <br />
   <a href="https://theraihanrakibb.github.io/"><img src="assets/studio/accent-contact-1.svg" alt="Portfolio" /></a>
   <a href="https://linkedin.com/in/theraihanrakib"><img src="assets/studio/accent-contact-2.svg" alt="LinkedIn" /></a>
   <a href="mailto:raihanrakib.143@gmail.com"><img src="assets/studio/accent-contact-3.svg" alt="Email" /></a>
