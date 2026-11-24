@@ -2,13 +2,13 @@
 
 LLM inference and GPU systems engineer. I build serving systems around KV-cache offloading, prefill/decode disaggregation, and low-precision kernels.
 
-M.E. Software Engineering, Northwestern Polytechnical University, graduating Jul 2027. Open to ML systems and inference engineering roles from then.
+M.E. Software Engineering, Northwestern Polytechnical University, graduating Jul 2027. Open to ML systems and inference engineering roles from Jul 2027.
 
 [Email](mailto:raihanrakib.143@gmail.com) · [LinkedIn](https://linkedin.com/in/theraihanrakib) · [Portfolio](https://theraihanrakibb.github.io/) · [Technical resume](https://github.com/theraihanrakibb/theraihanrakibb/blob/main/Raihan_Technical_Resume.pdf) · [Research resume](https://github.com/theraihanrakibb/theraihanrakibb/blob/main/Raihan_Research_Resume.pdf)
 
 ## Now
 
-Research intern at Approaching.AI with Tsinghua MADSys (Nov 2026 – present), working on Mooncake: the C++ transfer engine over RDMA and KV-cache offloading for agent RL rollouts. Also at SJTU ReArch Lab on low-bit inference kernels in CUDA/Triton and FP8/FP4 KV-cache compression.
+Large Model Inference Distributed System R&D Intern at Approaching.AI, a Tsinghua MADSys collaboration (Nov 2026 – present), working on Mooncake: the C++ transfer engine over RDMA and KV-cache offloading for agent RL rollouts. Also Research Intern at SJTU ReArch Lab on low-bit inference kernels in CUDA/Triton and FP8/FP4 KV-cache compression.
 
 At InfiX.ai (Apr – Jun 2026) I ran production serving on 4× A800 and 8× H200 clusters. Three-tier KV-cache offload over Mooncake RDMA cut long-context time to first token 8.3× (55 s to 6.7 s) at a 92% cache hit rate, and 2+2 prefill/decode disaggregation raised stable concurrency from 192 to 256 requests.
 
