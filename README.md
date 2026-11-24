@@ -16,15 +16,14 @@
 
 <br/>
 
-<a href="mailto:raihanrakib.143@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-<a href="https://linkedin.com/in/theraihanrakib"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="https://theraihanrakibb.github.io/"><img src="https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" /></a>
-<a href="https://github.com/theraihanrakibb/theraihanrakibb/blob/main/Raihan_Technical_Resume.pdf"><img src="https://img.shields.io/badge/Technical%20CV-00B4D8?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" alt="Technical CV" /></a>
-<a href="https://github.com/theraihanrakibb/theraihanrakibb/blob/main/Raihan_Research_Resume.pdf"><img src="https://img.shields.io/badge/Research%20CV-7209B7?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" alt="Research CV" /></a>
+<pre>
+<a href="mailto:raihanrakib.143@gmail.com">EMAIL</a>  ·  <a href="https://linkedin.com/in/theraihanrakib">LINKEDIN</a>  ·  <a href="https://theraihanrakibb.github.io/">PORTFOLIO</a>
+<a href="https://github.com/theraihanrakibb/theraihanrakibb/raw/main/Raihan_Resume_Bundle.zip">RESUME (TECHNICAL + RESEARCH)</a>
+</pre>
 
 </div>
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+<hr/>
 
 ## 01 / RESEARCH
 
