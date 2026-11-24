@@ -1,19 +1,15 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/studio/hero-dark.gif" />
-  <source media="(prefers-color-scheme: light)" srcset="assets/studio/hero-light.gif" />
-  <img src="assets/studio/hero-light.gif" width="100%" alt="Raihan — ML systems. Actions speak louder than words." />
+  <source media="(prefers-color-scheme: dark)" srcset="assets/studio/hero-type-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="assets/studio/hero-type-light.svg" />
+  <img src="assets/studio/hero-type-light.svg" width="100%" alt="Raihan — ML systems. Actions speak louder than words." />
 </picture>
 
-<p>
-  <b>LLM inference &nbsp;·&nbsp; GPU kernels &nbsp;·&nbsp; Distributed systems</b>
-</p>
-
-<p>
-  <a href="https://theraihanrakibb.github.io/">Portfolio</a> &nbsp; / &nbsp;
-  <a href="https://linkedin.com/in/theraihanrakib">LinkedIn</a> &nbsp; / &nbsp;
-  <a href="mailto:raihanrakib.143@gmail.com">Email</a> &nbsp; / &nbsp;
-  <a href="Raihan_Research_Resume.pdf">Research CV</a> &nbsp; / &nbsp;
-  <a href="Raihan_Technical_Resume.pdf">Technical CV</a>
+<p align="center">
+  <a href="https://theraihanrakibb.github.io/"><img src="https://img.shields.io/badge/Portfolio-B64730?style=flat-square&amp;logo=googlechrome&amp;logoColor=white" alt="Portfolio" /></a>
+  <a href="https://linkedin.com/in/theraihanrakib"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square" alt="LinkedIn" /></a>
+  <a href="mailto:raihanrakib.143@gmail.com"><img src="https://img.shields.io/badge/Email-A72D3D?style=flat-square&amp;logo=gmail&amp;logoColor=white" alt="Email" /></a>
+  <a href="Raihan_Research_Resume.pdf"><img src="https://img.shields.io/badge/Research%20CV-6641A2?style=flat-square" alt="Research CV" /></a>
+  <a href="Raihan_Technical_Resume.pdf"><img src="https://img.shields.io/badge/Technical%20CV-08788D?style=flat-square" alt="Technical CV" /></a>
 </p>
 
 ## Selected work
@@ -27,32 +23,27 @@
 
 ## Tech stack
 
-<p>
-  <strong>Languages &amp; GPU kernels</strong><br />
-  <img src="https://img.shields.io/badge/Python-376DA0?style=flat-square&amp;logo=python&amp;logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&amp;logo=cplusplus&amp;logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/CUDA-4D7400?style=flat-square&amp;logo=nvidia&amp;logoColor=white" alt="CUDA" />
-  <img src="https://img.shields.io/badge/Triton-B94017?style=flat-square" alt="Triton" />
-  <img src="https://img.shields.io/badge/PyTorch-B83926?style=flat-square&amp;logo=pytorch&amp;logoColor=white" alt="PyTorch" />
-</p>
+<div align="center">
 
-<p>
-  <strong>Inference &amp; memory</strong><br />
-  <img src="https://img.shields.io/badge/SGLang-BD4820?style=flat-square" alt="SGLang" />
-  <img src="https://img.shields.io/badge/vLLM-4D7400?style=flat-square" alt="vLLM" />
-  <img src="https://img.shields.io/badge/Mooncake%20%2F%20RDMA-087B9A?style=flat-square" alt="Mooncake / RDMA" />
-  <img src="https://img.shields.io/badge/KV%20cache-2757AD?style=flat-square" alt="KV cache" />
-  <img src="https://img.shields.io/badge/Prefill%20%2F%20decode-4E47B0?style=flat-square" alt="Prefill / decode" />
-  <img src="https://img.shields.io/badge/FP8%20%2F%20FP4-6C3CA1?style=flat-square" alt="FP8 / FP4" />
-</p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++" />
+<img src="https://img.shields.io/badge/CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white" alt="CUDA" />
+<img src="https://img.shields.io/badge/Triton-FF6B35?style=flat-square" alt="Triton" />
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" />
+<br/>
+<img src="https://img.shields.io/badge/SGLang-FF6B35?style=flat-square" alt="SGLang" />
+<img src="https://img.shields.io/badge/vLLM-76B900?style=flat-square" alt="vLLM" />
+<img src="https://img.shields.io/badge/Mooncake%2FRDMA-00B4D8?style=flat-square" alt="Mooncake and RDMA" />
+<img src="https://img.shields.io/badge/KV%20Cache-4361EE?style=flat-square" alt="KV cache" />
+<img src="https://img.shields.io/badge/PD%20Disaggregation-4361EE?style=flat-square" alt="PD disaggregation" />
+<img src="https://img.shields.io/badge/FP8%2FFP4-7209B7?style=flat-square" alt="FP8 and FP4" />
+<br/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes" />
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
+<img src="https://img.shields.io/badge/Nsight-76B900?style=flat-square" alt="Nsight" />
 
-<p>
-  <strong>Infrastructure &amp; profiling</strong><br />
-  <img src="https://img.shields.io/badge/Docker-146BA8?style=flat-square&amp;logo=docker&amp;logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Kubernetes-3256AE?style=flat-square&amp;logo=kubernetes&amp;logoColor=white" alt="Kubernetes" />
-  <img src="https://img.shields.io/badge/Linux-745800?style=flat-square&amp;logo=linux&amp;logoColor=white" alt="Linux" />
-  <img src="https://img.shields.io/badge/Nsight-4D7400?style=flat-square" alt="Nsight" />
-</p>
+</div>
 
 ## Research & experience
 
