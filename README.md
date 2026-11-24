@@ -1,16 +1,6 @@
 <div align="center">
 
-<pre>
-╭────────────────────────────────────────────────────────────╮
-│                                                            │
-│       M D   R A K I B U L   I S L A M   R A I H A N        │
-│        ────────────────────────────────────────────        │
-│     LLM Inference  /  AI Infrastructure  /  ML Systems     │
-│        ────────────────────────────────────────────        │
-│        Open to roles from Jul 2027    Xi'an, China         │
-│                                                            │
-╰────────────────────────────────────────────────────────────╯
-</pre>
+<h1>MD Rakibul Islam Raihan</h1>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00D9FF&center=true&vCenter=true&width=760&lines=LLM+Inference;AI+Infrastructure;ML+Systems" alt="LLM Inference, AI Infrastructure, ML Systems" height="34" />
 
