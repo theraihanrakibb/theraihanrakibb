@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="590" height="285" viewBox="0 0 590 285" role="img" aria-labelledby="title description">
+  <title id="title">SJTU ReArch Lab</title>
+  <desc id="description">SJTU ReArch Lab, Research Intern. I develop CUDA and Triton inference kernels and work on FP8 and FP4 KV-cache compression.</desc>
+  <rect width="590" height="285" fill="#bfe8d1"/>
+  <g fill="#1e2b25" font-family="Cascadia Mono, SFMono-Regular, Consolas, Liberation Mono, monospace">
+    <text x="26" y="37" font-family="Cascadia Mono, SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="15">RESEARCH INTERN</text>
+    <text x="26" y="94" font-size="34" font-weight="bold">SJTU ReArch Lab</text>
+    <text x="26" y="132" font-size="20">CUDA and Triton inference kernels</text>
+    <text x="26" y="159" font-size="20">FP8 and FP4 KV-cache compression</text>
+    <text x="26" y="257" font-family="Cascadia Mono, SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="14">GPU KERNELS / INFERENCE</text>
+  </g>
+  <path d="M26 226h538" stroke="#1e2b25" stroke-opacity=".55"/>
+  <g fill="none" stroke="#1e2b25" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"><g transform="translate(145 28) scale(.8)"><circle cx="486" cy="127" r="45"/><circle cx="486" cy="127" r="30"/><circle cx="486" cy="127" r="15"/><circle cx="486" cy="127" r="5" fill="#1e2b25"/></g><path d="m540 262 18-18m-14 0h14v14"/></g>
+</svg>
