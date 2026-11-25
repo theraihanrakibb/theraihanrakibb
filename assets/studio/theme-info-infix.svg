@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="590" height="285" viewBox="0 0 590 285" role="img" aria-labelledby="title description">
+  <title id="title">InfiX.ai</title><style>
+  :root { --surface:#eaf8f7; --accent:#226a69; --ink:#10213b; --edge:#226a6942; }
+  @media (prefers-color-scheme: dark) { :root { --surface:#102e32; --accent:#8bdfd7; --ink:#f6f8fc; --edge:#8bdfd755; } }
+  .card-surface { fill:var(--surface); stroke:var(--edge); }
+  .card-kicker, .card-footer { fill:var(--accent); }
+</style>
+  <desc id="description">InfiX.ai, Technical Staff, Shenzhen, April to June 2026. Worked on SGLang inference and three-tier KV-cache offloading over Mooncake RDMA.</desc>
+  <rect class="card-surface" x="1" y="1" width="588" height="283" rx="10"/>
+  <g fill="var(--ink)" font-family="Cascadia Mono, SFMono-Regular, Consolas, Liberation Mono, monospace">
+    <text class="card-kicker" x="26" y="37" font-family="Cascadia Mono, SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="15">TECHNICAL STAFF</text>
+    <text x="26" y="94" font-size="34" font-weight="bold">InfiX.ai</text>
+    <text x="26" y="132" font-size="20">SGLang inference and KV-cache</text>
+    <text x="26" y="159" font-size="20">Three-tier offloading over RDMA</text>
+    <text class="card-footer" x="26" y="257" font-family="Cascadia Mono, SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="14">SHENZHEN / APR–JUN 2026</text>
+  </g>
+  <path d="M26 226h538" stroke="var(--accent)" stroke-opacity=".55"/>
+  <g fill="none" stroke="var(--accent)" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"><g transform="translate(493 109)"><path d="m0 12 35-12 35 12-35 12zM0 27l35 12 35-12M0 42l35 12 35-12"/></g><path d="m540 262 18-18m-14 0h14v14"/></g>
+</svg>

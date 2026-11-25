@@ -41,6 +41,10 @@
   <a href="https://approaching-ai.com/en/"><img src="assets/studio/theme-info-approaching.svg" width="420" alt="Approaching.AI, Distributed Inference R&amp;D Intern. I work on Mooncake and agent RL, in collaboration with Tsinghua MADSys." /></a>
 </div>
 
+<div align="center">
+  <a href="https://infix.io/"><img src="assets/studio/theme-info-infix.svg" width="420" alt="InfiX.ai, Technical Staff, Shenzhen, April to June 2026. Worked on SGLang inference and three-tier KV-cache offloading over Mooncake RDMA." /></a>
+</div>
+
 <sub><samp>Collaborations</samp></sub>
 
 <div>
