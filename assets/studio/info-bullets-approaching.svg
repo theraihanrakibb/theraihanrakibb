@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="590" height="285" viewBox="0 0 590 285" role="img" aria-labelledby="title description">
+  <title id="title">Approaching.AI</title><style>
+  :root { --surface:#fbebf6; --accent:#86336f; --ink:#10213b; --edge:#86336f42; }
+  @media (prefers-color-scheme: dark) { :root { --surface:#2c202f; --accent:#ed9fd3; --ink:#f6f8fc; --edge:#ed9fd355; } }
+  .card-surface { fill:var(--surface); stroke:var(--edge); }
+  .card-kicker, .card-footer { fill:var(--accent); }
+</style>
+  <desc id="description">Approaching.AI, Distributed Inference R&amp;D Intern. I work on Mooncake and agent RL, in collaboration with Tsinghua MADSys.</desc>
+  <rect class="card-surface" x="1" y="1" width="588" height="283" rx="10"/>
+  <g fill="var(--ink)" font-family="Cascadia Mono, SFMono-Regular, Consolas, Liberation Mono, monospace">
+    <text class="card-kicker" x="26" y="37" font-family="Cascadia Mono, SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="15">DISTRIBUTED INFERENCE R&amp;D INTERN</text>
+    <text x="26" y="94" font-size="34" font-weight="bold">Approaching.AI</text>
+    <circle cx="29" cy="126" r="2.5" fill="var(--accent)"/><text x="43" y="132" font-size="20">Mooncake and agent RL</text>
+    <circle cx="29" cy="153" r="2.5" fill="var(--accent)"/><text x="43" y="159" font-size="20">In collaboration with Tsinghua MADSys</text>
+    <text class="card-footer" x="26" y="257" font-family="Cascadia Mono, SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="14">DISTRIBUTED INFERENCE</text>
+  </g>
+  <path d="M26 226h538" stroke="var(--accent)" stroke-opacity=".55"/>
+  <g fill="none" stroke="var(--accent)" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"><rect x="497" y="103" width="64" height="64" rx="9" fill="#f8fbff" stroke="none"/><image x="505" y="111" width="48" height="48" href="data:image/webp;base64,UklGRmIDAABXRUJQVlA4TFUDAAAvH8AHEAGFbds2sJN06v+HO26I6P8E6Lu/AEnREFJEAxQRtndE+IwwtvdAQds2jHf4k25BKGjbhsXeARA1bSNJBrFfORCOP7Ir+z8BAMDRkOJPdEH5EQB4RRjCRyW8lkRpAAiBRHJt226k7F8iMgiBGSGQAVEQA4spM2+D8l7/YVSSOoPbtto35EiSJEUeLQkSXbLw54XSsEc6bCNJkdwX9AfMzIwth7ZtU8/2vbFt1KnY2ajc2U4q27bV2a5s5zdi23by4U0ASJa/72bZYlt8Q0v29JWraWFeURo1G/t78tSFrx3KHd0Rm1EbsDhR//iGw0wRXiPJk89ZZyR01OYm6qU7WAAyHIoIg8RKedQ7BoL4Amv8N45XbG0w38R9Q/8qj52kT7H6fWJb3SgsyX/IUk6XsU31GajB/zUetqdFzMADSr4lDgswbZmANXnAY0MAVcCaty8jp56cgSzk/0wcFmGK7oZZsduQAC+a1njw2Gj2WtNRwUMGgQKDFNwGKjRr3r8uZYvKjl4PKsgtYHBZkAbFF3gNs8K995yvktzx7JWM4BDYnCA5tBDhGCpY4e5r6tFJHcM/gq4gAAaQpELBBgWWf2Dzw1zXiTf4C4Qi5wQwL+1uYoXv4FlWcvST/a+DQrKCKtgHMgiaMhth0a2ON1kWLCq5w3p6AbC/2+0yBIdjfTV7AwFkrkEplmAFH5nsQWoAopqWTLbVaSNV46pAmAVYx122//gpKCygzq2kgyk0wJ2HAxxl5s+fQhjINfhKirJPMAvX2MzcghjgDU1JKObgFStgzcIo1KCMG2AhVvGQ2XjBF8hFAjoHezjLfNhBA5wk2JpRXGA7C3cgSYJz8GxpPGPlMsHXxBm6cJft0IMA6ifAPcJzLtGLygkMIBz/gATMKUiSi4tM3uASOMFGaSwcwEqCNaTiBCNJQMFNEjCnEzjDbnCJFQ3v5zDEAxA8IeUmGMXdDgDJ/+CdwCPWwBxg5zT4Bh3s5whVRR8QrOPXLrPBwiqubnCaJLi/hPxxsZIErxgEGwCZgy2sY63lMf/TN5yDjTrgf0zgEgC5uLhILpLceY7VMY4NsDJ5hBX0ZhJbpd+CUzzjAu8JbpJAdT/b0QD+Kbw1tkLb6Sqair2EjicBAA=="/><path d="m540 262 18-18m-14 0h14v14"/></g>
+</svg>

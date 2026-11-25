@@ -43,13 +43,13 @@
 ## <samp>Research & Experience</samp>
 
 <div align="center">
-  <a href="https://approaching-ai.com/en/"><img src="assets/studio/info-mark-approaching.svg" width="420" alt="Approaching.AI, Distributed Inference R&amp;D Intern. I work on Mooncake and agent RL, in collaboration with Tsinghua MADSys." /></a>
-  <a href="https://github.com/SJTU-ReArch-Group"><img src="assets/studio/info-mark-rearch.svg" width="420" alt="SJTU ReArch Lab, Research Intern. I develop CUDA and Triton inference kernels and work on FP8 and FP4 KV-cache compression." /></a>
+  <a href="https://approaching-ai.com/en/"><img src="assets/studio/info-bullets-approaching.svg" width="420" alt="Approaching.AI, Distributed Inference R&amp;D Intern. I work on Mooncake and agent RL, in collaboration with Tsinghua MADSys." /></a>
+  <a href="https://github.com/SJTU-ReArch-Group"><img src="assets/studio/info-bullets-rearch.svg" width="420" alt="SJTU ReArch Lab, Research Intern. I develop CUDA and Triton inference kernels and work on FP8 and FP4 KV-cache compression." /></a>
 </div>
 
 <div align="center">
   <a href="https://infix.io/"><img src="assets/studio/info-mark-infix.svg" width="420" alt="InfiX.ai, Technical Staff, Shenzhen, April to June 2026. Worked on SGLang inference and three-tier KV-cache offloading over Mooncake RDMA." /></a>
-  <a href="https://en.nwpu.edu.cn/"><img src="assets/studio/nwpu-ta-card.svg" width="420" alt="NWPU. Teaching Assistant (TA), Object-Oriented Programming (OOP). Teaching Assistant (TA), QT Cross-Platform Framework Design and Programming." /></a>
+  <a href="https://en.nwpu.edu.cn/"><img src="assets/studio/nwpu-ta-matched.svg" width="420" alt="NWPU. Teaching Assistant (TA), Object-Oriented Programming (OOP). Teaching Assistant (TA), QT Cross-Platform Framework Design and Programming." /></a>
 </div>
 
 <sub><samp>Collaborations</samp></sub>
@@ -69,8 +69,8 @@
 ## <samp>Education</samp>
 
 <div align="center">
-  <a href="https://en.nwpu.edu.cn/"><img src="assets/studio/theme-info-masters-matched.svg" width="420" alt="Northwestern Polytechnical University, Xi’an, China. M.E. in Software Engineering, 2024 to 2027. Rank 2 of 87, GPA 88 out of 100, Chinese Government Scholarship." /></a>
-  <a href="https://en.nwpu.edu.cn/"><img src="assets/studio/theme-info-bachelors.svg" width="420" alt="Northwestern Polytechnical University, Xi’an, China. B.E. in Computer Science, 2020 to 2024. Rank 5 of 56, GPA 85 out of 100, Outstanding Graduate, Presidential Scholarship." /></a>
+  <a href="https://en.nwpu.edu.cn/"><img src="assets/studio/education-aligned-masters.svg" width="420" alt="Northwestern Polytechnical University, Xi’an, China. M.E. in Software Engineering, 2024 to 2027. Rank 2 of 87 (Top 5%), GPA 88 out of 100, Chinese Government Scholarship." /></a>
+  <a href="https://en.nwpu.edu.cn/"><img src="assets/studio/education-aligned-bachelors.svg" width="420" alt="Northwestern Polytechnical University, Xi’an, China. B.E. in Computer Science, 2020 to 2024. Rank 5 of 56, GPA 85 out of 100, Outstanding Graduate, Presidential Scholarship." /></a>
 </div>
 
 ---
