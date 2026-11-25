@@ -29,8 +29,8 @@
 
 <div align="center">
   <picture>
-    <source media="(max-width: 1000px)" srcset="assets/studio/tech-cuda-narrow.svg" />
-    <img src="assets/studio/tech-cuda-wide.svg" alt="Mooncake, SGLang, vLLM, KV Cache, PD Disaggregation, RDMA, C++, CUDA, Triton, GEMM Optimization, FP8, FP4, Nsight, PyTorch, Distributed Training, Docker, Kubernetes, Linux, Diffusion, DiT, Hugging Face, Transformers, OpenCV, Python, Bash, SQL, Data Structures, Algorithms" />
+    <source media="(max-width: 1000px)" srcset="assets/studio/tech-outline-narrow.svg" />
+    <img src="assets/studio/tech-outline-wide.svg" alt="Mooncake, SGLang, vLLM, KV Cache, PD Disaggregation, RDMA, C++, CUDA, Triton, GEMM Optimization, FP8, FP4, Nsight, PyTorch, Distributed Training, Docker, Kubernetes, Linux, Diffusion, DiT, Hugging Face, Transformers, OpenCV, Python, Bash, SQL, Data Structures, Algorithms" />
   </picture>
 </div>
 
