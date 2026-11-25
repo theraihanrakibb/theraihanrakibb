@@ -17,9 +17,9 @@
 </div>
 
 <div align="center">
-  <a href="https://github.com/theraihanrakibb?tab=followers"><img height="20" src="https://img.shields.io/github/followers/theraihanrakibb?style=flat&amp;logo=github&amp;logoColor=white&amp;labelColor=14253b&amp;color=204e83&amp;label=Followers" alt="GitHub followers" /></a>
-  <a href="https://github.com/theraihanrakibb?tab=repositories&amp;sort=stargazers"><img height="20" src="https://img.shields.io/github/stars/theraihanrakibb?style=flat&amp;logo=github&amp;logoColor=white&amp;labelColor=14253b&amp;color=204e83&amp;label=Stars" alt="GitHub stars" /></a>
-  <img height="20" src="https://komarev.com/ghpvc/?username=theraihanrakibb&amp;label=Profile%20Views&amp;color=204e83&amp;style=flat" alt="Profile views" />
+  <a href="https://github.com/theraihanrakibb?tab=followers"><img height="20" vspace="3" src="https://img.shields.io/github/followers/theraihanrakibb?style=flat&amp;logo=github&amp;logoColor=white&amp;labelColor=14253b&amp;color=174e91&amp;label=Followers" alt="GitHub followers" /></a>
+  <a href="https://github.com/theraihanrakibb?tab=repositories&amp;sort=stargazers"><img height="20" vspace="3" src="https://img.shields.io/github/stars/theraihanrakibb?style=flat&amp;logo=github&amp;logoColor=white&amp;labelColor=14253b&amp;color=174e91&amp;label=Stars" alt="GitHub stars" /></a>
+  <img height="20" vspace="3" src="https://komarev.com/ghpvc/?username=theraihanrakibb&amp;label=Profile%20Views&amp;color=174e91&amp;style=flat" alt="Profile views" />
 </div>
 
 ## <samp>Selected Work</samp>
