@@ -37,8 +37,8 @@
 ## <samp>Research & Experience</samp>
 
 <div align="center">
-  <a href="https://github.com/SJTU-ReArch-Group"><img src="assets/studio/info-mark-rearch.svg" width="420" alt="SJTU ReArch Lab, Research Intern. I develop CUDA and Triton inference kernels and work on FP8 and FP4 KV-cache compression." /></a>
   <a href="https://approaching-ai.com/en/"><img src="assets/studio/info-mark-approaching.svg" width="420" alt="Approaching.AI, Distributed Inference R&amp;D Intern. I work on Mooncake and agent RL, in collaboration with Tsinghua MADSys." /></a>
+  <a href="https://github.com/SJTU-ReArch-Group"><img src="assets/studio/info-mark-rearch.svg" width="420" alt="SJTU ReArch Lab, Research Intern. I develop CUDA and Triton inference kernels and work on FP8 and FP4 KV-cache compression." /></a>
 </div>
 
 <div align="center">
