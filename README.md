@@ -1,25 +1,25 @@
 <div align="center">
 <picture>
-  <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/studio/card-palette-hero-mobile-dark.svg" />
-  <source media="(max-width: 600px)" srcset="assets/studio/card-palette-hero-mobile-light.svg" />
-  <source media="(prefers-color-scheme: dark)" srcset="assets/studio/card-palette-hero-dark.svg" />
-  <img src="assets/studio/card-palette-hero-light.svg" width="844" alt="MD RAKIBUL ISLAM RAIHAN. ML System, LLM Inference, KV-Cache, Mooncake, SGLang, and Agent RL. Actions speak louder than words." />
+  <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/studio/compact-live-hero-mobile-dark.svg" />
+  <source media="(max-width: 600px)" srcset="assets/studio/compact-live-hero-mobile-light.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="assets/studio/compact-live-hero-dark.svg" />
+  <img src="assets/studio/compact-live-hero-light.svg" width="844" alt="MD RAKIBUL ISLAM RAIHAN. ML System, LLM Inference, KV-Cache, Mooncake, SGLang, and Agent RL. Actions speak louder than words." />
 </picture>
-</div>
-
-<div align="center">
-  <a href="https://github.com/theraihanrakibb?tab=followers"><img height="20" src="https://img.shields.io/github/followers/theraihanrakibb?style=flat&amp;logo=github&amp;logoColor=white&amp;labelColor=14253b&amp;color=204e83&amp;label=Followers" alt="GitHub followers" /></a>
-  <a href="https://github.com/theraihanrakibb?tab=repositories&amp;sort=stargazers"><img height="20" src="https://img.shields.io/github/stars/theraihanrakibb?style=flat&amp;logo=github&amp;logoColor=white&amp;labelColor=211930&amp;color=660874&amp;label=Stars" alt="GitHub stars" /></a>
-  <img height="20" src="https://komarev.com/ghpvc/?username=theraihanrakibb&amp;label=Profile%20Views&amp;color=a52f3c&amp;style=flat" alt="Profile views" />
 </div>
 
 <div align="center">
   <br />
   <a href="https://theraihanrakibb.github.io/"><img src="assets/studio/card-contact-1.svg" height="25" alt="Portfolio" /></a>
-  <a href="https://linkedin.com/in/theraihanrakib"><img src="assets/studio/card-contact-2.svg" height="25" alt="LinkedIn" /></a>
+  <a href="https://linkedin.com/in/theraihanrakib"><img src="assets/studio/card-contact-linkedin.svg" height="25" alt="LinkedIn" /></a>
   <a href="mailto:raihanrakib.143@gmail.com"><img src="assets/studio/card-contact-3.svg" height="25" alt="Email" /></a>
   <a href="Raihan_Research_Resume.pdf"><img src="assets/studio/card-contact-4.svg" height="25" alt="Research CV" /></a>
   <a href="Raihan_Technical_Resume.pdf"><img src="assets/studio/card-contact-5.svg" height="25" alt="Technical CV" /></a>
+</div>
+
+<div align="center">
+  <a href="https://github.com/theraihanrakibb?tab=followers"><img height="20" src="https://img.shields.io/github/followers/theraihanrakibb?style=flat&amp;logo=github&amp;logoColor=white&amp;labelColor=14253b&amp;color=204e83&amp;label=Followers" alt="GitHub followers" /></a>
+  <a href="https://github.com/theraihanrakibb?tab=repositories&amp;sort=stargazers"><img height="20" src="https://img.shields.io/github/stars/theraihanrakibb?style=flat&amp;logo=github&amp;logoColor=white&amp;labelColor=14253b&amp;color=204e83&amp;label=Stars" alt="GitHub stars" /></a>
+  <img height="20" src="https://komarev.com/ghpvc/?username=theraihanrakibb&amp;label=Profile%20Views&amp;color=204e83&amp;style=flat" alt="Profile views" />
 </div>
 
 ## <samp>Selected Work</samp>
