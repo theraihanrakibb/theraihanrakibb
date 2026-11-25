@@ -1,9 +1,9 @@
 <div align="center">
 <picture>
-  <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/studio/opt-lite-hero-mobile-dark.svg" />
-  <source media="(max-width: 600px)" srcset="assets/studio/opt-lite-hero-mobile-light.svg" />
-  <source media="(prefers-color-scheme: dark)" srcset="assets/studio/opt-lite-hero-dark.svg" />
-  <img src="assets/studio/opt-lite-hero-light.svg" width="844" alt="MD RAKIBUL ISLAM RAIHAN. ML System, LLM Inference, KV-Cache, Mooncake, SGLang, and Agent RL. Actions speak louder than words. Snapshot: 3 followers, 5 stars, and 496 profile views." />
+  <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/studio/fast-hero-mobile-dark.svg" />
+  <source media="(max-width: 600px)" srcset="assets/studio/fast-hero-mobile-light.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="assets/studio/fast-hero-dark.svg" />
+  <img src="assets/studio/fast-hero-light.svg" width="844" alt="MD RAKIBUL ISLAM RAIHAN. ML System, LLM Inference, KV-Cache, Mooncake, SGLang, and Agent RL. Actions speak louder than words. Snapshot: 3 followers, 5 stars, and 496 profile views." />
 </picture>
 </div>
 
@@ -42,7 +42,8 @@
 </div>
 
 <div align="center">
-  <a href="https://infix.io/"><img src="assets/studio/theme-info-infix.svg" width="420" alt="InfiX.ai, Technical Staff, Shenzhen, April to June 2026. Worked on SGLang inference and three-tier KV-cache offloading over Mooncake RDMA." /></a>
+  <a href="https://infix.io/"><img src="assets/studio/theme-info-infix-logo.svg" width="420" alt="InfiX.ai, Technical Staff, Shenzhen, April to June 2026. Worked on SGLang inference and three-tier KV-cache offloading over Mooncake RDMA." /></a>
+  <a href="https://en.nwpu.edu.cn/"><img src="assets/studio/theme-info-nwpu-service.svg" width="420" alt="NWPU Awards and Service. Wu Yajun Scholarship (2024); Best Undergraduate Thesis Award (2024); NWPU AI Challenge Hackathon Winner (2023). Member, International Student Union. Academic Volunteer, School of International College. Teaching Assistant for Object-Oriented Programming and Qt Cross-Platform Framework Design and Programming." /></a>
 </div>
 
 <sub><samp>Collaborations</samp></sub>

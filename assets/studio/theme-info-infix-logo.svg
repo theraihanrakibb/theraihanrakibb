@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="590" height="285" viewBox="0 0 590 285" role="img" aria-labelledby="title description">
+  <title id="title">InfiX.ai</title><style>
+  :root { --surface:#eaf8f7; --accent:#226a69; --ink:#10213b; --edge:#226a6942; }
+  @media (prefers-color-scheme: dark) { :root { --surface:#102e32; --accent:#8bdfd7; --ink:#f6f8fc; --edge:#8bdfd755; } }
+  .card-surface { fill:var(--surface); stroke:var(--edge); }
+  .card-kicker, .card-footer { fill:var(--accent); }
+</style>
+  <desc id="description">InfiX.ai, Technical Staff, Shenzhen, April to June 2026. Worked on SGLang inference and three-tier KV-cache offloading over Mooncake RDMA.</desc>
+  <rect class="card-surface" x="1" y="1" width="588" height="283" rx="10"/>
+  <g fill="var(--ink)" font-family="Cascadia Mono, SFMono-Regular, Consolas, Liberation Mono, monospace">
+    <text class="card-kicker" x="26" y="37" font-family="Cascadia Mono, SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="15">TECHNICAL STAFF</text>
+    <text x="26" y="94" font-size="34" font-weight="bold">InfiX.ai</text>
+    <text x="26" y="132" font-size="20">SGLang inference and KV-cache</text>
+    <text x="26" y="159" font-size="20">Three-tier offloading over RDMA</text>
+    <text class="card-footer" x="26" y="257" font-family="Cascadia Mono, SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="14">SHENZHEN / APR–JUN 2026</text>
+  </g>
+  <path d="M26 226h538" stroke="var(--accent)" stroke-opacity=".55"/>
+  <g fill="none" stroke="var(--accent)" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"><rect x="484" y="94" width="80" height="80" rx="12" fill="#f8fbff" stroke="none"/><image x="494" y="104" width="60" height="60" href="data:image/webp;base64,UklGRk4EAABXRUJQVlA4TEEEAAAvR8ARAAUlbNuOvdH1PO/3/U1t27Zt27Zt27aNsW3bU9u23Sb/s8jkT/pnO4uI/k8A/18qqiGI03gjDkACEREBR3TnxROIqNRu4kv/nHhgdvTrGTVzg0o8EDI36zx2fLcWzZt0Grz4i2tmV5c3BZWww89XLBMxB7I3fc/s+dclQMJOAPW96L4HSNGXzJ6OTIKEG6gQs6gCbQ6avZ8cDbtYi0eev8zeSSoSzyBA1j/M3tb4hyPLQbMx6AuS6CG5QAAXkBjEeZ4q5e8GrxbEvThCFUIXoqvP7Ehboi9EiH3FiTNclWnZEUDQih3aZMBp6uPBq7lwcadk/G7Pn8c2E3A4X1FX7Zbdy3LE6osPjsq/Rpodr0cCtpn1QqM533eA82NR6DuzI5MBAUTZbJ0JzFyZBtQxyuzrZW/Y4QwizaOC7wqAAihxef9oBF6JElTskYfEJQ486VCqfOE0pMwPY+xII+Bl6wLJ79tZLxqVhwytADQaoiGpVLG3Erh0R36eeMsOp8t1PRi8f+/GvanMuNKsr/2TExegXHAhuH/sUUaUFK/evRd5f6i4rx5KaAy0OVDloW1ss9uap/jYjk6Z+ZN1ovezJ5Enc+HjpKhtBN63J/nw6H65fyDt1YOJ057+ipA9XrVuMMA+T8KSYFO62jR493lhYYVZdXxwUjE4BeF9e1YJEQKQYfduL7ctCEmUf59VgGVRLfC+e1yEjdbQJbx1PAvF9potRwXHaquHuO/taR6UXCt+/fuovU1Z64aGoC7b9dMpCHxoOSTw+GAq97nloKB9SO79tnW3TYUElH1yMK2gx+12BBS/cGrz6HbBRfS2crgQHJUiv4DMpy8r2aN2kuPKWUfbyImB3baBUhdtfgQVz1gXPDI/sx8Vtt/LBPWDg1j2NC8agrfqhD1cquXsLaWH3alQzF5zrLLfvrftzqfCOTvx+zOb5tQxImiLgbeiGibrc+VZbX49mjqkwJ4zB05to9HxQVD+r9PFWgZHQsvDJ8687SEeqbdduHt0MODcZxbZCEe9s8FbX/90JDfHXxYkBEmZMmXqhEh6H/ASM9caoqRImdJHQCF1viQIHnUfBP9KjgjZujTUbKWQyrmJc49CM69ezYYqMYsCinjeO2bj8UCJaxFRARXwZcj1w31QEFH5D1AVUDpE2YEsooB6nqgDp7EIWUhdMDFx6ih4Jvi0Pko4a1x4ZNljtholTAVEhTh0ZP7Z7OMkGjYgxKEolNxj9nMmHGEpJCiSAvUkFuILOuay2aepEMJUJN/YhiBOJQZRB1T8xCxqQyKUME45a2lHJfRkPXdFmR3oBkoYC3TevXdXq2wiIF6ior1f3W1mN6dnRAlvAX/I33ft7r5v3/vxwE0zs5u/jUsOHuEuClSd8NLft56bPT+ze9f4ioAo8VEVSJ6zQPGSRbKlBdQRb52vxCi+E+KziKpzqir8PyoA"/><path d="m540 262 18-18m-14 0h14v14"/></g>
+</svg>
