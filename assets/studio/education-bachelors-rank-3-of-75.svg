@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="590" height="285" viewBox="0 0 590 285" role="img" aria-labelledby="title description">
+  <title id="title">B.E. in Computer Science</title><style>
+  :root { --surface:#ebf2fb; --accent:#315c8d; --ink:#10213b; --edge:#315c8d42; }
+  @media (prefers-color-scheme: dark) { :root { --surface:#1c2d40; --accent:#a9caed; --ink:#f6f8fc; --edge:#a9caed55; } }
+  .card-surface { fill:var(--surface); stroke:var(--edge); }
+  .card-kicker, .card-footer { fill:var(--accent); }
+</style>
+  <desc id="description">Northwestern Polytechnical University, Xi’an, China. B.E. in Computer Science, 2020 to 2024. Rank 3 of 75 (Top 5%), GPA 85 out of 100, Outstanding Graduate, Presidential Scholarship.</desc>
+  <rect class="card-surface" x="1" y="1" width="588" height="283" rx="10"/>
+  <g fill="var(--ink)" font-family="Cascadia Mono, SFMono-Regular, Consolas, Liberation Mono, monospace">
+    <text class="card-kicker" x="26" y="37" font-family="Cascadia Mono, SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="15">2020–2024 / XI’AN, CHINA</text>
+    <text x="26" y="94" font-size="29" font-weight="bold">B.E. in Computer Science</text>
+    <text x="26" y="132" font-size="20">Northwestern Polytechnical University</text>
+    <text x="26" y="159" font-size="20">Rank 3/75</text><text x="180" y="159" font-size="20">GPA 85/100</text><text x="350" y="159" font-size="20">Top 5%</text>
+    <text x="26" y="186" font-size="17">Outstanding Graduate · Presidential Scholarship</text>
+    <text class="card-footer" x="26" y="257" font-family="Cascadia Mono, SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="14">NORTHWESTERN POLYTECHNICAL UNIVERSITY</text>
+  </g>
+  <path d="M26 226h538" stroke="var(--accent)" stroke-opacity=".55"/>
+  <g fill="none" stroke="var(--accent)" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"><g transform="translate(145 28) scale(.8)"><rect x="442" y="101" width="88" height="55" rx="5"/><path d="m458 117 11 11-11 11m19 0h20"/></g><path d="m540 262 18-18m-14 0h14v14"/></g>
+</svg>

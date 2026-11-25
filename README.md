@@ -70,7 +70,7 @@
 
 <div align="center">
   <a href="https://en.nwpu.edu.cn/"><img src="assets/studio/education-masters-uniform.svg" width="420" alt="Northwestern Polytechnical University, Xi’an, China. M.E. in Software Engineering, 2024 to 2027. Rank 2 of 87 (Top 5%), GPA 88 out of 100, Chinese Government Scholarship." /></a>
-  <a href="https://en.nwpu.edu.cn/"><img src="assets/studio/education-bachelors-percentile.svg" width="420" alt="Northwestern Polytechnical University, Xi’an, China. B.E. in Computer Science, 2020 to 2024. Rank 5 of 56 (Top 5%), GPA 85 out of 100, Outstanding Graduate, Presidential Scholarship." /></a>
+  <a href="https://en.nwpu.edu.cn/"><img src="assets/studio/education-bachelors-rank-3-of-75.svg" width="420" alt="Northwestern Polytechnical University, Xi’an, China. B.E. in Computer Science, 2020 to 2024. Rank 3 of 75 (Top 5%), GPA 85 out of 100, Outstanding Graduate, Presidential Scholarship." /></a>
 </div>
 
 ---
