@@ -29,20 +29,20 @@
 
 <div align="center">
   <picture>
-    <source media="(max-width: 1000px)" srcset="assets/studio/tech-groups-narrow.svg" />
-    <img src="assets/studio/tech-groups-wide.svg" alt="Systems &amp; Inference: Mooncake, SGLang, vLLM, KV Cache, PD Disaggregation, RDMA, C++, CUDA C++; Performance: Triton, GEMM Optimization, FP8/FP4, Nsight Systems, Nsight Compute; ML &amp; Distributed: PyTorch, Distributed Training, Docker, Kubernetes, Linux; Multimodal &amp; Fundamentals: Diffusion/DiT, Hugging Face Transformers, OpenCV, Python, Bash, SQL, Data Structures &amp; Algorithms" />
+    <source media="(max-width: 1000px)" srcset="assets/studio/tech-compact-narrow.svg" />
+    <img src="assets/studio/tech-compact-wide.svg" alt="Mooncake, SGLang, vLLM, KV Cache, PD Disaggregation, RDMA, C++, CUDA C++, Triton, GEMM Optimization, FP8, FP4, Nsight Systems, Nsight Compute, PyTorch, Distributed Training, Docker, Kubernetes, Linux, Diffusion, DiT, Hugging Face, Transformers, OpenCV, Python, Bash, SQL, Data Structures &amp; Algorithms" />
   </picture>
 </div>
 
 ## <samp>Research & Experience</samp>
 
 <div align="center">
-  <a href="https://github.com/SJTU-ReArch-Group"><img src="assets/studio/theme-info-rearch.svg" width="420" alt="SJTU ReArch Lab, Research Intern. I develop CUDA and Triton inference kernels and work on FP8 and FP4 KV-cache compression." /></a>
-  <a href="https://approaching-ai.com/en/"><img src="assets/studio/theme-info-approaching.svg" width="420" alt="Approaching.AI, Distributed Inference R&amp;D Intern. I work on Mooncake and agent RL, in collaboration with Tsinghua MADSys." /></a>
+  <a href="https://github.com/SJTU-ReArch-Group"><img src="assets/studio/info-mark-rearch.svg" width="420" alt="SJTU ReArch Lab, Research Intern. I develop CUDA and Triton inference kernels and work on FP8 and FP4 KV-cache compression." /></a>
+  <a href="https://approaching-ai.com/en/"><img src="assets/studio/info-mark-approaching.svg" width="420" alt="Approaching.AI, Distributed Inference R&amp;D Intern. I work on Mooncake and agent RL, in collaboration with Tsinghua MADSys." /></a>
 </div>
 
 <div align="center">
-  <a href="https://infix.io/"><img src="assets/studio/theme-info-infix-logo.svg" width="420" alt="InfiX.ai, Technical Staff, Shenzhen, April to June 2026. Worked on SGLang inference and three-tier KV-cache offloading over Mooncake RDMA." /></a>
+  <a href="https://infix.io/"><img src="assets/studio/info-mark-infix.svg" width="420" alt="InfiX.ai, Technical Staff, Shenzhen, April to June 2026. Worked on SGLang inference and three-tier KV-cache offloading over Mooncake RDMA." /></a>
   <a href="https://en.nwpu.edu.cn/"><img src="assets/studio/theme-info-nwpu-service.svg" width="420" alt="NWPU Awards and Service. Wu Yajun Scholarship (2024); Best Undergraduate Thesis Award (2024); NWPU AI Challenge Hackathon Winner (2023). Member, International Student Union. Academic Volunteer, School of International College. Teaching Assistant for Object-Oriented Programming and Qt Cross-Platform Framework Design and Programming." /></a>
 </div>
 
