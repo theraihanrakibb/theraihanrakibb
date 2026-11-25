@@ -29,8 +29,8 @@
 
 <div align="center">
   <picture>
-    <source media="(max-width: 1000px)" srcset="assets/studio/opt-tech-stack-narrow.svg" />
-    <img src="assets/studio/opt-tech-stack-wide.svg" alt="Python, C++, CUDA, Triton, PyTorch, SGLang, vLLM, Mooncake/RDMA, KV Cache, PD Disaggregation, FP8/FP4, Docker, Kubernetes, Linux, Nsight" />
+    <source media="(max-width: 1000px)" srcset="assets/studio/tech-groups-narrow.svg" />
+    <img src="assets/studio/tech-groups-wide.svg" alt="Systems &amp; Inference: Mooncake, SGLang, vLLM, KV Cache, PD Disaggregation, RDMA, C++, CUDA C++; Performance: Triton, GEMM Optimization, FP8/FP4, Nsight Systems, Nsight Compute; ML &amp; Distributed: PyTorch, Distributed Training, Docker, Kubernetes, Linux; Multimodal &amp; Fundamentals: Diffusion/DiT, Hugging Face Transformers, OpenCV, Python, Bash, SQL, Data Structures &amp; Algorithms" />
   </picture>
 </div>
 
