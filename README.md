@@ -30,7 +30,7 @@
 <div align="center">
   <picture>
     <source media="(max-width: 1000px)" srcset="assets/studio/tech-outline-narrow.svg" />
-    <img src="assets/studio/tech-outline-wide.svg" alt="Mooncake, SGLang, vLLM, KV Cache, PD Disaggregation, RDMA, C++, CUDA, Triton, GEMM Optimization, FP8, FP4, Nsight, PyTorch, Distributed Training, Docker, Kubernetes, Linux, Diffusion, DiT, Hugging Face, Transformers, OpenCV, Python, Bash, SQL, Data Structures, Algorithms" />
+    <img src="assets/studio/tech-balanced-wide.svg" alt="Mooncake, SGLang, vLLM, KV Cache, PD Disaggregation, RDMA, C++, CUDA, Triton, GEMM Optimization, FP8, FP4, Nsight, PyTorch, Distributed Training, Docker, Kubernetes, Linux, Diffusion, DiT, Hugging Face, Transformers, OpenCV, Python, Bash, SQL, Data Structures, Algorithms" />
   </picture>
 </div>
 
@@ -43,7 +43,7 @@
 
 <div align="center">
   <a href="https://infix.io/"><img src="assets/studio/info-mark-infix.svg" width="420" alt="InfiX.ai, Technical Staff, Shenzhen, April to June 2026. Worked on SGLang inference and three-tier KV-cache offloading over Mooncake RDMA." /></a>
-  <a href="https://en.nwpu.edu.cn/"><img src="assets/studio/nwpu-awards-service-compact.svg" width="420" alt="NWPU Awards and Service. Wu Yajun Scholarship (2024); Best Undergraduate Thesis Award (2024); NWPU AI Challenge Hackathon Winner (2023). Member, International Student Union. Academic Volunteer, School of International College. Teaching Assistant for Object-Oriented Programming and Qt Cross-Platform Framework Design and Programming." /></a>
+  <a href="https://en.nwpu.edu.cn/"><img src="assets/studio/nwpu-website-card.svg" width="420" alt="NWPU Awards and Service. Wu Yajun Scholarship (2024); Best Undergraduate Thesis Award (2024); NWPU AI Challenge Hackathon Winner (2023). Member, International Student Union. Academic Volunteer, School of International College. Teaching Assistant for Object-Oriented Programming and Qt Cross-Platform Framework Design and Programming." /></a>
 </div>
 
 <sub><samp>Collaborations</samp></sub>
